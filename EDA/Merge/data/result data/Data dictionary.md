@@ -1,0 +1,30 @@
+- Year : 월드컵 개최년도
+- Nation : 국가명 (한글)
+- Eng_Nation : 국가명 (영문)
+- Q_WR : 월드컵 개최전 3년간의 예선&친선&지역리그 평균승률
+- Q_GR : 월드컵 개최전 3년간의 예선&친선&지역리그 평균 골득실률
+- Wc_Rank : 월드컵 순위 (Target 1)
+- Wc_Point : 월드컵 승점 (Target 2)
+- Avg_Apps : 선수들의 월드컵 본선 진출 횟수의 평균
+- Avg_Age : 선수들의 나이 평균
+- Avg_Famous : Top 20 클럽에 속한 선수 수
+- F_Rank : 월드컵 개최 전년도 피파 랭킹
+- F_Point : 월드컵 개최 전년도 피파 포인트
+- F_Rd : 전년도 대비 피파 랭킹 변화량
+- F_Pd : 전년도 대비 피파 포인트 변화량 
+
+- FS_ : 선수단 피파 게임 스탯 평균
+    - FS_0 : current_rating (Over all)
+    - FS_1 : ball_control 
+    - FS_2 : dribbling
+    - FS_3 : composure
+    - FS_4 : reaction
+    - FS_5 : crossing
+    - FS_6 : acceleration
+    - FS_7 : stamina
+    - FS_8 : strength
+    - FS_9 : shot_power
+    - FS_10 : sprint_speed
+    - FS_11 : gk
+    - FS_12 : passing
+    - FS_13 : defending
