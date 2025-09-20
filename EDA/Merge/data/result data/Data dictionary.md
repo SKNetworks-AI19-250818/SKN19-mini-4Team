@@ -28,3 +28,9 @@
     - FS_11 : gk
     - FS_12 : passing
     - FS_13 : defending
+
+- ATK_INDEX : 각 팀의 해당년도 월드컵 본선에서의 공격력 관련 수치
+    - goals_z, xg_z, crosses_z, nsxg_z , fouled_z, boxtouches_z, passes_z, progpasses_z, takeons_z, progruns_z 
+
+- DEF_INDEX : 각 팀의 해당년도 월드컵 본선에서의 수비력 관련 수치
+    - fouls_z , interceptions_z , clearances_z , tackles_z , blocks_z , aerials_z 
