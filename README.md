@@ -2,13 +2,17 @@
 
 ## 👥 팀 소개
 
+<div align="center">
+    
 | 안수이 | 신지섭 | 김진 | 왕혁준 |
 | --- | --- | --- | --- |
 | <img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/3385cd38-8989-4e07-90ff-cc4295e2ff7a" /> | <img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/474d5667-6aed-4c7f-8da2-f016982c248a" /> | <img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/0ec1f133-de4e-4b3f-a6f3-5f364cbcefd4" /> | <img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/75300f98-e97e-4e00-9826-ef0b4bacbe0f" /> |
 | <div align="center">[![GitHub](https://img.shields.io/badge/GitHub-ahnsui-181717?style=flat&logo=github&logoColor=white)](https://github.com/ahnsui)</div> | <div align="center">[![GitHub](https://img.shields.io/badge/GitHub-Melonmacaron-181717?style=flat&logo=github&logoColor=white)](https://github.com/Melonmacaron)</div> | <div align="center">[![GitHub](https://img.shields.io/badge/GitHub-KIMjjjjjjjj-181717?style=flat&logo=github&logoColor=white)](https://github.com/KIMjjjjjjjj)</div> | <div align="center">[![GitHub](https://img.shields.io/badge/GitHub-vibevibe26-181717?style=flat&logo=github&logoColor=white)](https://github.com/vibevibe26)</div> |
 
----
+</div>
 
+
+---
 
 ## 🚀 프로젝트 주제
 
@@ -16,7 +20,9 @@
 
 ## ⚽ 프로젝트 배경
 
+<div align="center">
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/15034fbb-7fcd-4138-933c-f7ed9388c736" />
+</div>
 
 FIFA 월드컵은 전 세계적으로 가장 많은 관심을 받는 스포츠 경기 중 하나로, 각국의 예선 성적, FIFA 랭킹, 선수단 특성 등이 본선 성과에 어떤 영향을 주는지에 대한 분석은 팬들과 전문가 모두에게 중요한 의미를 가진다.
 
@@ -45,6 +51,43 @@ FIFA 월드컵은 전 세계적으로 가장 많은 관심을 받는 스포츠 �
 
 --- 
     
+## 📂 프로젝트 구조 
+```markdown
+Project
+│
+├─ EDA
+│   ├─ Qualifier Match
+│   │   ├─ code
+│   │   └─ data
+│   │       ├─ source data
+│   │       └─ result data
+│   ├─ FIFA Rank
+│   │   ├─ code
+│   │   └─ data
+│   │       ├─ source data
+│   │       └─ result data
+│   ├─ Player Stats
+│   │   ├─ code
+│   │   └─ data
+│   │       ├─ source data
+│   │       └─ result data
+│   ├─ Team Stats
+│   │   ├─ code
+│   │   └─ data
+│   │       ├─ source data
+│   │       └─ result data
+│   └─ Merge
+│       ├─ code
+│       └─ data
+│           ├─ source data
+│           └─ result data
+├─ Analysis
+│       ├─ code
+│       └─ data
+│           ├─ Data  dictionary.md
+│           └─ Final DF.csv
+└─ ML
+```
 
 ## 🛠️ 기술 스택
 
@@ -75,8 +118,7 @@ FIFA 월드컵은 전 세계적으로 가장 많은 관심을 받는 스포츠 �
 2002년 특정 나라의 팀적인 스탯 정보들의 형태의 데이터 프레임
 
 1. [FIFA 랭킹 데이터 1999-2025](https://inside.fifa.com/fifa-world-ranking/men?dateId=id14870)
-    - 그전 3년 피파 랭킹이나 포인트의 평균  
-    - 그전 3년 피파 포인트 평균  
+    - 그전 3년 피파 랭킹/포인트의 평균  
 2. [[친선/예선] 국제 축구 경기 결과 1872-2025](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017/data?select=results.csv)
     - 그전 3년간 골득실비
     - 그전 3년간 친선 예선전에서의 승률
