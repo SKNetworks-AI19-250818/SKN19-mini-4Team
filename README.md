@@ -1,6 +1,6 @@
 # SKN19-mini-4Team
 
-## 👥팀 소개
+## 👥 팀 소개
 
 | 안수이 | 신지섭 | 김진 | 왕혁준 |
 | --- | --- | --- | --- |
@@ -10,11 +10,11 @@
 ---
 
 
-## 🚀프로젝트 주제
+## 🚀 프로젝트 주제
 
 **2026 FIFA 월드컵 우승국 예측 및 한국 국가대표 성적 예측**
 
-## ⚽프로젝트 배경
+## ⚽ 프로젝트 배경
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/15034fbb-7fcd-4138-933c-f7ed9388c736" />
 
@@ -24,9 +24,8 @@ FIFA 월드컵은 전 세계적으로 가장 많은 관심을 받는 스포츠 �
 
 과거에는 ‘점쟁이 문어 파울’처럼 재미 위주의 우승팀 예측이 세계적인 화제가 되었지만, 오늘날에는 데이터 분석과 인공지능이 그 자리를 대체하고 있다. 따라서 이 프로젝트는 “데이터 기반의 점쟁이 문어” 역할을 수행하며, 팬들이 즐길 수 있는 흥미 요소와 학문적 의미를 동시에 제공할 수 있다.
 
----
 
-## 🎯프로젝트 목표
+## 🎯 프로젝트 목표
 **데이터 분석(EDA) 목표**
 
 1. **탐색적 분석 및 시각화**
@@ -47,9 +46,9 @@ FIFA 월드컵은 전 세계적으로 가장 많은 관심을 받는 스포츠 �
 --- 
     
 
-## 🛠️기술 스택
+## 🛠️ 기술 스택
 
-**EDA, ML**
+**EDA/ML**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![3.12.7](https://img.shields.io/badge/3.12.7-3776AB?style=flat)  
 
@@ -70,8 +69,8 @@ FIFA 월드컵은 전 세계적으로 가장 많은 관심을 받는 스포츠 �
 
 --- 
 
-## 📊EDA
-### 1. 데이터 로드
+## 📊 EDA
+### 1️⃣ 데이터 로드
 
 2002년 특정 나라의 팀적인 스탯 정보들의 형태의 데이터 프레임
 
@@ -99,7 +98,7 @@ FIFA 월드컵은 전 세계적으로 가장 많은 관심을 받는 스포츠 �
 
 ---
 
-### 2. 데이터 구조와 기초 통계 확인
+### 2️⃣ 데이터 구조와 기초 통계 확인
 
 | **Info** | **Describe** |
 | --- | --- |
@@ -107,7 +106,7 @@ FIFA 월드컵은 전 세계적으로 가장 많은 관심을 받는 스포츠 �
 
 ---
 
-### 3. 결측치 및 이상치 탐색
+### 3️⃣ 결측치 및 이상치 탐색
 
 - **FIFA 게임 선수 데이터 활용 (05, 09, 13, 17, 21년도)**
     - 원래 2002년도 데이터를 사용해야 했으나, FIFA 게임 데이터에 2002년 버전이 존재하지 않아 2002년 출전 선수들의 능력치를 2005년 데이터로 대체하였다.
@@ -117,7 +116,7 @@ FIFA 월드컵은 전 세계적으로 가장 많은 관심을 받는 스포츠 �
 
 ---
 
-### 4. 데이터 시각화를 통한 탐색
+### 4️⃣ 데이터 시각화를 통한 탐색
 **시각화 목록**
 
 | No | **분류** | **분석 지표** | **목적** |
@@ -137,40 +136,38 @@ FIFA 월드컵은 전 세계적으로 가장 많은 관심을 받는 스포츠 �
 | 13| **연도별 국가의 평균 나이/본선 진출 평균 횟수 분포** | Avg\_Age, Avg\_Apps, 연도 | 연도별 평균 나이와 본선 진출 횟수 간 관계 |
 | 14| **세대 교체 경향 분석** | 특정 연도별 평균 나이, 신규/은퇴 선수 | 세대 교체 및 선수 구성 변화 |
 
-#### 1. 예선전 & 친선전 승률과 골득실률 - 월드컵 본선 성적
+### 1. 예선전 & 친선전 승률과 골득실률 - 월드컵 본선 성적
 <img width="1489" height="590" alt="image" src="https://github.com/user-attachments/assets/b9c811d1-831f-4cf0-a5e2-af1f48fe6cb0" />
 <img width="1489" height="590" alt="image" src="https://github.com/user-attachments/assets/ce1c4733-64a6-4007-91b8-e1a98aa32daf" />
 <img width="602" height="155" alt="image" src="https://github.com/user-attachments/assets/2a39dd57-7886-4ad7-b196-165b9efc45c2" />
 
-#### 2. 클럽 계수 Top 20 클럽에 속한 선수 수 - 본선 성적
+### 2. 클럽 계수 Top 20 클럽에 속한 선수 수 - 본선 성적
 <img width="1589" height="590" alt="image" src="https://github.com/user-attachments/assets/4e1e9729-4139-4c6d-91ad-1f445fbe3577" />
 
-#### 3. FIFA 랭킹/포인트 - 월드컵 성과
+### 3. FIFA 랭킹/포인트 - 월드컵 성과
 <img width="1144" height="538" alt="image" src="https://github.com/user-attachments/assets/ef1eb503-a670-49ba-b256-6483a9b9f272" />
 
-#### 4. 선수단 나이 - 공격/수비 지표
+### 4. 선수단 나이 - 공격/수비 지표
 <img width="1158" height="539" alt="image" src="https://github.com/user-attachments/assets/ca473712-59d2-42bc-815f-8bfd2e08f5f5" />
 
-#### 5. 월드컵 경험 - 공격/수비 지표
+### 5. 월드컵 경험 - 공격/수비 지표
 <img width="1152" height="539" alt="image" src="https://github.com/user-attachments/assets/203de557-300c-4971-851b-8f8051e490ef" />
 
-#### 6. 월드컵 최종 순위 - 공격/수비 지표
+### 6. 월드컵 최종 순위 - 공격/수비 지표
 <img width="1489" height="590" alt="image" src="https://github.com/user-attachments/assets/af761803-289a-4fa8-88d9-f691efa6576c" />
 <img width="1152" height="539" alt="image" src="https://github.com/user-attachments/assets/504685fe-d14d-4f83-a18a-b31dce0b2406" />
 
-#### 7. 평균 나이와 본선 진출 평균 횟수간의 관계
+### 7. 평균 나이와 본선 진출 평균 횟수간의 관계
 <img width="843" height="578" alt="image" src="https://github.com/user-attachments/assets/5c259f97-dcd2-4d89-8a01-715f32ccf1b4" />
 
-#### 8. 준결승 진출 여부와 평균 나이/월드컵 경험의 상관관계
+### 8. 준결승 진출 여부와 평균 나이/월드컵 경험의 상관관계
 <img width="1608" height="849" alt="image" src="https://github.com/user-attachments/assets/051781d5-2ba6-40c3-b4b7-773d8ef46c70" />
 
-#### 9. 우승팀 평균 나이 - 본선 진출 평균 횟수
+### 9. 우승팀 평균 나이 - 본선 진출 평균 횟수
 <img width="1608" height="849" alt="image" src="https://github.com/user-attachments/assets/3a8cb12a-91da-4b60-8c29-96b9d1a0d8d3" />
 
-#### 10. 년도별 국가의 평균 나이/본선 진출 평균 횟수 분포
-<img width="1189" height="990" alt="image" src="https://github.com/user-attachments/assets/75f71c46-bd5b-4101-b356-aa1d4e64122b" />
-
-#### 11. 세대 교체 경향 분석
+### 10. 연도별 국가의 평균 나이/본선 진출 평균 횟수 분포
+<img width="1189" height="990" alt="image" src="https://github.com/user-attachments/assets/75f71c46-bd5b-4101-b356-aa1d4e64122b" /># 11. 세대 교체 경향 분석
 <img width="847" height="544" alt="image" src="https://github.com/user-attachments/assets/8e61f030-0fec-495e-a79a-51271e6949b5" />
 
 ---
