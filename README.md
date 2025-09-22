@@ -115,7 +115,6 @@ Project
 ## 📊 EDA
 ### 1️⃣ 데이터 로드
 
-2002년 특정 나라의 팀적인 스탯 정보들의 형태의 데이터 프레임
 
 1. [FIFA 랭킹 데이터 1999-2025](https://inside.fifa.com/fifa-world-ranking/men?dateId=id14870)
     - 그전 3년 피파 랭킹/포인트의 평균  
