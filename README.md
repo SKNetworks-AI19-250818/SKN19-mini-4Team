@@ -1,4 +1,5 @@
 # SKN19-mini-4Team
+<img width="1108" height="354" alt="image" src="https://github.com/user-attachments/assets/74bf03d4-0c0b-4646-b55a-4e751f29f3b4" />
 
 ## 🐙 점쟁이 문어
 ## 👥 팀 소개
@@ -22,7 +23,7 @@
 ## ⚽ 프로젝트 배경
 
 <div align="center">
-<img width="1108" height="354" alt="image" src="https://github.com/user-attachments/assets/74bf03d4-0c0b-4646-b55a-4e751f29f3b4" />
+<img width="500" height="361" alt="image" src="https://github.com/user-attachments/assets/4662ffdf-c3c6-4a6c-b8e4-d9b2d816fa4d" />
 
 </div>
 
@@ -58,36 +59,36 @@ FIFA 월드컵은 전 세계적으로 가장 많은 관심을 받는 스포츠 �
 Project
 │
 ├─ EDA
-│   ├─ Qualifier Match         # 예선 및 친선 데이터 EDA
+│   ├─ Qualifier Match                 # 예선 및 친선 매치 데이터 EDA
+│   │   ├─ code                
+│   │   └─ data
+│   │       ├─ source data     
+│   │       └─ result data    
+│   ├─ FIFA Rank                       # FIFA 랭킹 및 포인트 데이터 EDA
+│   │   ├─ code               
+│   │   └─ data
+│   │       ├─ source data     
+│   │       └─ result data     
+│   ├─ Player Stats                    # FC24게임 선수 스탯 데이터 EDA
 │   │   ├─ code
 │   │   └─ data
 │   │       ├─ source data
 │   │       └─ result data
-│   ├─ FIFA Rank               # FIFA 랭킹 및 포인트 데이터 EDA
+│   ├─ Team Stats                      # 월드컵 팀 성과 데이터 EDA
 │   │   ├─ code
 │   │   └─ data
 │   │       ├─ source data
 │   │       └─ result data
-│   ├─ Player Stats            #
-│   │   ├─ code
-│   │   └─ data
-│   │       ├─ source data
-│   │       └─ result data
-│   ├─ Team Stats
-│   │   ├─ code
-│   │   └─ data
-│   │       ├─ source data
-│   │       └─ result data
-│   └─ Merge
+│   └─ Merge                           # 각 result data 머지
 │       ├─ code
 │       └─ data
 │           ├─ source data
 │           └─ result data
-├─ Analysis
-│       ├─ code
+├─ Analysis                            # 시각화
+│       ├─ code                        
 │       └─ data
-│           ├─ Data  dictionary.md
-│           └─ Final DF.csv
+│           ├─ Data  dictionary.md     # 컬럼 설명
+│           └─ Final DF.csv            # 최종 데이터 파일
 └─ ML
 ```
 
