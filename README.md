@@ -53,6 +53,29 @@ FIFA 월드컵은 전 세계적으로 가장 많은 관심을 받는 스포츠 �
     - 예측 정확도 및 차이점 분석
 
 --- 
+
+## 🛠️ 기술 스택
+
+**EDA/ML**
+
+![Python](https://img.shields.io/badge/Python-3.12.7-3776AB?style=flat&logo=python&logoColor=white)  
+
+**라이브러리**
+
+![Pandas](https://img.shields.io/badge/Pandas-2.3.2-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.6-003366?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-4C72B0?style=flat&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-5.24.1-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Levenshtein](https://img.shields.io/badge/Levenshtein-3.14.1-7D3C98?style=flat&logo=python&logoColor=white)  
+
+**개발 환경 및 협업 도구**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+
+---
     
 ## 📂 프로젝트 구조 
 ```Python
@@ -91,27 +114,6 @@ Project
 │           └─ Final DF.csv            # 최종 데이터 파일
 └─ ML
 ```
-
-## 🛠️ 기술 스택
-
-**EDA/ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![3.12.7](https://img.shields.io/badge/3.12.7-3776AB?style=flat)  
-
-**라이브러리**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![2.3.2](https://img.shields.io/badge/2.3.2-150458?style=flat)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=flat&logo=plotly&logoColor=white) ![3.10.6](https://img.shields.io/badge/3.10.6-003366?style=flat)  
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white) ![0.13.2](https://img.shields.io/badge/0.13.2-4C72B0?style=flat)  
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) ![5.24.1](https://img.shields.io/badge/5.24.1-3F4F75?style=flat)  
-![Levenshtein](https://img.shields.io/badge/Levenshtein-7D3C98?style=flat&logo=python&logoColor=white) ![3.14.1](https://img.shields.io/badge/3.14.1-7D3C98?style=flat)  
-
-
-**개발 환경 및 협업 도구**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 --- 
 
@@ -180,7 +182,9 @@ Project
 ### 1. 예선전 & 친선전 승률과 골득실률 - 월드컵 본선 성적
 <img width="1489" height="590" alt="image" src="https://github.com/user-attachments/assets/b9c811d1-831f-4cf0-a5e2-af1f48fe6cb0" />
 <img width="1489" height="590" alt="image" src="https://github.com/user-attachments/assets/ce1c4733-64a6-4007-91b8-e1a98aa32daf" />
-<img width="602" height="155" alt="image" src="https://github.com/user-attachments/assets/2a39dd57-7886-4ad7-b196-165b9efc45c2" />
+<div align="center">
+<img width="650" height="200" alt="image" src="https://github.com/user-attachments/assets/2a39dd57-7886-4ad7-b196-165b9efc45c2" />
+</div>
 
 **예상**
 
@@ -226,15 +230,16 @@ FIFA 랭킹과 FIFA 포인트는 예선전과 친선전 보다도 더 넓게 국
 ### 🎈중간 결론 및 가설
 
 ```markdown
-****상관관계가****높을 것 이라고 예측했던 FIFA랭킹, 예선전 데이터는 생각보다는 월드컵 본선 성적에 큰 영향을 미치지 못하는 것으로 확인됐다. 반대로 유명 클럽의 소속선수 수는 예측보다 높은 상관관계가 있었던 것으로 확인되었다.
+1. 상관관계가 높을 것 이라고 예측했던 FIFA랭킹, 예선전 데이터는 생각보다는 월드컵 본선 성적에 큰 영향을 미치지 못하는 것으로 확인됐다. 반대로 유명 클럽의 소속선수 수는 예측보다 높은 상관관계가 있었던 것으로 확인되었다.
 
-우리 팀은 분석 결과가 예상에서 조금씩 벗어나는 부분들을 보며 보다 정확하게 월드컵 본선 성적을 예측하기 위해선 추가적인 데이터 수집이 필요하다고 판단하여 월드컵 본선 성적에 영향을 미칠 데이터들을 추가로 수집하였다.
+2. 우리 팀은 분석 결과가 예상에서 조금씩 벗어나는 부분들을 보며 보다 정확하게 월드컵 본선 성적을 예측하기 위해선 추가적인 데이터 수집이 필요하다고 판단하여 월드컵 본선 성적에 영향을 미칠 데이터들을 추가로 수집하였다.
 
-추가로 수집하여 데이터 프레임에 넣은 컬럼들은 “월드컵 본선의 공격 지표”, “월드컵 본선의 수비 지표”, “선수단 평균 나이”, “선수단 월드컵 평균 출전 횟수” 이다. 이 네개의 컬럼들 서로의 상관관계와 월드컵 본선 성적의 상관관계를 다각도에서 분석하여 월드컵 본선 성적 예측 정확도를 높이고자 하였다.
+3. 추가로 수집하여 데이터 프레임에 넣은 컬럼들은 “월드컵 본선의 공격 지표”, “월드컵 본선의 수비 지표”, “선수단 평균 나이”, “선수단 월드컵 평균 출전 횟수” 이다. 이 네개의 컬럼들 서로의 상관관계와 월드컵 본선 성적의 상관관계를 다각도에서 분석하여 월드컵 본선 성적 예측 정확도를 높이고자 하였다.
 
-월드컵 본선 성적에 축구 선수 경력이 유의미하게 영향을 끼칠 것이라고 생각하여 선수단의 평균 나이를 컬럼으로 넣었고, 월드컵이라는 큰 무대에서 뛰는 중압감에 대한 것도 본선 성적에 있어서 중요한 요인이라고 생각하여 월드컵 평균 출전 횟수의 컬럼도 넣게 되었다.
+4. 월드컵 본선 성적에 축구 선수 경력이 유의미하게 영향을 끼칠 것이라고 생각하여 선수단의 평균 나이를 컬럼으로 넣었고, 월드컵이라는 큰 무대에서 뛰는 중압감에 대한 것도 본선 성적에 있어서 중요한 요인이라고 생각하여 월드컵 평균 출전 횟수의 컬럼도 넣게 되었다.
 
-공격 지표와 수비 지표는 월드컵 본선의 경기력을 가장 직접적으로 수치화하여 보여주는 컬럼이 될 것이다.
+5. 공격 지표와 수비 지표는 월드컵 본선의 경기력을 가장 직접적으로 수치화하여 보여주는 컬럼이 될 것이다.
+
 ```
 
 ### 4. 선수단 나이 - 공격/수비 지표
@@ -256,7 +261,9 @@ FIFA 랭킹과 FIFA 포인트는 예선전과 친선전 보다도 더 넓게 국
 1. 평균 나이가 월드컵 본선의 공격, 수비 지표와 거의 상관관계가 없었다는 것과 다르게, 선수단의 월드컵 본선 평균 경험 횟수는 공격, 수비 지표와 꽤 유의미한 상관 관계를 보이고 있다.
 2. 특히 수비 관련 지표보다 공격 전반에 관련된 지표에서 더 높은 상관 관계를 보이고 있다는 점이 흥미롭다.
 
+<div align="center">
 <img width="611" height="504" alt="image" src="https://github.com/user-attachments/assets/927c6f21-e2bc-40ab-9c86-f5378fa62401" />
+</div>
 
 **분석**
 
@@ -282,11 +289,9 @@ FIFA 랭킹과 FIFA 포인트는 예선전과 친선전 보다도 더 넓게 국
 ### 🎈중간 결론 및 가설
 
 ```markdown
-가장 크게 영향을 미칠 것이라고 생각한 경기력 관련 지표가 예상보다 약한 상관관계를 보이는 것을 보며 월드컵이라는 대회의 특성에 대해 다시 생각해 볼 필요성을 느꼈다.
-
-월드컵의 16강 이상 토너먼트는 단판으로 치루어지는 방식이고 세계에서 가장 권위가 높은 축구 대회이니 만큼 세계의 이목이 집중되고 화제력도 무척 뛰어나기에 경기력이나 숫자로 나타낼 수 있는 지표도 물론 중요하지만 그 외의 부분들도 분명 크게 개입한다고 생각하였다.
-
-우리 팀은 선수단에 대해 수치로 나타낼 수 있는 자료는 이미 충분히 모았다고 판단하여 이미 모은 자료를 다양한 각도에서 다시 비교해보며 월드컵 본선이라는 무대를 재조명해보려 한다.
+1. 가장 크게 영향을 미칠 것이라고 생각한 경기력 관련 지표가 예상보다 약한 상관관계를 보이는 것을 보며 월드컵이라는 대회의 특성에 대해 다시 생각해 볼 필요성을 느꼈다.
+2. 월드컵의 16강 이상 토너먼트는 단판으로 치루어지는 방식이고 세계에서 가장 권위가 높은 축구 대회이니 만큼 세계의 이목이 집중되고 화제력도 무척 뛰어나기에 경기력이나 숫자로 나타낼 수 있는 지표도 물론 중요하지만 그 외의 부분들도 분명 크게 개입한다고 생각하였다.
+3. 우리 팀은 선수단에 대해 수치로 나타낼 수 있는 자료는 이미 충분히 모았다고 판단하여 이미 모은 자료를 다양한 각도에서 다시 비교해보며 월드컵 본선이라는 무대를 재조명해보려 한다.
 ```
 
 ### 7. 평균 나이와 본선 진출 평균 횟수간의 관계
@@ -297,18 +302,13 @@ FIFA 랭킹과 FIFA 포인트는 예선전과 친선전 보다도 더 넓게 국
 1. 상관관계: 0.26 → 1에 가까운 강한 상관관계라고 보기는 어렵지만, 완전히 무의미한 수준도 아닌 **약한 양(+)의 상관관계**로 해석할 수 있다.
 2. 선수단의 평균 나이가 높을수록 그 팀은 과거 월드컵 본선에 더 자주 진출한 경험이 있는 경향이 있다.
     
-    특히 평균 나이 29세~30세 팀은 최소 월드컵 본선 무대 경험 횟수가 0.4인 것을 확인 할 수 있다.
-    
-    나이가 많은 선수들이 포함된 팀일수록 국제 무대에서의 누적 경험치가 높다는 의미로 볼 수 있다. 
+    - 특히 평균 나이 29세~30세 팀은 최소 월드컵 본선 무대 경험 횟수가 0.4인 것을 확인 할 수 있다.
+    - 나이가 많은 선수들이 포함된 팀일수록 국제 무대에서의 누적 경험치가 높다는 의미로 볼 수 있다. 
     
 
 **가설**
 
-앞서 분석했던 평균나이와 본선 진출 평균 횟수는 경기력에 관한 것이었지 우승팀에 관한 것이 아니었기 때문에 
-
-‘우승팀의 평균나이와 본선 진출 평균 횟수는 모두 높을 것이다.’
-
-라는 가설을 세우고 다시 한번 문제에 접근해 보았다.
+앞서 분석했던 평균나이와 본선 진출 평균 횟수는 경기력에 관한 것이었지 우승팀에 관한 것이 아니었기 때문에 ‘우승팀의 평균나이와 본선 진출 평균 횟수는 모두 높을 것이다.’ 라는 가설을 세우고 다시 한번 문제에 접근해 보았다.
 
 ### 8. 준결승 진출 여부와 평균 나이/월드컵 경험의 상관관계
 <img width="1608" height="849" alt="image" src="https://github.com/user-attachments/assets/051781d5-2ba6-40c3-b4b7-773d8ef46c70" />
@@ -323,7 +323,7 @@ FIFA 랭킹과 FIFA 포인트는 예선전과 친선전 보다도 더 넓게 국
 
 **분석**
 
-1.   우승팀의 평균 나이가 나머지 팀들보다 전반적으로 낮게 분포하고 있다는 것을 알 수 있다. 이는 우승팀이 상대적으로 젊은 선수들로 구성되어 많은 활동량과 강한 체력을 바탕으로 경기를 이끌어가며 우승에 도달하게 된다고 해석할 수 있다.
+1. 우승팀의 평균 나이가 나머지 팀들보다 전반적으로 낮게 분포하고 있다는 것을 알 수 있다. 이는 우승팀이 상대적으로 젊은 선수들로 구성되어 많은 활동량과 강한 체력을 바탕으로 경기를 이끌어가며 우승에 도달하게 된다고 해석할 수 있다.
 2. 우승팀 선수들의 평균 본선 진출 경험이 나머지 팀 선수들보다 더 많음을 확인할 수 있다. 이는 우승을 위해서는 큰 무대에서 압박감을 이겨내고 경기를 운영할 수 있는 노련함이 중요하다고 해석할 수 있다.
 
 ### 10. 연도별 국가의 평균 나이/본선 진출 평균 횟수 분포
@@ -341,9 +341,8 @@ FIFA 랭킹과 FIFA 포인트는 예선전과 친선전 보다도 더 넓게 국
 
 **분석**
 
-예상대로 2018년도에 나이가 많은 선수들이 은퇴하고 2022년에 젊은 선수가 다수 투입되었다.
-
-실제 데이터에서도 2018년과 2022년을 비교했을 때, 세대교체 현상이 뚜렷하게 나타났으며, 축구라는 스포츠가 점점 더 빠르고 강도 높은 경기로 변하고 있다.
+1. 예상대로 2018년도에 나이가 많은 선수들이 은퇴하고 2022년에 젊은 선수가 다수 투입되었다.
+2. 실제 데이터에서도 2018년과 2022년을 비교했을 때, 세대교체 현상이 뚜렷하게 나타났으며, 축구라는 스포츠가 점점 더 빠르고 강도 높은 경기로 변하고 있다.
 
 ### 🎈월드컵 우승국 예측에 대한 최종 결론
 
@@ -359,10 +358,11 @@ FIFA 랭킹과 FIFA 포인트는 예선전과 친선전 보다도 더 넓게 국
 ---
 
 ### 5. 데이터 정제 및 전처리
-위 과정을 거쳐 년도별, 국가별로 정리된 최종 컬럼을 선정하였다.
-최종 데이터셋은 경기 전(사전 정보) 기반 지표와 실제 월드컵 본선 경기에서 산출된 지표를 모두 포함하여 머신러닝 학습에 활용 가능하도록 정제하였다.
-또한 선수들의 개인 스탯에 있어서 더 많은 데이터들을 가지고 학습시키기 위해 게임 FIFA에 등록된 선수들의 게임 스탯들을 수집하고 병합하여 게임 FIFA의 버전과 월드컵 년도에 맞추어 각 나라의 선수단에 맞게 각각 통합하였다.
-예) FIFA21과 2022년 월드컵의 데이터를 매칭하여 나라별로 FIFA 스탯들의 공격, 수비 관련 스탯들의 평균을 내어 할당
+- 위 과정을 거쳐 년도별, 국가별로 정리된 최종 컬럼을 선정하였다.
+- 최종 데이터셋은 경기 전(사전 정보) 기반 지표와 실제 월드컵 본선 경기에서 산출된 지표를 모두 포함하여 머신러닝 학습에 활용 가능하도록 정제하였다.
+- 또한 선수들의 개인 스탯에 있어서 더 많은 데이터들을 가지고 학습시키기 위해 게임 FIFA에 등록된 선수들의 게임 스탯들을 수집하고 병합하여 게임 FIFA의 버전과 월드컵 년도에 맞추어 각 나라의 선수단에 맞게 각각 통합하였다.
+
+    예) FIFA21과 2022년 월드컵의 데이터를 매칭하여 나라별로 FIFA 스탯들의 공격, 수비 관련 스탯들의 평균을 내어 할당
 
 **최종 컬럼**  
 ```markdown
