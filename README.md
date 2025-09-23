@@ -333,3 +333,7 @@ FIFA 랭킹과 FIFA 포인트는 예선전과 친선전 보다도 더 넓게 국
 ## 📄WBS
 <img width="1055" height="706" alt="image" src="https://github.com/user-attachments/assets/56904639-fc1b-4576-a1e0-f45d8bac1b66" />
 
+
+## 🔧Trouble Shooting
+문제 해결 방법은 [TROUBLESHOOTING.md](./TROUBLESHOOTING.md) 문서를 참고하세요.
+
