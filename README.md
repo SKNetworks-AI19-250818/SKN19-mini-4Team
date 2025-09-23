@@ -357,7 +357,7 @@ FIFA 랭킹과 FIFA 포인트는 예선전과 친선전 보다도 더 넓게 국
 
 
 <div align="center">
-    
+|---|    
 | <img height="600" alt="image" src="https://github.com/user-attachments/assets/c88bd0c3-6236-4566-866c-e5f7d8543dae" /> | <img height="600" alt="image" src="https://github.com/user-attachments/assets/1041a85c-d250-49ac-89bd-8bc1f3ea75fb" /> |
 
 </div>
