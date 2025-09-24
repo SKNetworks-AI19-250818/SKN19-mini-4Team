@@ -5,7 +5,7 @@
 ## 👥 팀 소개
 
 <div align="center">
-    
+ 
 | 안수이 | 신지섭 | 김진 | 왕혁준 |
 | --- | --- | --- | --- |
 | <img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/3385cd38-8989-4e07-90ff-cc4295e2ff7a" /> | <img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/474d5667-6aed-4c7f-8da2-f016982c248a" /> | <img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/0ec1f133-de4e-4b3f-a6f3-5f364cbcefd4" /> | <img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/75300f98-e97e-4e00-9826-ef0b4bacbe0f" /> |
@@ -383,10 +383,10 @@ FIFA 랭킹과 FIFA 포인트는 예선전과 친선전 보다도 더 넓게 국
 - Avg_Apps : 선수들의 월드컵 본선 진출 횟수의 평균
 - Avg_Age : 선수들의 나이 평균
 - Avg_Famous : Top 20 클럽에 속한 선수 수
-- F_Rank : 월드컵 개최 전년도 피파 랭킹
-- F_Point : 월드컵 개최 전년도 피파 포인트
-- F_Rd : 전년도 대비 피파 랭킹 변화량
-- F_Pd : 전년도 대비 피파 포인트 변화량 
+- F_Rank : 월드컵 개최전 3년간의 피파 랭킹 평균
+- F_Point : 월드컵 개최전 3년간의 피파 포인트 평균
+- F_Rd : 이전 월드컵 F_Rank 대비 F_Rank 변화량
+- F_Pd : 이전 월드컵 F_Point 대비 F_Point 변화량 
 
 - FS_ : 선수단 피파 게임 스탯 평균
     - FS_0 : current_rating (Over all)
