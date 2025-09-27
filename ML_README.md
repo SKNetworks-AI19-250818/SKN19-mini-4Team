@@ -1,3 +1,20 @@
+# SKN19-mini-4Team
+<img width="1108" height="354" alt="image" src="https://github.com/user-attachments/assets/74bf03d4-0c0b-4646-b55a-4e751f29f3b4" />
+
+## 🐙 점쟁이 문어
+## 👥 팀 소개
+
+<div align="center">
+ 
+| 안수이 | 신지섭 | 김진 | 왕혁준 |
+| --- | --- | --- | --- |
+| <img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/3385cd38-8989-4e07-90ff-cc4295e2ff7a" /> | <img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/474d5667-6aed-4c7f-8da2-f016982c248a" /> | <img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/0ec1f133-de4e-4b3f-a6f3-5f364cbcefd4" /> | <img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/75300f98-e97e-4e00-9826-ef0b4bacbe0f" /> |
+| <div align="center">[![GitHub](https://img.shields.io/badge/GitHub-ahnsui-181717?style=flat&logo=github&logoColor=white)](https://github.com/ahnsui)</div> | <div align="center">[![GitHub](https://img.shields.io/badge/GitHub-Melonmacaron-181717?style=flat&logo=github&logoColor=white)](https://github.com/Melonmacaron)</div> | <div align="center">[![GitHub](https://img.shields.io/badge/GitHub-KIMjjjjjjjj-181717?style=flat&logo=github&logoColor=white)](https://github.com/KIMjjjjjjjj)</div> | <div align="center">[![GitHub](https://img.shields.io/badge/GitHub-vibevibe26-181717?style=flat&logo=github&logoColor=white)](https://github.com/vibevibe26)</div> |
+
+</div>
+
+---
+
 ## 📊 1차 모델 테스트 및 평가 - 순위 예측
 
 **1. EDA 완료 데이터 셋(Final DF.csv)을 사용하여 전체 순위 예측**
@@ -6,6 +23,7 @@
    - **설정**: **`test_size=0.1`**
    - **성능**: 스코어 **0.2 ~ 0.7** (편차 큼), 3개의 모델 모두 **유사한 성능**
    - **해석**: 데이터 부족 & 월드컵은 변수가 많기 때문에 선형 모델 사용에 한계 존재
+
 
 ## 🔧 1차 성능 개선
 
@@ -36,6 +54,8 @@
     - **모델 성능**
         - **Accuracy**: 약 **0.53**로 안정적
         - 기대했던 만큼의 성능 향상 X
+          
+---
 
 ## 📊 2차 모델 테스트 및 평가 - **매치 예측**
 
@@ -50,6 +70,7 @@
     - 홈팀에서 어웨이팀의 특징을 빼서 특징의 총 갯수를 줄인 뒤 분류
     - **Decision Stump활용: max_depth 1**
     - **Accuracy: 0.592**로 향상
+
 
 ## 🔧 2차 성능 개선
 
@@ -80,6 +101,7 @@
         
 2. **월드컵 출전국들의 선수 명단을 게임 FIFA스탯을 기준으로 실제 월드컵 명단처럼 26명으로 구성 후 시뮬레이션을 진행**
      
+---
 
 ## 💡 시도한 아이디어
 
@@ -101,6 +123,8 @@
     - **팀(국가) 단위 예측**
       - 각 국가별 승부차기 관련 스탯 Top7 선수 선발
       - 7명 선수 스탯 평균화 → 팀 단위 특성으로 변환
+
+---
 
 ## 🏆 최종 모델
 
@@ -127,9 +151,8 @@
 | F_Rank (피파 랭킹) | 0.054032 |
 | home_rate (상대 전적) | 0.052756 |
 
----
 
-1. **2026년 FIFA 월드컵 출전 예상 48개국 선정**
+### 1. **2026년 FIFA 월드컵 출전 예상 48개국 선정**
    
    | 국가 | 출전 횟수 | 국가 | 출전 횟수 | 국가 | 출전 횟수 |
    | --- | --- | --- | --- | --- | --- |
@@ -152,8 +175,9 @@
 - 출전 횟수 & 피파 랭킹으로 선정
 - *미국, *멕시코, *캐나다 : 출전국 자격으로 1시드 배정
 
-2. **시드**
-    
+
+### 2. **시드**
+
     | 1시드 | 2시드 | 3시드 | 4시드 |
     | --- | --- | --- | --- |
     | 미국 | 이탈리아 | 에콰도르 | 나이지리아 |
@@ -172,7 +196,7 @@
 - *미국, *멕시코, *캐나다 : 출전국 자격으로 1시드 배정
 
 
-3. **조별리그**
+### 3. **조별리그**
     - 조별리그 승점 방식
       - 승리 : 3점
       - 무승부 : 1점
@@ -183,18 +207,20 @@
    <img width="500" alt="화면 캡처 2025-09-28 035717" src="https://github.com/user-attachments/assets/d3759412-04a9-44a3-adfc-e52611b41f6d" />
 
 
-4. **토너먼트**
+### 4. **토너먼트**
     - 실제 2026 월드컵 토너먼트 방식을 적용하여 구현
         - 48개팀은 4개팀씩 12개조로 편성
         - 팀당 3경기를 치러 각 조 1, 2위 24개팀은 조별리그를 통과
         - +3위 중 가장 좋은 성적을 거둔 8개 팀도 토너먼트에 합류
 
+---
 
 ## 🚀 예측 결과
 <img width="1393" height="790" alt="image (1)" src="https://github.com/user-attachments/assets/bda2ecf5-27dd-4720-a78a-da34d2c32706" />
 <img width="1586" height="785" alt="image (2)" src="https://github.com/user-attachments/assets/eb714ea7-78d4-4a8f-b71a-a87395c3085c" />
 <img width="847" height="547" alt="image (3)" src="https://github.com/user-attachments/assets/16bc1c6c-ef5f-4d5d-9388-3d9ba7160081" />
 
+---
 
 ## 📄 테스트 셋
 
