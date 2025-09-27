@@ -1,0 +1,1350 @@
+,Nation,이름,소속/국가,나이,Eng_Nation,Name,Age,FS_0,FS_1,FS_2,FS_3,FS_4,FS_5,FS_6,FS_7,FS_8,FS_9,FS_10,FS_11,FS_12,FS_13,FS_14
+0,스페인,alexremiro,Real Sociedad,30.0,Spain,pabloperezrico,23.0,64.0,63.0,63.0,47.0,60.0,64.0,75.0,66.0,52.0,38.0,66.0,9.33,53.0,59.0,50.0
+1,스페인,davidraya,Arsenal,30.0,Spain,davidrayamartin,29.0,87.0,43.0,19.0,68.0,84.0,12.0,64.0,31.0,38.0,65.0,59.0,86.0,64.5,18.33,19.0
+2,스페인,unaisimon,Athletic Club,28.0,Spain,unaisimonmendibil,28.0,85.0,16.0,12.0,40.0,82.0,16.0,48.0,44.0,76.0,57.0,50.0,84.33,36.0,13.67,14.0
+3,스페인,danielcarvajal,Real Madrid,33.0,Spain,danielolmocarvajal,27.0,85.0,87.0,87.0,82.0,86.0,78.0,78.0,65.0,54.0,79.0,69.0,12.67,84.0,48.0,80.0
+4,스페인,danielvivian,Athletic Club,26.0,Spain,danielvivianmoreno,25.0,84.0,76.0,70.0,72.0,84.0,46.0,76.0,77.0,83.0,62.0,81.0,9.0,77.0,83.67,52.0
+5,스페인,deanhuijsen,Real Madrid,20.0,Spain,deandonnyhuijsen,20.0,82.0,82.0,76.0,78.0,81.0,50.0,68.0,68.0,78.0,71.0,74.0,11.33,84.0,82.0,44.0
+6,스페인,marccucurella,Chelsea,27.0,Spain,marccucurellasaseta,26.0,84.0,80.0,78.0,79.0,84.0,81.0,77.0,89.0,70.0,73.0,74.0,11.33,80.5,83.0,61.0
+7,스페인,paucubarsi,Barcelona,18.0,Spain,paucubarsiparedes,18.0,82.0,82.0,78.0,80.0,82.0,31.0,67.0,68.0,77.0,51.0,73.0,10.33,85.5,83.33,41.0
+8,스페인,pedroporro,Tottenham Hotspur,26.0,Spain,pedrobigasrigo,34.0,74.0,67.0,64.0,69.0,69.0,67.0,57.0,72.0,82.0,62.0,57.0,13.0,72.0,73.33,49.0
+9,스페인,robinlenormand,Atletico Madrid,28.0,Spain,robinlenormand,28.0,83.0,74.0,55.0,73.0,83.0,35.0,60.0,70.0,86.0,45.0,69.0,11.33,77.5,84.0,22.0
+10,스페인,aleixgarcia,Bayer Leverkusen,28.0,Spain,martivilagarcia,26.0,65.0,63.0,61.0,53.0,63.0,63.0,68.0,74.0,58.0,46.0,63.0,9.33,62.5,61.67,37.0
+11,스페인,alejandrogrimaldo,Bayer Leverkusen,30.0,Spain,alejandrogarciaoyon,22.0,62.0,66.0,67.0,50.0,58.0,45.0,74.0,52.0,37.0,64.0,72.0,10.33,58.0,19.33,63.0
+12,스페인,daniolmo,Barcelona,27.0,Spain,adrianlisolahoz,20.0,69.0,66.0,75.0,60.0,53.0,69.0,80.0,73.0,75.0,72.0,80.0,6.33,57.5,30.33,68.0
+13,스페인,fabianruiz,Paris Saint-Germain,29.0,Spain,fabianruizpena,29.0,85.0,86.0,82.0,82.0,85.0,72.0,61.0,84.0,67.0,78.0,61.0,14.0,84.0,75.0,76.0
+14,스페인,ferminlopez,Barcelona,22.0,Spain,ferminlopezmarin,22.0,80.0,82.0,82.0,78.0,76.0,64.0,76.0,71.0,44.0,70.0,73.0,7.33,79.5,59.0,79.0
+15,스페인,gavi,Barcelona,21.0,Spain,yoellagoamil,21.0,72.0,65.0,48.0,68.0,71.0,49.0,56.0,64.0,75.0,38.0,66.0,7.67,65.0,72.33,25.0
+16,스페인,martinzubimendi,Arsenal,26.0,Spain,martinzubimendiibanez,26.0,83.0,83.0,77.0,83.0,84.0,70.0,67.0,85.0,67.0,65.0,66.0,11.33,83.0,80.67,69.0
+17,스페인,mikelmerino,Arsenal,29.0,Spain,mikelmerinozazon,29.0,83.0,84.0,82.0,81.0,84.0,77.0,64.0,82.0,78.0,85.0,63.0,12.0,82.0,78.67,80.0
+18,스페인,pedri,Barcelona,22.0,Spain,miguelberry,27.0,64.0,63.0,66.0,60.0,64.0,32.0,68.0,63.0,77.0,70.0,69.0,12.67,48.0,23.0,61.0
+19,스페인,rodri,Manchester City,29.0,Spain,marcguiupaz,19.0,71.0,70.0,68.0,70.0,70.0,45.0,73.0,66.0,76.0,75.0,78.0,9.67,55.0,31.33,73.0
+20,스페인,yeremipino,Crystal Palace,22.0,Spain,peremillapena,32.0,71.0,72.0,72.0,65.0,70.0,72.0,70.0,79.0,63.0,75.0,73.0,12.67,69.5,44.33,70.0
+21,스페인,alvaromorata,Como,32.0,Spain,alvaromedranjust,31.0,77.0,79.0,75.0,80.0,76.0,77.0,56.0,78.0,77.0,75.0,59.0,11.67,81.0,62.33,67.0
+22,스페인,ferrantorres,Barcelona,25.0,Spain,ferrantorresgarcia,25.0,83.0,83.0,84.0,82.0,81.0,81.0,86.0,72.0,69.0,79.0,80.0,13.0,79.5,29.0,84.0
+23,스페인,jesusrodriguez,Como,19.0,Spain,jeserodriguezruiz,32.0,68.0,70.0,71.0,69.0,60.0,62.0,70.0,66.0,70.0,75.0,70.0,13.67,66.0,17.33,69.0
+24,스페인,jorgedefrutos,Rayo Vallecano,28.0,Spain,jordialbaramos,36.0,78.0,80.0,79.0,78.0,76.0,79.0,84.0,84.0,58.0,64.0,81.0,10.67,79.5,69.0,73.0
+25,스페인,lamineyamal,Barcelona,18.0,Spain,yoellagoamil,21.0,72.0,65.0,48.0,68.0,71.0,49.0,56.0,64.0,75.0,38.0,66.0,7.67,65.0,72.33,25.0
+26,스페인,mikeloyarzabal,Real Sociedad,28.0,Spain,mikeloyarzabalugarte,28.0,82.0,84.0,83.0,83.0,82.0,80.0,78.0,79.0,57.0,84.0,76.0,11.33,79.5,39.0,83.0
+27,스페인,nicowilliams,Athletic Club,23.0,Spain,oscargiloses,30.0,66.0,63.0,57.0,64.0,62.0,48.0,51.0,72.0,68.0,55.0,52.0,7.67,64.5,65.33,46.0
+28,프랑스,bricesamba,Rennes,31.0,France,bricemaubleu,35.0,70.0,14.0,19.0,44.0,67.0,12.0,40.0,25.0,62.0,50.0,39.0,70.0,35.5,10.33,13.0
+29,프랑스,lucaschevalier,Paris Saint-Germain,23.0,France,lucaschevalier,23.0,83.0,17.0,14.0,45.0,80.0,12.0,52.0,41.0,53.0,55.0,46.0,83.33,36.0,10.33,9.0
+30,프랑스,mikemaignan,Milan,30.0,France,aminenaifi,25.0,62.0,67.0,68.0,56.0,58.0,58.0,80.0,55.0,49.0,65.0,80.0,8.33,58.0,31.33,64.0
+31,프랑스,benjaminpavard,Marseille,29.0,France,benjaminpavard,29.0,84.0,79.0,71.0,83.0,86.0,76.0,74.0,80.0,76.0,80.0,76.0,10.33,82.0,86.0,60.0
+32,프랑스,dayotupamecano,Bayern München,26.0,France,daoudaweidmann,22.0,64.0,67.0,64.0,62.0,62.0,55.0,72.0,70.0,56.0,67.0,60.0,12.0,67.0,55.67,45.0
+33,프랑스,ibrahimakonate,Liverpool,26.0,France,ibrahimakonate,26.0,86.0,76.0,68.0,80.0,85.0,38.0,69.0,75.0,91.0,45.0,83.0,11.0,77.5,86.67,29.0
+34,프랑스,juleskounde,Barcelona,26.0,France,julesgaudin,25.0,68.0,66.0,64.0,66.0,69.0,68.0,62.0,76.0,59.0,58.0,69.0,9.67,60.0,63.0,56.0
+35,프랑스,lucasdigne,Aston Villa,32.0,France,lucasdigne,31.0,80.0,77.0,76.0,79.0,80.0,86.0,70.0,80.0,69.0,81.0,68.0,8.33,75.5,78.0,60.0
+36,프랑스,lucashernandez,Paris Saint-Germain,29.0,France,lucasmaronnier,25.0,65.0,57.0,58.0,54.0,61.0,55.0,76.0,72.0,53.0,49.0,70.0,10.0,61.0,61.67,32.0
+37,프랑스,malogusto,Chelsea,22.0,France,malogusto,22.0,79.0,77.0,77.0,76.0,76.0,79.0,87.0,85.0,68.0,65.0,81.0,9.67,75.0,75.33,30.0
+38,프랑스,theohernandez,Al Hilal,27.0,France,theolenormand,24.0,60.0,61.0,63.0,58.0,52.0,56.0,75.0,58.0,70.0,55.0,72.0,11.33,53.0,32.67,53.0
+39,프랑스,adrienrabiot,Milan,30.0,France,adrienpinot,24.0,60.0,49.0,35.0,55.0,58.0,33.0,47.0,64.0,72.0,30.0,61.0,11.33,49.0,57.67,27.0
+40,프랑스,aurelientchouameni,Real Madrid,25.0,France,aureliendjanitchouameni,25.0,84.0,81.0,78.0,82.0,82.0,68.0,73.0,83.0,82.0,78.0,70.0,9.33,84.5,81.33,65.0
+41,프랑스,khephrenthuramulien,Juventus,24.0,France,khephrenthuramulien,24.0,81.0,83.0,81.0,82.0,79.0,72.0,76.0,81.0,79.0,79.0,80.0,9.0,81.5,79.67,77.0
+42,프랑스,kouadiokone,Roma,24.0,France,sylamine,22.0,66.0,63.0,58.0,63.0,58.0,60.0,86.0,68.0,48.0,41.0,78.0,12.33,52.0,62.33,39.0
+43,프랑스,bradleybarcola,Paris Saint-Germain,23.0,France,bradleybarcola,22.0,84.0,84.0,86.0,83.0,82.0,81.0,88.0,74.0,64.0,74.0,91.0,6.67,73.5,33.67,80.0
+44,프랑스,desiredoue,Paris Saint-Germain,20.0,France,desiredoue,20.0,85.0,89.0,91.0,89.0,85.0,74.0,85.0,80.0,77.0,86.0,82.0,9.0,77.5,54.67,78.0
+45,프랑스,hugoekitike,Liverpool,23.0,France,hugoekitike,23.0,83.0,86.0,87.0,78.0,83.0,51.0,85.0,86.0,69.0,82.0,87.0,10.0,69.5,27.33,79.0
+46,프랑스,kingsleycoman,Al Nassr FC,29.0,France,kingsleyjuniorcoman,29.0,83.0,87.0,88.0,78.0,82.0,80.0,90.0,65.0,66.0,82.0,84.0,4.33,76.5,25.67,73.0
+47,프랑스,kylianmbappe,Real Madrid,26.0,France,kelianbaruti,19.0,59.0,60.0,58.0,48.0,41.0,59.0,79.0,53.0,66.0,62.0,82.0,12.33,56.0,25.67,52.0
+48,프랑스,maghnesakliouche,Monaco,23.0,France,maghnesakliouche,23.0,80.0,84.0,84.0,81.0,78.0,76.0,75.0,77.0,58.0,66.0,74.0,7.0,77.0,47.33,72.0
+49,프랑스,marcusthuram,Inter,28.0,France,mariuslouer,18.0,58.0,55.0,53.0,43.0,52.0,51.0,63.0,59.0,66.0,45.0,66.0,13.0,45.0,57.67,25.0
+50,프랑스,michaelolise,Bayern München,23.0,France,mickaelnade,26.0,71.0,58.0,44.0,64.0,69.0,34.0,36.0,73.0,90.0,39.0,35.0,6.67,48.0,70.0,28.0
+51,프랑스,ousmanedembele,Paris Saint-Germain,28.0,France,moussadembele,28.0,70.0,70.0,65.0,71.0,68.0,50.0,64.0,67.0,82.0,73.0,69.0,8.33,58.5,23.0,68.0
+52,아르헨티나,emilianomartinez,Aston Villa,33.0,Argentina,santiagomartinez,21.0,61.0,67.0,66.0,52.0,53.0,49.0,68.0,51.0,34.0,63.0,64.0,9.67,59.5,37.0,45.0
+53,아르헨티나,geronimorulli,Marseille,33.0,Argentina,geronimorulli,33.0,82.0,15.0,14.0,61.0,79.0,12.0,56.0,42.0,73.0,60.0,52.0,82.0,43.0,15.0,15.0
+54,아르헨티나,walterbenitez,Crystal Palace,32.0,Argentina,walterdanielbenitez,32.0,79.0,20.0,19.0,62.0,76.0,12.0,38.0,40.0,80.0,54.0,35.0,79.0,27.5,18.0,14.0
+55,아르헨티나,cristianromero,Tottenham Hotspur,27.0,Argentina,cristianfrancolema,35.0,74.0,53.0,32.0,66.0,60.0,42.0,31.0,67.0,91.0,74.0,31.0,11.33,65.0,73.33,47.0
+56,아르헨티나,facundomedina,Marseille,26.0,Argentina,facundoaxelmedina,26.0,79.0,76.0,71.0,79.0,80.0,64.0,67.0,78.0,81.0,45.0,79.0,13.0,77.5,79.67,44.0
+57,아르헨티나,gonzalomontiel,River Plate,28.0,Argentina,gonzalomaroni,26.0,70.0,76.0,77.0,69.0,66.0,72.0,75.0,58.0,63.0,60.0,66.0,8.0,65.5,44.33,56.0
+58,아르헨티나,juanfoyth,Villarreal,27.0,Argentina,juanmarcosfoyth,27.0,79.0,75.0,69.0,68.0,78.0,73.0,67.0,68.0,77.0,56.0,68.0,10.33,74.0,80.0,43.0
+59,아르헨티나,juliosoler,AFC Bournemouth,20.0,Argentina,joelgodoy,20.0,59.0,54.0,22.0,39.0,54.0,47.0,62.0,61.0,58.0,37.0,64.0,12.67,51.0,56.33,16.0
+60,아르헨티나,leonardobalerdi,Marseille,26.0,Argentina,leonardorafaeljara,34.0,70.0,71.0,65.0,68.0,72.0,67.0,53.0,81.0,80.0,75.0,61.0,7.67,66.5,69.0,54.0
+61,아르헨티나,marcosacuna,River Plate,33.0,Argentina,mateoaguiar,18.0,50.0,51.0,46.0,54.0,42.0,42.0,53.0,47.0,46.0,50.0,60.0,11.0,55.5,40.67,38.0
+62,아르헨티나,nahuelmolina,Atletico Madrid,27.0,Argentina,nahuelmolinalucero,27.0,79.0,76.0,75.0,74.0,76.0,78.0,79.0,85.0,63.0,70.0,84.0,9.0,72.5,76.0,67.0
+63,아르헨티나,nicolasotamendi,Benfica,37.0,Argentina,nicolasblandi,35.0,65.0,59.0,61.0,64.0,62.0,55.0,51.0,34.0,72.0,67.0,50.0,14.33,59.0,30.0,67.0
+64,아르헨티나,nicolastagliafico,Lyon,33.0,Argentina,nicolasmeriano,24.0,69.0,47.0,49.0,52.0,57.0,35.0,59.0,72.0,75.0,42.0,59.0,8.67,59.5,71.67,42.0
+65,아르헨티나,alanvarela,FC Porto,24.0,Argentina,alanforneris,20.0,64.0,52.0,48.0,61.0,57.0,62.0,40.0,70.0,71.0,58.0,52.0,8.33,67.5,60.0,35.0
+66,아르헨티나,alexismacallister,Liverpool,26.0,Argentina,alexismacallister,26.0,87.0,86.0,84.0,86.0,89.0,79.0,68.0,87.0,69.0,88.0,64.0,10.67,87.5,78.33,79.0
+67,아르헨티나,claudioecheverri,Bayer Leverkusen,19.0,Argentina,santiagoecheverria,35.0,67.0,35.0,38.0,62.0,63.0,48.0,55.0,51.0,84.0,31.0,53.0,14.67,45.5,70.33,21.0
+68,아르헨티나,exequielpalacios,Bayer Leverkusen,26.0,Argentina,ezequielcannavo,23.0,66.0,65.0,65.0,55.0,61.0,65.0,73.0,80.0,78.0,58.0,69.0,10.67,66.5,62.0,50.0
+69,아르헨티나,giovanilocelso,Real Betis,29.0,Argentina,giovanilocelso,29.0,82.0,85.0,85.0,82.0,80.0,81.0,67.0,67.0,69.0,83.0,68.0,13.0,82.0,68.33,82.0
+70,아르헨티나,giulianosimeone,Atletico Madrid,22.0,Argentina,giulianosimeonebaldini,22.0,81.0,78.0,82.0,77.0,79.0,76.0,92.0,84.0,79.0,76.0,91.0,11.33,71.5,41.33,76.0
+71,아르헨티나,leandroparedes,Boca Juniors,31.0,Argentina,leandrodanielparedes,31.0,78.0,84.0,78.0,82.0,71.0,77.0,62.0,73.0,70.0,86.0,62.0,9.33,84.0,73.67,60.0
+72,아르헨티나,paznico,Como,21.0,Argentina,gastonsuso,34.0,72.0,52.0,45.0,64.0,68.0,47.0,42.0,85.0,82.0,59.0,54.0,6.67,59.0,73.0,45.0
+73,아르헨티나,rodrigodepaul,Inter Miami CF,31.0,Argentina,rodrigojavierdepaul,31.0,84.0,85.0,84.0,81.0,81.0,78.0,74.0,88.0,79.0,82.0,76.0,11.33,84.5,77.0,75.0
+74,아르헨티나,angelcorrea,Tigres,30.0,Argentina,danielbarrea,23.0,68.0,66.0,67.0,61.0,64.0,67.0,75.0,75.0,75.0,70.0,85.0,10.67,55.0,29.33,67.0
+75,아르헨티나,francomastantuono,Real Madrid,18.0,Argentina,francomastantuono,17.0,77.0,80.0,81.0,78.0,74.0,73.0,78.0,72.0,58.0,72.0,71.0,7.33,74.5,49.67,70.0
+76,아르헨티나,joselopez,Palmeiras,24.0,Argentina,joelgodoy,20.0,59.0,54.0,22.0,39.0,54.0,47.0,62.0,61.0,58.0,37.0,64.0,12.67,51.0,56.33,16.0
+77,아르헨티나,julianalvarez,Atletico Madrid,25.0,Argentina,julianalvarez,25.0,87.0,88.0,87.0,86.0,88.0,77.0,86.0,85.0,72.0,88.0,85.0,9.0,80.5,53.67,88.0
+78,아르헨티나,lautaromartinez,Inter,28.0,Argentina,santiagomartinez,21.0,61.0,67.0,66.0,52.0,53.0,49.0,68.0,51.0,34.0,63.0,64.0,9.67,59.5,37.0,45.0
+79,아르헨티나,lionelmessi,Inter Miami CF,38.0,Argentina,leonelbucca,26.0,69.0,73.0,76.0,65.0,64.0,56.0,76.0,79.0,78.0,63.0,77.0,7.33,67.5,65.33,64.0
+80,아르헨티나,nicolasgonzalez,Atletico Madrid,27.0,Argentina,nicolasivangonzalez,27.0,78.0,79.0,79.0,76.0,75.0,76.0,79.0,73.0,51.0,75.0,84.0,7.67,73.5,41.0,78.0
+81,아르헨티나,thiagoalmada,Atletico Madrid,24.0,Argentina,thiagosantamaria,22.0,68.0,67.0,66.0,65.0,61.0,64.0,79.0,73.0,67.0,54.0,72.0,10.33,60.5,64.33,35.0
+82,아르헨티나,valentincarboni,Genoa,20.0,Argentina,valentincarboni,20.0,72.0,75.0,75.0,70.0,75.0,68.0,60.0,42.0,46.0,73.0,62.0,11.0,74.0,44.67,70.0
+83,잉글랜드,deanhenderson,Crystal Palace,28.0,England,alexhenderson,20.0,57.0,55.0,56.0,53.0,55.0,53.0,68.0,70.0,69.0,55.0,71.0,12.0,57.5,44.0,51.0
+84,잉글랜드,jamestrafford,Manchester City,22.0,England,jamesdadge,20.0,54.0,15.0,9.0,30.0,50.0,14.0,27.0,20.0,42.0,43.0,22.0,54.0,27.0,10.0,8.0
+85,잉글랜드,jordanpickford,Everton,31.0,England,jordanleepickford,31.0,84.0,42.0,20.0,65.0,82.0,17.0,57.0,40.0,72.0,66.0,47.0,84.0,60.0,17.67,19.0
+86,잉글랜드,danielburn,Newcastle United,33.0,England,danielgore,20.0,61.0,64.0,65.0,64.0,63.0,52.0,75.0,61.0,45.0,56.0,69.0,10.0,63.5,51.67,48.0
+87,잉글랜드,djedspence,Tottenham Hotspur,25.0,England,bradspencer,29.0,60.0,58.0,48.0,43.0,60.0,39.0,67.0,61.0,54.0,52.0,63.0,8.67,62.0,56.67,32.0
+88,잉글랜드,ezrikonsa,Aston Villa,27.0,England,ezrikonsangoyo,27.0,82.0,78.0,73.0,81.0,84.0,65.0,72.0,79.0,78.0,69.0,78.0,12.0,75.0,83.33,55.0
+89,잉글랜드,jarellquansah,Bayer Leverkusen,22.0,England,jarellamorinquansah,22.0,75.0,71.0,69.0,76.0,71.0,38.0,66.0,64.0,79.0,54.0,73.0,9.0,72.5,75.0,26.0
+90,잉글랜드,johnstones,Manchester City,31.0,England,johnstones,31.0,82.0,79.0,74.0,85.0,82.0,63.0,65.0,53.0,78.0,68.0,64.0,8.33,80.5,84.33,54.0
+91,잉글랜드,marcguehi,Crystal Palace,25.0,England,markhelm,23.0,62.0,64.0,66.0,64.0,62.0,57.0,71.0,72.0,56.0,61.0,70.0,11.0,61.0,52.67,60.0
+92,잉글랜드,myleslewisskelly,Arsenal,19.0,England,mylesanthonylewisskelly,18.0,78.0,77.0,77.0,79.0,77.0,73.0,77.0,75.0,79.0,69.0,76.0,10.67,76.5,75.33,55.0
+93,잉글랜드,reecejames,Chelsea,25.0,England,reecejames,31.0,66.0,63.0,60.0,62.0,63.0,64.0,73.0,70.0,61.0,61.0,67.0,8.0,59.0,63.67,44.0
+94,잉글랜드,reecejames,Chelsea,25.0,England,trevohthomaschalobah,25.0,79.0,74.0,70.0,78.0,78.0,62.0,64.0,67.0,83.0,65.0,68.0,7.0,76.0,79.33,46.0
+95,잉글랜드,trevohchalobah,Chelsea,26.0,England,valentinofranciscolivramento,22.0,80.0,78.0,79.0,79.0,78.0,79.0,80.0,80.0,71.0,61.0,84.0,12.0,69.5,78.33,49.0
+96,잉글랜드,valentinolivramento,Newcastle United,22.0,England,declanrice,26.0,87.0,84.0,82.0,86.0,85.0,88.0,71.0,92.0,78.0,87.0,73.0,7.33,86.0,84.0,64.0
+97,잉글랜드,declanrice,Arsenal,26.0,England,georgebirch,18.0,52.0,50.0,51.0,51.0,51.0,48.0,74.0,48.0,32.0,48.0,70.0,10.0,49.0,38.67,46.0
+98,잉글랜드,ezeeberechi,Arsenal,27.0,England,alexhenderson,20.0,57.0,55.0,56.0,53.0,55.0,53.0,68.0,70.0,69.0,55.0,71.0,12.0,57.5,44.0,51.0
+99,잉글랜드,elliotanderson,Nottingham Forest,22.0,England,jordanbrianhenderson,35.0,79.0,78.0,74.0,78.0,79.0,81.0,62.0,77.0,77.0,77.0,67.0,9.67,82.0,75.67,69.0
+100,잉글랜드,jordanhenderson,Brentford,35.0,England,morgananthonygibbswhite,25.0,82.0,85.0,83.0,84.0,82.0,80.0,76.0,80.0,68.0,79.0,75.0,11.0,83.5,59.0,77.0
+101,잉글랜드,morgangibbswhite,Nottingham Forest,25.0,England,rubeniraloftuscheek,29.0,80.0,83.0,81.0,82.0,79.0,75.0,78.0,72.0,85.0,82.0,84.0,13.0,82.0,73.67,76.0
+102,잉글랜드,rubenloftuscheek,Milan,29.0,England,anthonypatterson,25.0,73.0,24.0,20.0,36.0,68.0,16.0,29.0,30.0,58.0,54.0,32.0,72.67,52.5,15.67,12.0
+103,잉글랜드,anthonygordon,Newcastle United,24.0,England,harrywood,22.0,60.0,63.0,61.0,60.0,55.0,59.0,66.0,63.0,60.0,55.0,63.0,13.0,62.0,51.67,57.0
+104,잉글랜드,harrykane,Bayern München,32.0,England,jarrodbowen,28.0,83.0,82.0,82.0,80.0,84.0,80.0,78.0,83.0,66.0,80.0,74.0,10.33,76.5,42.33,84.0
+105,잉글랜드,jarrodbowen,West Ham United,28.0,England,marcusrashford,27.0,80.0,80.0,83.0,76.0,77.0,78.0,87.0,64.0,65.0,93.0,87.0,10.67,75.0,27.67,79.0
+106,잉글랜드,marcusrashford,Barcelona,27.0,England,marcroberts,34.0,66.0,56.0,33.0,52.0,62.0,23.0,40.0,66.0,79.0,33.0,42.0,12.33,57.0,64.0,21.0
+107,잉글랜드,morganrogers,Aston Villa,23.0,England,colemcghee,19.0,54.0,34.0,37.0,44.0,52.0,23.0,42.0,62.0,70.0,35.0,45.0,5.33,46.5,56.0,25.0
+108,잉글랜드,nonimadueke,Arsenal,23.0,England,olliewright,22.0,56.0,16.0,13.0,30.0,53.0,9.0,29.0,17.0,55.0,41.0,28.0,56.0,19.0,9.0,6.0
+109,포르투갈,olliewatkins,Aston Villa,29.0,Portugal,diogosaramalho,26.0,64.0,66.0,62.0,60.0,59.0,52.0,62.0,70.0,63.0,65.0,66.0,9.0,66.0,50.67,63.0
+110,포르투갈,diogocosta,FC Porto,26.0,Portugal,luismariagomes,21.0,61.0,69.0,68.0,55.0,62.0,40.0,65.0,49.0,32.0,51.0,64.0,8.0,60.0,32.33,51.0
+111,포르투갈,sajose,Wolverhampton Wanderers,32.0,Portugal,luismariagomes,21.0,61.0,69.0,68.0,55.0,62.0,40.0,65.0,49.0,32.0,51.0,64.0,8.0,60.0,32.33,51.0
+112,포르투갈,ruisilva,Sporting CP,31.0,Portugal,anthonylopes,34.0,76.0,21.0,15.0,65.0,75.0,19.0,65.0,36.0,73.0,49.0,64.0,77.33,31.5,13.67,18.0
+113,포르투갈,antoniosilva,Benfica,21.0,Portugal,goncalofariacosta,25.0,67.0,76.0,75.0,55.0,59.0,62.0,76.0,73.0,56.0,35.0,77.0,10.33,36.0,66.33,42.0
+114,포르투갈,goncaloinacio,Sporting CP,24.0,Portugal,yohantavares,37.0,68.0,58.0,55.0,69.0,69.0,48.0,52.0,66.0,75.0,48.0,57.0,12.0,60.5,68.0,36.0
+115,포르투갈,joaocancelo,Al Hilal,31.0,Portugal,anthonylopes,34.0,76.0,21.0,15.0,65.0,75.0,19.0,65.0,36.0,73.0,49.0,64.0,77.33,31.5,13.67,18.0
+116,포르투갈,nunomendes,Paris Saint-Germain,23.0,Portugal,yohantavares,37.0,68.0,58.0,55.0,69.0,69.0,48.0,52.0,66.0,75.0,48.0,57.0,12.0,60.5,68.0,36.0
+117,포르투갈,nunotavares,Lazio,25.0,Portugal,renatodepalmaveiga,21.0,76.0,74.0,72.0,72.0,73.0,68.0,67.0,80.0,82.0,72.0,77.0,9.33,76.0,75.67,50.0
+118,포르투갈,renatoveiga,Villarreal,22.0,Portugal,gilbastiaodias,28.0,70.0,72.0,72.0,67.0,70.0,67.0,75.0,71.0,64.0,66.0,69.0,8.33,65.0,61.67,63.0
+119,포르투갈,rubendias,Manchester City,28.0,Portugal,jairamadorsilos,35.0,68.0,55.0,31.0,59.0,58.0,33.0,56.0,78.0,89.0,41.0,66.0,11.0,50.0,64.67,22.0
+120,포르투갈,bernardosilva,Manchester City,31.0,Portugal,rogerfernandes,19.0,76.0,79.0,80.0,69.0,76.0,72.0,87.0,71.0,44.0,69.0,90.0,12.67,67.0,53.0,71.0
+121,포르투갈,brunofernandes,Manchester United,31.0,Portugal,joaofelixsequeira,25.0,79.0,81.0,82.0,84.0,79.0,76.0,79.0,70.0,60.0,81.0,75.0,13.33,75.5,43.0,76.0
+122,포르투갈,joaofelix,Al Nassr FC,25.0,Portugal,yohantavares,37.0,68.0,58.0,55.0,69.0,69.0,48.0,52.0,66.0,75.0,48.0,57.0,12.0,60.5,68.0,36.0
+123,포르투갈,joaoneves,Paris Saint-Germain,21.0,Portugal,yohantavares,37.0,68.0,58.0,55.0,69.0,69.0,48.0,52.0,66.0,75.0,48.0,57.0,12.0,60.5,68.0,36.0
+124,포르투갈,joaopalhinha,Tottenham Hotspur,30.0,Portugal,yohantavares,37.0,68.0,58.0,55.0,69.0,69.0,48.0,52.0,66.0,75.0,48.0,57.0,12.0,60.5,68.0,36.0
+125,포르투갈,rubenneves,Al Hilal,28.0,Portugal,gilbastiaodias,28.0,70.0,72.0,72.0,67.0,70.0,67.0,75.0,71.0,64.0,66.0,69.0,8.33,65.0,61.67,63.0
+126,포르투갈,vitinha,Paris Saint-Germain,25.0,Portugal,pedrolombaneto,25.0,80.0,81.0,82.0,76.0,75.0,78.0,92.0,73.0,65.0,80.0,90.0,8.0,69.5,35.0,75.0
+127,포르투갈,chicoconceicao,Juventus,22.0,Portugal,christianneivaafonso,30.0,70.0,62.0,60.0,61.0,67.0,67.0,83.0,73.0,68.0,57.0,84.0,15.0,62.5,65.67,41.0
+128,포르투갈,cristianoronaldo,Al Nassr FC,40.0,Portugal,goncalofariacosta,25.0,67.0,76.0,75.0,55.0,59.0,62.0,76.0,73.0,56.0,35.0,77.0,10.33,36.0,66.33,42.0
+129,포르투갈,goncaloramos,Paris Saint-Germain,24.0,Portugal,pedrolombaneto,25.0,80.0,81.0,82.0,76.0,75.0,78.0,92.0,73.0,65.0,80.0,90.0,8.0,69.5,35.0,75.0
+130,포르투갈,pedrogoncalves,Sporting CP,27.0,Portugal,pedrolombaneto,25.0,80.0,81.0,82.0,76.0,75.0,78.0,92.0,73.0,65.0,80.0,90.0,8.0,69.5,35.0,75.0
+131,포르투갈,pedroneto,Chelsea,25.0,Portugal,anthonylopes,34.0,76.0,21.0,15.0,65.0,75.0,19.0,65.0,36.0,73.0,49.0,64.0,77.33,31.5,13.67,18.0
+132,브라질,trincao,Sporting CP,25.0,Brazil,alissonramsesbecker,32.0,89.0,42.0,27.0,66.0,87.0,17.0,60.0,32.0,78.0,65.0,49.0,88.33,59.0,16.67,13.0
+133,브라질,alissonbecker,Liverpool,32.0,Brazil,bentomatheuskrepski,26.0,80.0,16.0,9.0,30.0,77.0,11.0,39.0,19.0,58.0,58.0,40.0,81.0,20.0,9.33,5.0
+134,브라질,bentokrepski,Al Nassr FC,26.0,Brazil,rodrigoguth,24.0,68.0,54.0,46.0,66.0,67.0,41.0,63.0,66.0,77.0,49.0,71.0,9.67,62.0,68.67,33.0
+135,브라질,hugosouza,Corinthians,26.0,Brazil,amorimalexsandro,20.0,64.0,70.0,71.0,64.0,63.0,58.0,71.0,55.0,54.0,69.0,63.0,9.67,64.5,41.0,58.0
+136,브라질,alexsandro,Flamengo,34.0,Brazil,renanribeiro,35.0,67.0,19.0,14.0,46.0,71.0,12.0,55.0,30.0,70.0,47.0,48.0,66.67,15.0,16.0,12.0
+137,브라질,alexsandroribeiro,Lille,26.0,Brazil,yanbuenocouto,23.0,77.0,86.0,83.0,65.0,75.0,81.0,85.0,77.0,51.0,65.0,72.0,9.33,78.0,71.33,61.0
+138,브라질,caiohenrique,Monaco,28.0,Brazil,douglasaurelio,26.0,67.0,68.0,67.0,65.0,63.0,61.0,77.0,72.0,66.0,68.0,79.0,12.67,61.0,46.67,68.0
+139,브라질,douglassantos,Zenit St. Petersburg,31.0,Brazil,rodrigoguth,24.0,68.0,54.0,46.0,66.0,67.0,41.0,63.0,66.0,77.0,49.0,71.0,9.67,62.0,68.67,33.0
+140,브라질,fabriciobruno,Cruzeiro,29.0,Brazil,andreialba,30.0,59.0,64.0,56.0,50.0,60.0,58.0,70.0,61.0,79.0,59.0,62.0,10.0,62.0,51.67,38.0
+141,브라질,gabriel,Arsenal,27.0,Brazil,marcelogrohe,38.0,75.0,23.0,11.0,66.0,73.0,10.0,43.0,28.0,62.0,50.0,32.0,75.0,28.5,13.67,12.0
+142,브라질,marquinhos,Paris Saint-Germain,31.0,Brazil,andreialba,30.0,59.0,64.0,56.0,50.0,60.0,58.0,70.0,61.0,79.0,59.0,62.0,10.0,62.0,51.67,38.0
+143,브라질,vanderson,Monaco,24.0,Brazil,andreialba,30.0,59.0,64.0,56.0,50.0,60.0,58.0,70.0,61.0,79.0,59.0,62.0,10.0,62.0,51.67,38.0
+144,브라질,vitinho,Botafogo RJ,26.0,Brazil,andreialba,30.0,59.0,64.0,56.0,50.0,60.0,58.0,70.0,61.0,79.0,59.0,62.0,10.0,62.0,51.67,38.0
+145,브라질,wesley,Roma,22.0,Brazil,pedroferreira,23.0,61.0,64.0,66.0,65.0,63.0,55.0,81.0,74.0,61.0,59.0,81.0,10.67,56.5,25.33,60.0
+146,브라질,andreaspereira,Palmeiras,29.0,Brazil,andreialba,30.0,59.0,64.0,56.0,50.0,60.0,58.0,70.0,61.0,79.0,59.0,62.0,10.0,62.0,51.67,38.0
+147,브라질,andreysantos,Chelsea,21.0,Brazil,alandesouzaguimaraes,25.0,74.0,75.0,77.0,71.0,70.0,57.0,79.0,80.0,31.0,63.0,74.0,9.0,73.5,49.0,67.0
+148,브라질,brunoguimaraes,Newcastle United,27.0,Brazil,lucaspossignolo,31.0,70.0,52.0,43.0,58.0,67.0,29.0,52.0,77.0,81.0,53.0,47.0,10.33,57.5,69.0,34.0
+149,브라질,carlosaugusto,Inter,26.0,Brazil,renanribeiro,35.0,67.0,19.0,14.0,46.0,71.0,12.0,55.0,30.0,70.0,47.0,48.0,66.67,15.0,16.0,12.0
+150,브라질,casemiro,Manchester United,33.0,Brazil,renansantana,20.0,63.0,39.0,28.0,45.0,55.0,33.0,56.0,59.0,72.0,42.0,56.0,11.0,38.0,67.0,23.0
+151,브라질,jeanlucas,Bahia,27.0,Brazil,rodrigoguth,24.0,68.0,54.0,46.0,66.0,67.0,41.0,63.0,66.0,77.0,49.0,71.0,9.67,62.0,68.67,33.0
+152,브라질,joelinton,Newcastle United,29.0,Brazil,lucaspiressilva,24.0,74.0,73.0,72.0,68.0,71.0,71.0,81.0,76.0,73.0,68.0,78.0,10.0,67.0,70.33,41.0
+153,브라질,lucaspaqueta,West Ham United,28.0,Brazil,samuelportugallima,31.0,70.0,26.0,15.0,52.0,65.0,19.0,40.0,33.0,68.0,55.0,39.0,70.67,30.5,13.33,14.0
+154,브라질,samueldiaslino,Flamengo,25.0,Brazil,andreialba,30.0,59.0,64.0,56.0,50.0,60.0,58.0,70.0,61.0,79.0,59.0,62.0,10.0,62.0,51.67,38.0
+155,브라질,estevao,Chelsea,18.0,Brazil,gabrielmaiolidasilva,22.0,65.0,62.0,67.0,55.0,59.0,54.0,75.0,60.0,54.0,56.0,73.0,9.67,64.0,35.0,65.0
+156,브라질,gabrielmartinelli,Arsenal,24.0,Brazil,joaopaulomior,34.0,70.0,71.0,69.0,76.0,69.0,71.0,64.0,64.0,73.0,72.0,51.0,12.67,70.5,68.67,60.0
+157,브라질,joaopedro,Chelsea,24.0,Brazil,marcelogrohe,38.0,75.0,23.0,11.0,66.0,73.0,10.0,43.0,28.0,62.0,50.0,32.0,75.0,28.5,13.67,12.0
+158,브라질,kaiojorge,Cruzeiro,23.0,Brazil,luccamendonca,17.0,54.0,48.0,43.0,46.0,53.0,40.0,59.0,55.0,67.0,42.0,64.0,11.0,48.0,52.0,26.0
+159,브라질,luizhenrique,Zenit St. Petersburg,24.0,Brazil,andreialba,30.0,59.0,64.0,56.0,50.0,60.0,58.0,70.0,61.0,79.0,59.0,62.0,10.0,62.0,51.67,38.0
+160,브라질,raphinha,Barcelona,28.0,Brazil,renanribeiro,35.0,67.0,19.0,14.0,46.0,71.0,12.0,55.0,30.0,70.0,47.0,48.0,66.67,15.0,16.0,12.0
+161,네덜란드,richarlison,Tottenham Hotspur,28.0,Netherlands,bartverbruggen,22.0,78.0,23.0,15.0,35.0,76.0,10.0,57.0,30.0,72.0,57.0,55.0,78.33,37.5,14.33,8.0
+162,네덜란드,bartverbruggen,Brighton & Hove Albion,23.0,Netherlands,markflekken,32.0,78.0,34.0,12.0,62.0,74.0,14.0,29.0,28.0,72.0,60.0,36.0,78.33,55.0,16.0,16.0
+163,네덜란드,markflekken,Bayer Leverkusen,32.0,Netherlands,robinroefs,22.0,74.0,16.0,10.0,31.0,72.0,11.0,29.0,23.0,64.0,51.0,33.0,74.0,17.5,11.33,5.0
+164,네덜란드,robinroefs,Sunderland,22.0,Netherlands,janpaulvanhecke,25.0,80.0,73.0,70.0,78.0,79.0,50.0,66.0,70.0,79.0,70.0,68.0,7.67,80.0,81.0,35.0
+165,네덜란드,janpaulvanhecke,Brighton & Hove Albion,25.0,Netherlands,joriskramer,28.0,72.0,60.0,45.0,54.0,65.0,27.0,48.0,72.0,78.0,58.0,74.0,9.67,61.0,71.67,27.0
+166,네덜란드,jurrientimber,Arsenal,24.0,Netherlands,matthijsdeligt,25.0,82.0,72.0,65.0,80.0,81.0,52.0,54.0,64.0,91.0,84.0,68.0,11.33,75.0,81.0,50.0
+167,네덜란드,matthijsdeligt,Manchester United,26.0,Netherlands,mickyvandeven,24.0,82.0,75.0,73.0,81.0,82.0,58.0,84.0,69.0,85.0,59.0,95.0,8.33,75.0,83.33,43.0
+168,네덜란드,mickyvandeven,Tottenham Hotspur,24.0,Netherlands,kaytejan,28.0,65.0,69.0,67.0,61.0,58.0,65.0,67.0,71.0,93.0,67.0,71.0,11.0,56.0,24.67,65.0
+169,네덜란드,akenathan,Manchester City,30.0,Netherlands,stefandevrij,33.0,84.0,74.0,66.0,85.0,85.0,49.0,63.0,70.0,74.0,65.0,61.0,11.67,78.5,85.67,25.0
+170,네덜란드,stefandevrij,Inter,33.0,Netherlands,virgilvandijk,33.0,90.0,77.0,70.0,90.0,90.0,53.0,66.0,75.0,93.0,81.0,78.0,11.67,81.5,89.67,52.0
+171,네덜란드,virgilvandijk,Liverpool,34.0,Netherlands,wesseldammers,30.0,71.0,67.0,58.0,67.0,66.0,39.0,62.0,83.0,76.0,70.0,53.0,13.67,67.0,70.33,53.0
+172,네덜란드,denzeldumfries,Inter,29.0,Netherlands,frenkiedejong,28.0,87.0,88.0,86.0,90.0,87.0,78.0,80.0,87.0,73.0,68.0,83.0,8.67,88.5,77.0,75.0
+173,네덜란드,frenkiedejong,Barcelona,28.0,Netherlands,lewisschouten,21.0,62.0,67.0,58.0,52.0,57.0,44.0,64.0,60.0,71.0,57.0,72.0,11.33,65.0,60.0,44.0
+174,네덜란드,jerdyschouten,PSV Eindhoven,28.0,Netherlands,justindeankluivert,26.0,79.0,80.0,82.0,72.0,78.0,77.0,89.0,76.0,53.0,84.0,86.0,8.0,76.0,36.0,75.0
+175,네덜란드,justinkluivert,AFC Bournemouth,26.0,Netherlands,stijnpetiet,21.0,55.0,13.0,8.0,29.0,47.0,12.0,31.0,19.0,63.0,38.0,21.0,55.33,15.5,11.0,5.0
+176,네덜란드,quintentimber,Feyenoord,24.0,Netherlands,ryanjirogravenberch,23.0,85.0,87.0,88.0,88.0,84.0,74.0,76.0,85.0,80.0,79.0,76.0,11.67,84.0,80.0,78.0
+177,네덜란드,ryangravenberch,Liverpool,23.0,Netherlands,semsteijn,23.0,78.0,80.0,75.0,77.0,82.0,68.0,73.0,89.0,66.0,84.0,61.0,8.33,73.0,43.0,86.0
+178,네덜란드,semsteijn,Feyenoord,23.0,Netherlands,teunkoopmeiners,27.0,81.0,83.0,76.0,81.0,82.0,79.0,71.0,83.0,71.0,82.0,70.0,12.0,84.5,74.0,76.0
+179,네덜란드,teunkoopmeiners,Juventus,27.0,Netherlands,tijjaninoslin,25.0,74.0,78.0,78.0,77.0,68.0,72.0,79.0,59.0,69.0,78.0,77.0,11.0,63.0,38.67,74.0
+180,네덜란드,tijjanireijnders,Manchester City,27.0,Netherlands,levismans,22.0,67.0,69.0,68.0,68.0,64.0,56.0,70.0,83.0,48.0,60.0,71.0,8.33,65.5,41.67,68.0
+181,네덜란드,xavisimons,Tottenham Hotspur,22.0,Netherlands,codymathesgakpo,26.0,84.0,85.0,86.0,83.0,83.0,83.0,85.0,76.0,75.0,88.0,82.0,9.67,78.0,40.33,81.0
+182,네덜란드,codygakpo,Liverpool,26.0,Netherlands,donyellmalen,26.0,79.0,81.0,83.0,79.0,78.0,72.0,89.0,69.0,66.0,84.0,84.0,10.33,69.0,32.33,79.0
+183,네덜란드,donyellmalen,Aston Villa,26.0,Netherlands,memphisdepay,31.0,81.0,84.0,85.0,80.0,81.0,77.0,78.0,74.0,82.0,85.0,80.0,10.0,76.0,24.67,82.0
+184,네덜란드,memphisdepay,Corinthians,31.0,Netherlands,tygoland,19.0,68.0,76.0,74.0,64.0,62.0,64.0,71.0,61.0,38.0,58.0,75.0,12.0,74.0,52.67,52.0
+185,네덜란드,noalang,Napoli,26.0,Netherlands,woutergoes,21.0,77.0,66.0,63.0,73.0,78.0,44.0,65.0,70.0,82.0,44.0,61.0,8.67,72.0,77.67,30.0
+186,벨기에,woutweghorst,Ajax,33.0,Belgium,maartenvandevoordt,23.0,76.0,29.0,24.0,54.0,68.0,23.0,41.0,37.0,59.0,56.0,39.0,76.33,59.0,13.0,7.0
+187,벨기에,maartenvandevoordt,RB Leipzig,23.0,Belgium,matsrits,31.0,72.0,73.0,69.0,74.0,74.0,67.0,72.0,79.0,72.0,72.0,69.0,10.67,72.0,72.33,69.0
+188,벨기에,matzsels,Nottingham Forest,33.0,Belgium,mattlendfers,19.0,55.0,18.0,14.0,29.0,44.0,13.0,48.0,27.0,65.0,40.0,46.0,58.0,24.0,10.67,7.0
+189,벨기에,mikependers,Strasbourg,20.0,Belgium,thibosomers,26.0,73.0,70.0,72.0,63.0,71.0,65.0,81.0,89.0,77.0,67.0,80.0,7.33,62.5,53.0,72.0
+190,벨기에,thibautcourtois,Real Madrid,33.0,Belgium,arthurnicolastheate,25.0,80.0,75.0,70.0,77.0,80.0,68.0,66.0,82.0,82.0,70.0,68.0,9.33,76.5,79.67,23.0
+191,벨기에,arthurtheate,Eintracht Frankfurt,25.0,Belgium,brandonmechele,32.0,76.0,59.0,49.0,78.0,68.0,42.0,46.0,80.0,80.0,63.0,51.0,12.0,72.0,79.33,38.0
+192,벨기에,brandonmechele,Club Brugge,32.0,Belgium,joaquinseys,20.0,73.0,72.0,67.0,66.0,64.0,73.0,82.0,73.0,66.0,56.0,81.0,11.33,70.0,69.0,49.0
+193,벨기에,joaquinseys,Club Brugge,20.0,Belgium,konidewinter,23.0,74.0,67.0,66.0,64.0,71.0,59.0,65.0,76.0,70.0,52.0,69.0,10.0,66.5,76.33,30.0
+194,벨기에,konidewinter,Milan,23.0,Belgium,maximdecuyper,24.0,80.0,80.0,78.0,82.0,77.0,85.0,78.0,87.0,67.0,78.0,75.0,8.67,78.5,75.67,70.0
+195,벨기에,maximdecuyper,Brighton & Hove Albion,24.0,Belgium,thomasandreameunier,33.0,76.0,72.0,75.0,74.0,73.0,80.0,60.0,78.0,84.0,80.0,66.0,7.67,71.0,74.33,70.0
+196,벨기에,thomasmeunier,Lille,34.0,Belgium,timothycastagne,29.0,76.0,75.0,71.0,68.0,75.0,76.0,67.0,78.0,66.0,65.0,68.0,13.0,72.0,74.0,56.0
+197,벨기에,timothycastagne,Fulham,29.0,Belgium,zenokoendebast,21.0,78.0,78.0,76.0,73.0,77.0,77.0,66.0,81.0,73.0,68.0,73.0,5.67,79.0,77.0,51.0
+198,벨기에,zenodebast,Sporting CP,21.0,Belgium,alexisjessesaelemaekers,26.0,79.0,81.0,81.0,74.0,79.0,80.0,83.0,77.0,54.0,64.0,77.0,11.0,73.5,68.0,68.0
+199,벨기에,alexissaelemaekers,Milan,26.0,Belgium,charlesdeketelaere,24.0,82.0,86.0,85.0,73.0,77.0,76.0,71.0,78.0,68.0,82.0,70.0,9.0,81.5,52.67,78.0
+200,벨기에,charlesdeketelaere,Atalanta,24.0,Belgium,charlesvanhoutte,26.0,77.0,74.0,71.0,71.0,77.0,76.0,62.0,85.0,75.0,70.0,50.0,9.67,77.0,73.67,63.0
+201,벨기에,charlesvanhoutte,Nice,27.0,Belgium,thibosomers,26.0,73.0,70.0,72.0,63.0,71.0,65.0,81.0,89.0,77.0,67.0,80.0,7.33,62.5,53.0,72.0
+202,벨기에,diegomoreira,Strasbourg,21.0,Belgium,hansvanaken,32.0,80.0,83.0,79.0,91.0,82.0,77.0,39.0,91.0,79.0,76.0,50.0,13.0,87.0,54.33,81.0
+203,벨기에,hansvanaken,Club Brugge,33.0,Belgium,kevindebruyne,34.0,87.0,89.0,85.0,87.0,89.0,93.0,65.0,66.0,74.0,90.0,66.0,12.67,92.5,63.33,78.0
+204,벨기에,kevindebruyne,Napoli,34.0,Belgium,nicolasthierryraskin,24.0,77.0,76.0,72.0,79.0,80.0,66.0,78.0,84.0,65.0,71.0,68.0,10.67,76.5,73.33,58.0
+205,벨기에,nicolasraskin,Rangers,24.0,Belgium,youritielemans,28.0,85.0,86.0,79.0,88.0,85.0,80.0,51.0,87.0,69.0,85.0,57.0,10.67,87.5,77.0,77.0
+206,벨기에,youritielemans,Aston Villa,28.0,Belgium,ikomaloisopenda,25.0,83.0,81.0,79.0,80.0,84.0,69.0,94.0,83.0,80.0,85.0,96.0,10.0,67.0,23.67,84.0
+207,벨기에,ikomaloisopenda,Juventus,25.0,Belgium,jeremydoku,23.0,80.0,81.0,91.0,75.0,75.0,70.0,95.0,63.0,73.0,77.0,88.0,10.67,72.5,31.67,72.0
+208,벨기에,jeremydoku,Manchester City,23.0,Belgium,leandrotrossard,30.0,83.0,84.0,84.0,84.0,82.0,79.0,87.0,76.0,55.0,83.0,75.0,9.33,79.5,26.33,83.0
+209,벨기에,leandrotrossard,Arsenal,30.0,Belgium,marcokana,22.0,65.0,69.0,64.0,67.0,61.0,64.0,66.0,63.0,70.0,38.0,65.0,10.33,66.0,61.33,23.0
+210,벨기에,malickfofana,Lyon,20.0,Belgium,michybatshuayiatunga,31.0,77.0,75.0,75.0,77.0,76.0,65.0,73.0,62.0,81.0,85.0,75.0,10.33,58.5,30.0,79.0
+211,크로아티아,michybatshuayi,Eintracht Frankfurt,31.0,Croatia,dominikkotarski,25.0,77.0,39.0,20.0,50.0,75.0,12.0,46.0,31.0,59.0,57.0,45.0,77.33,45.5,13.0,6.0
+212,크로아티아,dominikkotarski,FC København,25.0,Croatia,dominiklivakovic,30.0,80.0,28.0,19.0,64.0,81.0,13.0,57.0,32.0,75.0,53.0,54.0,81.0,55.0,21.67,12.0
+213,크로아티아,dominiklivakovic,Girona,30.0,Croatia,ivicaivusic,30.0,72.0,18.0,12.0,51.0,71.0,12.0,42.0,36.0,71.0,54.0,40.0,71.33,21.5,14.67,9.0
+214,크로아티아,ivicaivusic,Hajduk Split,30.0,Croatia,dujecaletacar,28.0,74.0,64.0,59.0,72.0,72.0,28.0,54.0,58.0,84.0,67.0,62.0,8.67,68.5,73.67,32.0
+215,크로아티아,dujecaletacar,Real Sociedad,29.0,Croatia,ivansmolcic,24.0,72.0,66.0,70.0,75.0,72.0,60.0,63.0,72.0,79.0,55.0,63.0,11.33,61.5,74.0,55.0
+216,크로아티아,ivansmolcic,Como,25.0,Croatia,josipjuranovic,29.0,75.0,73.0,73.0,73.0,74.0,80.0,84.0,67.0,61.0,78.0,75.0,12.67,72.0,72.0,57.0
+217,크로아티아,josipjuranovic,Union Berlin,30.0,Croatia,josipstanisic,25.0,78.0,73.0,68.0,66.0,76.0,72.0,68.0,71.0,75.0,52.0,77.0,10.67,67.0,80.0,44.0
+218,크로아티아,josipstanisic,Bayern München,25.0,Croatia,josipsutalo,25.0,78.0,77.0,73.0,79.0,77.0,45.0,75.0,71.0,87.0,43.0,79.0,11.0,74.5,77.33,27.0
+219,크로아티아,josipsutalo,Ajax,25.0,Croatia,joskogvardiol,23.0,84.0,80.0,78.0,81.0,85.0,73.0,77.0,81.0,80.0,81.0,79.0,8.33,78.5,84.33,68.0
+220,크로아티아,joskogvardiol,Manchester City,23.0,Croatia,marinpongracic,27.0,74.0,64.0,59.0,69.0,71.0,27.0,56.0,63.0,82.0,40.0,65.0,6.33,65.0,74.33,21.0
+221,크로아티아,marinpongracic,Fiorentina,28.0,Croatia,martinerlic,27.0,72.0,56.0,52.0,72.0,71.0,31.0,44.0,50.0,80.0,55.0,65.0,10.0,59.5,72.67,29.0
+222,크로아티아,martinerlic,FC Midtjylland,27.0,Croatia,andrejkramaric,34.0,81.0,85.0,84.0,82.0,83.0,73.0,70.0,85.0,68.0,82.0,65.0,10.0,77.5,28.67,83.0
+223,크로아티아,andrejkramaric,Hoffenheim,34.0,Croatia,bornasosa,27.0,73.0,74.0,74.0,72.0,70.0,84.0,72.0,74.0,69.0,70.0,70.0,9.0,74.0,67.33,41.0
+224,크로아티아,bornasosa,Crystal Palace,27.0,Croatia,kristijanjakic,28.0,76.0,72.0,65.0,69.0,73.0,53.0,76.0,82.0,76.0,79.0,69.0,9.67,72.0,76.67,52.0
+225,크로아티아,kristijanjakic,Augsburg,28.0,Croatia,lovromajer,27.0,78.0,84.0,83.0,78.0,78.0,79.0,76.0,84.0,65.0,76.0,65.0,6.67,80.5,60.67,71.0
+226,크로아티아,lovromajer,Wolfsburg,27.0,Croatia,lukamodric,39.0,83.0,88.0,84.0,91.0,79.0,86.0,72.0,69.0,58.0,79.0,65.0,12.0,86.5,70.67,68.0
+227,크로아티아,lukamodric,Milan,40.0,Croatia,mariopasalic,30.0,80.0,86.0,83.0,77.0,74.0,68.0,68.0,83.0,72.0,78.0,69.0,12.67,81.5,64.67,80.0
+228,크로아티아,mariopasalic,Atalanta,30.0,Croatia,martinbaturina,22.0,78.0,83.0,84.0,79.0,76.0,73.0,77.0,76.0,67.0,75.0,77.0,7.67,79.0,60.0,67.0
+229,크로아티아,martinbaturina,Como,22.0,Croatia,nikolamoro,27.0,75.0,76.0,72.0,77.0,72.0,67.0,66.0,74.0,70.0,82.0,66.0,11.0,79.0,71.0,67.0
+230,크로아티아,nikolamoro,Bologna,27.0,Croatia,petarsucic,21.0,74.0,81.0,76.0,84.0,74.0,68.0,70.0,90.0,67.0,66.0,69.0,12.33,75.0,60.67,71.0
+231,크로아티아,petarsucic,Inter,21.0,Croatia,antebudimir,33.0,82.0,83.0,79.0,75.0,82.0,50.0,54.0,75.0,84.0,83.0,63.0,14.0,70.0,30.33,86.0
+232,크로아티아,antebudimir,Osasuna,34.0,Croatia,franjoivanovic,21.0,75.0,72.0,78.0,76.0,76.0,64.0,70.0,70.0,74.0,74.0,74.0,10.67,61.0,26.67,83.0
+233,크로아티아,franjoivanovic,Benfica,21.0,Croatia,ivanperisic,36.0,81.0,83.0,78.0,84.0,80.0,84.0,74.0,76.0,75.0,85.0,76.0,7.0,79.5,67.33,78.0
+234,크로아티아,ivanperisic,PSV Eindhoven,36.0,Croatia,marcopasalic,24.0,71.0,73.0,75.0,68.0,67.0,73.0,78.0,65.0,57.0,81.0,74.0,10.67,60.5,35.33,67.0
+235,크로아티아,marcopasalic,Orlando City,25.0,Croatia,tonifruk,24.0,75.0,78.0,77.0,78.0,70.0,75.0,73.0,70.0,59.0,76.0,72.0,8.33,78.0,52.0,71.0
+236,이탈리아,tonifruk,Rijeka,24.0,Italy,alexmeret,28.0,82.0,25.0,16.0,67.0,78.0,15.0,41.0,29.0,65.0,56.0,48.0,83.33,27.5,15.33,17.0
+237,이탈리아,alexmeret,Napoli,28.0,Italy,gianluigidonnarumma,26.0,89.0,30.0,28.0,54.0,87.0,12.0,50.0,41.0,75.0,53.0,55.0,89.0,35.0,17.0,12.0
+238,이탈리아,gianluigidonnarumma,Manchester City,26.0,Italy,guglielmovicario,28.0,82.0,41.0,22.0,62.0,81.0,11.0,54.0,38.0,60.0,59.0,49.0,82.33,56.0,15.67,6.0
+239,이탈리아,guglielmovicario,Tottenham Hotspur,28.0,Italy,marcocarnesecchi,25.0,84.0,21.0,14.0,40.0,71.0,11.0,24.0,28.0,55.0,53.0,39.0,85.67,33.5,15.67,8.0
+240,이탈리아,marcocarnesecchi,Atalanta,25.0,Italy,alessandrobastoni,26.0,87.0,82.0,74.0,85.0,89.0,72.0,71.0,81.0,81.0,59.0,77.0,11.33,83.0,87.0,39.0
+241,이탈리아,alessandrobastoni,Inter,26.0,Italy,andreacambiaso,25.0,79.0,80.0,80.0,78.0,78.0,79.0,79.0,76.0,66.0,75.0,78.0,13.0,77.0,77.0,68.0
+242,이탈리아,andreacambiaso,Juventus,25.0,Italy,federicogatti,27.0,80.0,68.0,62.0,78.0,79.0,38.0,73.0,74.0,81.0,68.0,78.0,7.67,64.5,81.0,30.0
+243,이탈리아,federicogatti,Juventus,27.0,Italy,gianlucamancini,29.0,83.0,76.0,59.0,83.0,85.0,34.0,65.0,84.0,79.0,51.0,74.0,9.0,71.0,83.0,48.0
+244,이탈리아,gianlucamancini,Roma,29.0,Italy,giovannidilorenzo,31.0,83.0,78.0,76.0,74.0,80.0,79.0,83.0,90.0,74.0,75.0,85.0,8.33,74.0,79.33,72.0
+245,이탈리아,giovannidilorenzo,Napoli,32.0,Italy,giovannileoni,18.0,69.0,60.0,45.0,65.0,65.0,22.0,51.0,65.0,70.0,40.0,54.0,10.0,53.0,71.33,25.0
+246,이탈리아,giovannileoni,Liverpool,18.0,Italy,lucaranieri,26.0,76.0,76.0,66.0,65.0,76.0,62.0,62.0,68.0,59.0,54.0,73.0,10.33,64.5,78.33,37.0
+247,이탈리아,lucaranieri,Fiorentina,26.0,Italy,raoulbellanova,25.0,78.0,78.0,79.0,66.0,75.0,80.0,82.0,81.0,71.0,55.0,90.0,7.33,75.0,72.0,61.0
+248,이탈리아,raoulbellanova,Atalanta,25.0,Italy,riccardocalafiori,23.0,78.0,77.0,75.0,75.0,78.0,73.0,74.0,73.0,77.0,75.0,70.0,8.67,71.5,77.67,62.0
+249,이탈리아,riccardocalafiori,Arsenal,23.0,Italy,danielmaldini,23.0,74.0,81.0,77.0,72.0,72.0,75.0,66.0,69.0,67.0,73.0,74.0,13.0,73.5,40.33,64.0
+250,이탈리아,danielmaldini,Atalanta,23.0,Italy,davidefrattesi,25.0,81.0,83.0,82.0,81.0,83.0,67.0,84.0,80.0,64.0,76.0,80.0,8.67,81.5,73.0,79.0
+251,이탈리아,davidefrattesi,Inter,26.0,Italy,federicodimarco,27.0,85.0,86.0,79.0,78.0,83.0,87.0,83.0,84.0,72.0,81.0,78.0,7.67,83.5,80.33,74.0
+252,이탈리아,federicodimarco,Inter,27.0,Italy,giovannifabbian,22.0,74.0,76.0,74.0,71.0,72.0,63.0,70.0,61.0,55.0,74.0,65.0,7.0,75.5,67.0,72.0
+253,이탈리아,giovannifabbian,Bologna,22.0,Italy,manuellocatelli,27.0,84.0,81.0,76.0,82.0,82.0,73.0,61.0,89.0,71.0,79.0,65.0,12.0,84.5,82.33,58.0
+254,이탈리아,manuellocatelli,Juventus,27.0,Italy,nicolobarella,28.0,87.0,87.0,84.0,88.0,91.0,79.0,82.0,89.0,66.0,80.0,78.0,12.0,88.0,81.67,77.0
+255,이탈리아,nicolobarella,Inter,28.0,Italy,nicolorovella,23.0,79.0,80.0,78.0,74.0,77.0,67.0,75.0,85.0,62.0,72.0,77.0,9.33,81.0,76.33,52.0
+256,이탈리아,nicolorovella,Lazio,23.0,Italy,sandrotonali,25.0,86.0,85.0,78.0,84.0,84.0,78.0,78.0,83.0,82.0,85.0,79.0,9.0,84.5,82.0,69.0
+257,이탈리아,sandrotonali,Newcastle United,25.0,Italy,francescopioesposito,20.0,72.0,72.0,71.0,60.0,72.0,56.0,60.0,65.0,75.0,69.0,67.0,8.33,62.0,32.33,76.0
+258,이탈리아,francescopioesposito,Inter,20.0,Italy,giacomoraspadori,25.0,78.0,84.0,85.0,80.0,79.0,56.0,83.0,60.0,55.0,76.0,74.0,9.67,73.0,22.67,79.0
+259,이탈리아,giacomoraspadori,Atletico Madrid,25.0,Italy,mateoretegui,26.0,83.0,84.0,78.0,77.0,80.0,51.0,69.0,74.0,81.0,84.0,74.0,9.67,72.5,29.67,88.0
+260,이탈리아,mateoretegui,Al Qadasiya,26.0,Italy,matteopolitano,31.0,81.0,83.0,82.0,80.0,82.0,80.0,81.0,78.0,39.0,78.0,79.0,10.0,79.0,58.0,78.0
+261,이탈리아,matteopolitano,Napoli,32.0,Italy,mattiazaccagni,30.0,84.0,87.0,88.0,83.0,83.0,75.0,90.0,81.0,59.0,78.0,87.0,9.33,78.5,55.0,79.0
+262,이탈리아,mattiazaccagni,Lazio,30.0,Italy,moussamane,21.0,62.0,56.0,51.0,51.0,59.0,57.0,69.0,67.0,59.0,42.0,68.0,8.0,50.5,61.33,38.0
+263,이탈리아,moisekean,Fiorentina,25.0,Italy,riccardoorsolini,28.0,82.0,83.0,85.0,76.0,78.0,85.0,81.0,74.0,71.0,83.0,78.0,9.67,75.5,46.67,80.0
+264,모로코,riccardoorsolini,Bologna,28.0,Morocco,ahmedkhatir,20.0,53.0,38.0,26.0,49.0,48.0,26.0,53.0,57.0,71.0,40.0,58.0,10.67,35.0,51.67,25.0
+265,모로코,elmehdialharrar,Raja Casablanca,24.0,Morocco,ahmedkhatir,20.0,53.0,38.0,26.0,49.0,48.0,26.0,53.0,57.0,71.0,40.0,58.0,10.67,35.0,51.67,25.0
+266,모로코,munir,RSB Berkane,36.0,Morocco,ahmedkhatir,20.0,53.0,38.0,26.0,49.0,48.0,26.0,53.0,57.0,71.0,40.0,58.0,10.67,35.0,51.67,25.0
+267,모로코,rachidghanimi,FUS Rabat,,Morocco,nassimboujellab,26.0,62.0,68.0,70.0,55.0,57.0,52.0,68.0,53.0,48.0,63.0,58.0,10.67,57.0,53.33,59.0
+268,모로코,yassinebounou,Al Hilal,34.0,Morocco,ahmedkhatir,20.0,53.0,38.0,26.0,49.0,48.0,26.0,53.0,57.0,71.0,40.0,58.0,10.67,35.0,51.67,25.0
+269,모로코,achrafdari,Al Ahly SC,26.0,Morocco,ahmedkhatir,20.0,53.0,38.0,26.0,49.0,48.0,26.0,53.0,57.0,71.0,40.0,58.0,10.67,35.0,51.67,25.0
+270,모로코,achrafhakimi,Paris Saint-Germain,26.0,Morocco,hamidahadad,30.0,64.0,59.0,60.0,50.0,56.0,42.0,70.0,61.0,74.0,67.0,72.0,11.33,56.0,19.33,65.0
+271,모로코,adammasina,Torino,31.0,Morocco,anastajaouart,19.0,54.0,55.0,50.0,55.0,59.0,49.0,66.0,55.0,44.0,55.0,66.0,11.0,61.5,51.67,40.0
+272,모로코,anasbach,FAR Rabat,,Morocco,jamalharkass,29.0,57.0,38.0,35.0,49.0,49.0,26.0,59.0,60.0,66.0,37.0,55.0,11.0,48.5,58.33,29.0
+273,모로코,bouchaibarrassi,Raja Casablanca,,Morocco,yahyabenkhaleq,23.0,57.0,42.0,33.0,37.0,48.0,27.0,55.0,62.0,70.0,35.0,60.0,10.67,43.5,58.33,15.0
+274,모로코,jawadelyamiq,Al Najma,33.0,Morocco,tariktissoudali,32.0,74.0,79.0,78.0,79.0,77.0,65.0,75.0,61.0,69.0,74.0,71.0,12.33,65.0,33.33,78.0
+275,모로코,marouanelouadni,FAR Rabat,,Morocco,selimamallah,28.0,72.0,72.0,72.0,68.0,69.0,68.0,61.0,69.0,74.0,75.0,66.0,11.67,73.0,61.67,72.0
+276,모로코,mehdimchakhchekh,Raja Casablanca,,Morocco,mohammedelhankouri,28.0,71.0,75.0,76.0,71.0,73.0,64.0,78.0,73.0,56.0,73.0,62.0,10.67,65.5,64.67,63.0
+277,모로코,mohamedboulacsou,Raja Casablanca,27.0,Morocco,mohamedaminesbai,24.0,68.0,72.0,74.0,66.0,58.0,62.0,74.0,69.0,56.0,68.0,78.0,9.67,59.5,28.67,63.0
+278,모로코,mohamedchibi,Pyramids FC,32.0,Morocco,ahmedkhatir,20.0,53.0,38.0,26.0,49.0,48.0,26.0,53.0,57.0,71.0,40.0,58.0,10.67,35.0,51.67,25.0
+279,모로코,mohamedmoufid,Wydad Casablanca,25.0,Morocco,nayefaguerdنايفاكرد,29.0,81.0,75.0,60.0,74.0,80.0,48.0,65.0,72.0,78.0,69.0,78.0,9.0,77.0,81.67,40.0
+280,모로코,nayefaguerd,Marseille,29.0,Morocco,ismaelguerti,20.0,55.0,53.0,55.0,45.0,54.0,47.0,61.0,52.0,49.0,56.0,63.0,10.0,60.5,41.0,42.0
+281,모로코,omarelhilali,Espanyol,22.0,Morocco,souffianelkarouani,24.0,75.0,74.0,74.0,71.0,74.0,86.0,75.0,78.0,66.0,63.0,67.0,8.33,72.0,70.0,41.0
+282,모로코,souffianelkarouani,FC Utrecht,24.0,Morocco,youssefelkachati,25.0,69.0,68.0,69.0,69.0,59.0,55.0,91.0,67.0,51.0,73.0,88.0,11.33,57.5,27.67,74.0
+283,모로코,youssefbelammari,Raja Casablanca,27.0,Morocco,hamidahadad,30.0,64.0,59.0,60.0,50.0,56.0,42.0,70.0,61.0,74.0,67.0,72.0,11.33,56.0,19.33,65.0
+284,모로코,amineadli,AFC Bournemouth,25.0,Morocco,ahmedkhatir,20.0,53.0,38.0,26.0,49.0,48.0,26.0,53.0,57.0,71.0,40.0,58.0,10.67,35.0,51.67,25.0
+285,모로코,ayoubkhairi,RSB Berkane,,Morocco,tariktissoudali,32.0,74.0,79.0,78.0,79.0,77.0,65.0,75.0,61.0,69.0,74.0,71.0,12.33,65.0,33.33,78.0
+286,모로코,azzedineounahi,Girona,25.0,Morocco,bilalelkhannoussبلالالخنوص,21.0,76.0,80.0,82.0,80.0,74.0,70.0,79.0,71.0,56.0,65.0,74.0,11.0,78.0,36.67,65.0
+287,모로코,bilalelkhannouss,VfB Stuttgart,21.0,Morocco,eliessebenseghirالياسبنصغير,20.0,76.0,79.0,80.0,77.0,74.0,68.0,76.0,71.0,61.0,74.0,77.0,7.67,72.0,27.0,73.0
+288,모로코,eliessebenseghir,Bayer Leverkusen,20.0,Morocco,hatimessaouabi,24.0,65.0,40.0,40.0,63.0,64.0,39.0,61.0,70.0,76.0,48.0,61.0,10.33,57.5,65.67,28.0
+289,모로코,hossamessadak,Union Touarga Sport,,Morocco,anastajaouart,19.0,54.0,55.0,50.0,55.0,59.0,49.0,66.0,55.0,44.0,55.0,66.0,11.0,61.5,51.67,40.0
+290,모로코,iliasakhomach,Villarreal,21.0,Morocco,ahmedkhatir,20.0,53.0,38.0,26.0,49.0,48.0,26.0,53.0,57.0,71.0,40.0,58.0,10.67,35.0,51.67,25.0
+291,모로코,imadriahi,RSB Berkane,25.0,Morocco,ismaelguerti,20.0,55.0,53.0,55.0,45.0,54.0,47.0,61.0,52.0,49.0,56.0,63.0,10.0,60.5,41.0,42.0
+292,모로코,ismaelsaibari,PSV Eindhoven,24.0,Morocco,mathystourraine,24.0,69.0,65.0,66.0,63.0,63.0,64.0,74.0,75.0,61.0,51.0,77.0,9.67,64.5,67.0,35.0
+293,모로코,khalidaitouarkhane,FAR Rabat,25.0,Morocco,mohamedaminesbai,24.0,68.0,72.0,74.0,66.0,58.0,62.0,74.0,69.0,56.0,68.0,78.0,9.67,59.5,28.67,63.0
+294,모로코,mohamedrabiehrimat,FAR Rabat,,Morocco,osamesahraoui,24.0,76.0,80.0,82.0,75.0,72.0,68.0,88.0,76.0,43.0,62.0,78.0,12.0,68.5,46.0,66.0
+295,모로코,neilelaynaoui,Roma,24.0,Morocco,osamesahraoui,24.0,76.0,80.0,82.0,75.0,72.0,68.0,88.0,76.0,43.0,62.0,78.0,12.0,68.5,46.0,66.0
+296,모로코,oussamaelazzouzi,Auxerre,24.0,Morocco,mathystourraine,24.0,69.0,65.0,66.0,63.0,63.0,64.0,74.0,75.0,61.0,51.0,77.0,9.67,64.5,67.0,35.0
+297,모로코,sabirbougrine,Raja Casablanca,29.0,Morocco,alaeddineajaraie,32.0,70.0,70.0,70.0,55.0,70.0,43.0,80.0,64.0,62.0,70.0,77.0,9.33,57.5,15.67,73.0
+298,모로코,saifeddinebouhra,모로코,,Morocco,alaeddineajaraie,32.0,70.0,70.0,70.0,55.0,70.0,43.0,80.0,64.0,62.0,70.0,77.0,9.33,57.5,15.67,73.0
+299,모로코,salaheddineerrahouli,Olympic Club de Safi,,Morocco,othmanemaamma,19.0,61.0,68.0,66.0,60.0,51.0,52.0,68.0,59.0,79.0,61.0,73.0,8.67,52.0,25.33,59.0
+300,모로코,sofyanamrabat,Real Betis,29.0,Morocco,hatimessaouabi,24.0,65.0,40.0,40.0,63.0,64.0,39.0,61.0,70.0,76.0,48.0,61.0,10.33,57.5,65.67,28.0
+301,모로코,aminesouane,FUS Rabat,24.0,Morocco,osamesahraoui,24.0,76.0,80.0,82.0,75.0,72.0,68.0,88.0,76.0,43.0,62.0,78.0,12.0,68.5,46.0,66.0
+302,모로코,anaselmahraoui,FK Akhmat,,Morocco,youssefelkachati,25.0,69.0,68.0,69.0,69.0,59.0,55.0,91.0,67.0,51.0,73.0,88.0,11.33,57.5,27.67,74.0
+303,모로코,ayoubelkaabi,Olympiacos,32.0,Morocco,ahmedkhatir,20.0,53.0,38.0,26.0,49.0,48.0,26.0,53.0,57.0,71.0,40.0,58.0,10.67,35.0,51.67,25.0
+304,모로코,brahimdiaz,Real Madrid,26.0,Morocco,chemsdinetalbi,20.0,73.0,77.0,80.0,70.0,60.0,72.0,92.0,74.0,55.0,63.0,88.0,7.67,57.5,43.33,62.0
+305,모로코,chemsdinetalbi,Sunderland,20.0,Morocco,hamzakoutoune,18.0,60.0,60.0,55.0,58.0,49.0,57.0,73.0,62.0,42.0,41.0,68.0,10.33,48.0,55.33,27.0
+306,모로코,hamzaigamane,Lille,22.0,Morocco,hamidahadad,30.0,64.0,59.0,60.0,50.0,56.0,42.0,70.0,61.0,74.0,67.0,72.0,11.33,56.0,19.33,65.0
+307,모로코,khalidbaba,Difaa El Jadida,,Morocco,maroansannadiharrouch,24.0,73.0,72.0,69.0,64.0,68.0,51.0,68.0,69.0,91.0,80.0,70.0,8.33,56.5,24.0,72.0
+308,모로코,maroansannadi,Athletic Club,24.0,Morocco,osamesahraoui,24.0,76.0,80.0,82.0,75.0,72.0,68.0,88.0,76.0,43.0,62.0,78.0,12.0,68.5,46.0,66.0
+309,모로코,oussamalamlioui,RSB Berkane,29.0,Morocco,youssefelkachati,25.0,69.0,68.0,69.0,69.0,59.0,55.0,91.0,67.0,51.0,73.0,88.0,11.33,57.5,27.67,74.0
+310,모로코,younesselkaabi,RSB Berkane,,Morocco,youssefelkachati,25.0,69.0,68.0,69.0,69.0,59.0,55.0,91.0,67.0,51.0,73.0,88.0,11.33,57.5,27.67,74.0
+311,모로코,youssefennesyri,Fenerbahçe,28.0,Morocco,youssefelkachati,25.0,69.0,68.0,69.0,69.0,59.0,55.0,91.0,67.0,51.0,73.0,88.0,11.33,57.5,27.67,74.0
+312,독일,youssefmehri,RSB Berkane,26.0,Germany,alexandernubel,28.0,81.0,41.0,26.0,69.0,81.0,15.0,49.0,39.0,74.0,63.0,46.0,80.33,51.5,16.67,18.0
+313,독일,alexandernubel,VfB Stuttgart,28.0,Germany,fynnwolter,19.0,53.0,10.0,7.0,29.0,44.0,12.0,30.0,16.0,59.0,38.0,22.0,53.0,21.5,10.67,8.0
+314,독일,finndahmen,Augsburg,27.0,Germany,oliverbaumann,35.0,83.0,17.0,19.0,52.0,82.0,14.0,37.0,39.0,69.0,59.0,41.0,82.0,32.0,15.67,11.0
+315,독일,oliverbaumann,Hoffenheim,35.0,Germany,antoniorudiger,32.0,86.0,74.0,69.0,80.0,85.0,68.0,70.0,70.0,91.0,84.0,87.0,11.33,82.0,84.33,40.0
+316,독일,antoniorudiger,Real Madrid,32.0,Germany,davidraum,27.0,82.0,79.0,79.0,78.0,78.0,88.0,86.0,89.0,75.0,64.0,86.0,9.67,77.5,77.0,59.0
+317,독일,davidraum,RB Leipzig,27.0,Germany,jasonceka,25.0,65.0,68.0,68.0,60.0,58.0,61.0,77.0,66.0,34.0,59.0,61.0,10.67,64.0,25.67,61.0
+318,독일,tahjonathan,Bayern München,29.0,Germany,maximilianmittelstadt,28.0,82.0,77.0,77.0,76.0,80.0,87.0,79.0,84.0,67.0,74.0,83.0,13.0,76.5,78.0,56.0
+319,독일,maximilianmittelstaedt,VfB Stuttgart,28.0,Germany,jannicehlers,22.0,60.0,65.0,63.0,56.0,47.0,50.0,70.0,56.0,67.0,62.0,65.0,10.0,52.0,37.33,61.0
+320,독일,nnamdicollins,Eintracht Frankfurt,21.0,Germany,robinknoche,33.0,71.0,50.0,34.0,71.0,70.0,30.0,31.0,52.0,78.0,58.0,60.0,11.0,70.0,72.0,38.0
+321,독일,robinkoch,Eintracht Frankfurt,29.0,Germany,maltekarbstein,27.0,64.0,54.0,47.0,45.0,57.0,43.0,54.0,62.0,77.0,36.0,67.0,10.0,54.0,63.33,39.0
+322,독일,waldemaranton,Borussia Dortmund,29.0,Germany,angelostiller,24.0,83.0,85.0,83.0,84.0,85.0,77.0,68.0,80.0,67.0,73.0,47.0,8.33,85.5,74.67,49.0
+323,독일,angelostiller,VfB Stuttgart,24.0,Germany,floriandietz,26.0,64.0,59.0,56.0,61.0,63.0,26.0,72.0,62.0,79.0,67.0,74.0,9.67,46.5,21.0,65.0
+324,독일,florianwirtz,Liverpool,22.0,Germany,joshuabitter,28.0,64.0,54.0,48.0,47.0,60.0,58.0,66.0,70.0,84.0,50.0,65.0,7.67,59.5,61.0,25.0
+325,독일,joshuakimmich,Bayern München,30.0,Germany,leonopitz,20.0,62.0,61.0,63.0,54.0,57.0,56.0,73.0,58.0,58.0,59.0,68.0,9.33,57.0,40.0,62.0
+326,독일,leongoretzka,Bayern München,30.0,Germany,nadiemamiri,28.0,81.0,82.0,83.0,81.0,83.0,79.0,76.0,78.0,68.0,83.0,56.0,11.33,81.0,58.67,77.0
+327,독일,nadiemamiri,Mainz 05,28.0,Germany,pascalgross,34.0,80.0,83.0,78.0,84.0,85.0,86.0,46.0,83.0,73.0,80.0,50.0,11.67,84.0,73.0,72.0
+328,독일,pascalgross,Borussia Dortmund,34.0,Germany,paulnebel,22.0,78.0,78.0,82.0,74.0,77.0,68.0,79.0,90.0,48.0,75.0,65.0,8.67,72.5,47.0,78.0
+329,독일,paulnebel,Mainz 05,22.0,Germany,robertandrich,30.0,81.0,76.0,74.0,75.0,82.0,71.0,59.0,67.0,84.0,84.0,56.0,11.67,78.5,81.67,74.0
+330,독일,robertandrich,Bayer Leverkusen,31.0,Germany,jamieleweling,24.0,75.0,78.0,80.0,67.0,73.0,72.0,81.0,73.0,76.0,84.0,84.0,9.67,62.5,42.0,69.0
+331,독일,jamieleweling,VfB Stuttgart,24.0,Germany,karimdavidadeyemi,23.0,81.0,79.0,84.0,76.0,81.0,71.0,96.0,77.0,67.0,79.0,96.0,10.33,71.5,36.0,77.0
+332,독일,karimadeyemi,Borussia Dortmund,23.0,Germany,maximilianbeier,22.0,79.0,82.0,80.0,73.0,79.0,67.0,86.0,82.0,53.0,80.0,86.0,8.33,67.0,35.0,82.0
+333,독일,maximilianbeier,Borussia Dortmund,22.0,Germany,nickwoltemade,23.0,79.0,80.0,83.0,77.0,79.0,46.0,64.0,71.0,81.0,81.0,69.0,9.33,70.0,35.33,82.0
+334,독일,nickwoltemade,Newcastle United,23.0,Germany,niclasfullkrug,32.0,79.0,77.0,74.0,79.0,80.0,65.0,53.0,55.0,86.0,86.0,60.0,12.33,68.0,39.0,81.0
+335,독일,niclasfullkrug,West Ham United,32.0,Germany,sergedavidgnabry,29.0,82.0,82.0,85.0,82.0,82.0,77.0,84.0,66.0,68.0,86.0,75.0,10.0,78.0,44.0,84.0
+336,콜롬비아,sergegnabry,Bayern München,30.0,Colombia,simongarcia,20.0,66.0,67.0,45.0,51.0,66.0,54.0,69.0,76.0,67.0,39.0,70.0,10.67,62.0,65.0,42.0
+337,콜롬비아,camilovargas,Atlas,36.0,Colombia,davidospinaramirez,36.0,76.0,32.0,12.0,57.0,65.0,11.0,55.0,19.0,49.0,58.0,50.0,77.0,42.5,12.0,10.0
+338,콜롬비아,davidospina,Atletico Nacional,37.0,Colombia,kevincuesta,25.0,62.0,32.0,23.0,55.0,56.0,27.0,60.0,68.0,71.0,45.0,62.0,9.0,51.5,66.0,25.0
+339,콜롬비아,kevinmier,Cruz Azul,,Colombia,kevinangulo,16.0,57.0,50.0,40.0,49.0,55.0,30.0,77.0,80.0,60.0,59.0,76.0,10.67,34.5,15.67,62.0
+340,콜롬비아,alvaroangulo,Pumas,,Colombia,santiagomunoz,25.0,61.0,55.0,67.0,55.0,58.0,54.0,75.0,60.0,45.0,59.0,72.0,10.33,55.0,40.33,50.0
+341,콜롬비아,danielmunoz,Crystal Palace,29.0,Colombia,davinsonsanchezmina,29.0,82.0,75.0,72.0,69.0,78.0,36.0,80.0,84.0,90.0,66.0,84.0,10.0,76.0,82.0,59.0
+342,콜롬비아,davinsonsanchez,Galatasaray,29.0,Colombia,royercaicedo,19.0,60.0,30.0,28.0,50.0,53.0,30.0,75.0,70.0,75.0,35.0,76.0,10.67,40.5,61.67,18.0
+343,콜롬비아,deivermachado,Lens,32.0,Colombia,joelromero,19.0,61.0,60.0,59.0,55.0,58.0,60.0,74.0,76.0,60.0,54.0,71.0,6.67,65.5,59.67,50.0
+344,콜롬비아,feliperoman,Atletico Nacional,29.0,Colombia,joelromero,19.0,61.0,60.0,59.0,55.0,58.0,60.0,74.0,76.0,60.0,54.0,71.0,6.67,65.5,59.67,50.0
+345,콜롬비아,jhonlucumi,Bologna,27.0,Colombia,juanjoserosa,17.0,57.0,52.0,62.0,50.0,40.0,51.0,88.0,70.0,55.0,58.0,82.0,9.0,42.0,27.0,55.0
+346,콜롬비아,johanmojica,Mallorca,33.0,Colombia,santiagomunoz,25.0,61.0,55.0,67.0,55.0,58.0,54.0,75.0,60.0,45.0,59.0,72.0,10.33,55.0,40.33,50.0
+347,콜롬비아,santiagoarias,Bahia,33.0,Colombia,joelromero,19.0,61.0,60.0,59.0,55.0,58.0,60.0,74.0,76.0,60.0,54.0,71.0,6.67,65.5,59.67,50.0
+348,콜롬비아,yerrymina,Cagliari,31.0,Colombia,yersonmosqueravaldelamar,24.0,72.0,63.0,41.0,65.0,68.0,35.0,76.0,61.0,78.0,45.0,83.0,8.67,59.5,71.0,20.0
+349,콜롬비아,yersonmosquera,Wolverhampton Wanderers,24.0,Colombia,yefreirodriguez,20.0,61.0,60.0,59.0,53.0,54.0,46.0,65.0,51.0,62.0,57.0,67.0,9.33,47.5,21.67,67.0
+350,콜롬비아,jamesrodriguez,Leon,34.0,Colombia,kenergonzalez,19.0,61.0,60.0,57.0,62.0,50.0,52.0,75.0,70.0,62.0,58.0,73.0,11.0,60.5,61.0,58.0
+351,콜롬비아,jeffersonlerma,Crystal Palace,30.0,Colombia,juanjoserosa,17.0,57.0,52.0,62.0,50.0,40.0,51.0,88.0,70.0,55.0,58.0,82.0,9.0,42.0,27.0,55.0
+352,콜롬비아,jorgecarrascal,Flamengo,27.0,Colombia,juancamiloportillaorozco,26.0,73.0,72.0,68.0,54.0,68.0,55.0,70.0,83.0,75.0,67.0,68.0,12.0,74.0,68.67,68.0
+353,콜롬비아,juancamiloportilla,Talleres,27.0,Colombia,juancastillo,22.0,66.0,10.0,10.0,35.0,65.0,12.0,20.0,22.0,60.0,46.0,30.0,66.33,23.0,10.67,9.0
+354,콜롬비아,juanquintero,River Plate,32.0,Colombia,kevincuesta,25.0,62.0,32.0,23.0,55.0,56.0,27.0,60.0,68.0,71.0,45.0,62.0,9.0,51.5,66.0,25.0
+355,콜롬비아,kevincastano,River Plate,24.0,Colombia,richardriosmontoya,25.0,79.0,83.0,82.0,80.0,83.0,74.0,83.0,88.0,79.0,78.0,80.0,8.33,79.0,74.67,67.0
+356,콜롬비아,richardrios,Benfica,25.0,Colombia,joelromero,19.0,61.0,60.0,59.0,55.0,58.0,60.0,74.0,76.0,60.0,54.0,71.0,6.67,65.5,59.67,50.0
+357,콜롬비아,dayromoreno,Once Caldas,40.0,Colombia,jamintonleandrocampaz,25.0,76.0,75.0,80.0,62.0,72.0,72.0,86.0,72.0,58.0,76.0,84.0,7.33,72.5,29.0,74.0
+358,콜롬비아,jamintoncampaz,Rosario Central,25.0,Colombia,simongarcia,20.0,66.0,67.0,45.0,51.0,66.0,54.0,69.0,76.0,67.0,39.0,70.0,10.67,62.0,65.0,42.0
+359,콜롬비아,jhonarias,Wolverhampton Wanderers,28.0,Colombia,juanjoserosa,17.0,57.0,52.0,62.0,50.0,40.0,51.0,88.0,70.0,55.0,58.0,82.0,9.0,42.0,27.0,55.0
+360,콜롬비아,jhoncordoba,FC Krasnodar,32.0,Colombia,elkinrivero,19.0,62.0,65.0,54.0,62.0,56.0,65.0,70.0,68.0,55.0,62.0,70.0,6.0,68.0,55.67,53.0
+361,콜롬비아,luisdiaz,Bayern München,28.0,Colombia,yojangarces,19.0,62.0,58.0,57.0,55.0,50.0,46.0,68.0,69.0,64.0,63.0,72.0,9.0,52.5,25.33,65.0
+362,콜롬비아,luissuarez,Sporting CP,27.0,Colombia,marinohinestrozaangulo,22.0,72.0,73.0,79.0,63.0,55.0,68.0,83.0,62.0,44.0,73.0,80.0,12.33,65.5,27.33,71.0
+363,멕시코,marinohinestroza,Atletico Nacional,23.0,Mexico,erikduenas,20.0,59.0,67.0,67.0,56.0,58.0,42.0,72.0,52.0,30.0,52.0,68.0,11.0,64.0,59.33,24.0
+364,멕시코,carlosmoreno,Pachuca,27.0,Mexico,erikduenas,20.0,59.0,67.0,67.0,56.0,58.0,42.0,72.0,52.0,30.0,52.0,68.0,11.0,64.0,59.33,24.0
+365,멕시코,joserangel,Chivas,25.0,Mexico,erikduenas,20.0,59.0,67.0,67.0,56.0,58.0,42.0,72.0,52.0,30.0,52.0,68.0,11.0,64.0,59.33,24.0
+366,멕시코,luismalagon,CF America,28.0,Mexico,cesargarzacantu,20.0,61.0,59.0,60.0,51.0,58.0,44.0,60.0,66.0,55.0,61.0,63.0,8.0,59.0,61.33,52.0
+367,멕시코,cesarmontes,Lokomotiv Moscow,28.0,Mexico,erikduenas,20.0,59.0,67.0,67.0,56.0,58.0,42.0,72.0,52.0,30.0,52.0,68.0,11.0,64.0,59.33,24.0
+368,멕시코,eriklira,Cruz Azul,25.0,Mexico,cesargarzacantu,20.0,61.0,59.0,60.0,51.0,58.0,44.0,60.0,66.0,55.0,61.0,63.0,8.0,59.0,61.33,52.0
+369,멕시코,jesusgallardo,Toluca,31.0,Mexico,erikduenas,20.0,59.0,67.0,67.0,56.0,58.0,42.0,72.0,52.0,30.0,52.0,68.0,11.0,64.0,59.33,24.0
+370,멕시코,jesusorozco,Cruz Azul,23.0,Mexico,davidochoaramirez,24.0,62.0,10.0,6.0,31.0,60.0,8.0,28.0,38.0,68.0,45.0,25.0,60.67,20.5,9.0,5.0
+371,멕시코,johanvasquez,Genoa,26.0,Mexico,juanjosesanchezpurata,27.0,72.0,64.0,50.0,59.0,68.0,37.0,51.0,54.0,81.0,58.0,54.0,11.33,61.5,71.0,44.0
+372,멕시코,juanjosepurata,Tigres,27.0,Mexico,mateochavezgarcia,21.0,72.0,70.0,71.0,63.0,67.0,69.0,81.0,80.0,58.0,59.0,83.0,8.67,63.5,68.0,41.0
+373,멕시코,mateochavez,AZ Alkmaar,21.0,Mexico,erikduenas,20.0,59.0,67.0,67.0,56.0,58.0,42.0,72.0,52.0,30.0,52.0,68.0,11.0,64.0,59.33,24.0
+374,멕시코,rodrigohuescas,FC København,22.0,Mexico,davidochoaramirez,24.0,62.0,10.0,6.0,31.0,60.0,8.0,28.0,38.0,68.0,45.0,25.0,60.67,20.5,9.0,5.0
+375,멕시코,carlosrodriguez,Cruz Azul,28.0,Mexico,obedgomezvargas,19.0,69.0,72.0,71.0,70.0,79.0,57.0,76.0,78.0,43.0,55.0,73.0,7.0,66.5,63.33,51.0
+376,멕시코,edsonalvarez,Fenerbahçe,27.0,Mexico,erikduenas,20.0,59.0,67.0,67.0,56.0,58.0,42.0,72.0,52.0,30.0,52.0,68.0,11.0,64.0,59.33,24.0
+377,멕시코,ericksanchez,CF America,26.0,Mexico,erikduenas,20.0,59.0,67.0,67.0,56.0,58.0,42.0,72.0,52.0,30.0,52.0,68.0,11.0,64.0,59.33,24.0
+378,멕시코,jorgesanchez,Cruz Azul,27.0,Mexico,erikduenas,20.0,59.0,67.0,67.0,56.0,58.0,42.0,72.0,52.0,30.0,52.0,68.0,11.0,64.0,59.33,24.0
+379,멕시코,marcelruiz,Toluca,24.0,Mexico,orbelinpinedaalvarado,29.0,77.0,80.0,81.0,70.0,78.0,73.0,82.0,84.0,58.0,76.0,81.0,11.67,73.0,67.67,73.0
+380,멕시코,orbelinpineda,AEK Athens,29.0,Mexico,erikduenas,20.0,59.0,67.0,67.0,56.0,58.0,42.0,72.0,52.0,30.0,52.0,68.0,11.0,64.0,59.33,24.0
+381,멕시코,alexisvega,Toluca,27.0,Mexico,erikduenas,20.0,59.0,67.0,67.0,56.0,58.0,42.0,72.0,52.0,30.0,52.0,68.0,11.0,64.0,59.33,24.0
+382,멕시코,cesarhuerta,Anderlecht,24.0,Mexico,diegolainezleyva,25.0,76.0,82.0,81.0,74.0,67.0,75.0,83.0,67.0,42.0,71.0,78.0,10.0,69.5,56.67,64.0
+383,멕시코,diegolainez,Tigres,25.0,Mexico,germanberterame,26.0,78.0,74.0,77.0,76.0,71.0,75.0,80.0,79.0,75.0,80.0,75.0,12.67,59.5,27.67,83.0
+384,멕시코,germanberterame,Monterrey,26.0,Mexico,erikduenas,20.0,59.0,67.0,67.0,56.0,58.0,42.0,72.0,52.0,30.0,52.0,68.0,11.0,64.0,59.33,24.0
+385,멕시코,hirvinglozano,San Diego FC,30.0,Mexico,erikduenas,20.0,59.0,67.0,67.0,56.0,58.0,42.0,72.0,52.0,30.0,52.0,68.0,11.0,64.0,59.33,24.0
+386,멕시코,rauljimenez,Fulham,34.0,Mexico,obedgomezvargas,19.0,69.0,72.0,71.0,70.0,79.0,57.0,76.0,78.0,43.0,55.0,73.0,7.0,66.5,63.33,51.0
+387,멕시코,robertoalvarado,Chivas,27.0,Mexico,santiagotomasgimenez,24.0,79.0,78.0,77.0,78.0,75.0,64.0,77.0,64.0,68.0,83.0,79.0,7.33,71.5,35.33,82.0
+388,우루과이,santiagogimenez,Milan,24.0,Uruguay,cristiansouzaespana,29.0,65.0,62.0,62.0,49.0,62.0,68.0,75.0,67.0,53.0,66.0,77.0,7.0,56.0,19.67,60.0
+389,우루과이,cristopherfiermarin,Tolima,27.0,Uruguay,francoisraelwibmer,25.0,75.0,24.0,18.0,44.0,64.0,11.0,30.0,23.0,80.0,53.0,32.0,77.67,33.5,10.0,6.0
+390,우루과이,francoisrael,Torino,25.0,Uruguay,matiasfonseca,24.0,66.0,69.0,62.0,56.0,58.0,47.0,66.0,66.0,61.0,67.0,67.0,11.0,57.5,35.33,73.0
+391,우루과이,santiagomele,Monterrey,28.0,Uruguay,kevinprieto,22.0,63.0,67.0,64.0,52.0,63.0,62.0,72.0,66.0,63.0,72.0,70.0,8.67,59.5,48.0,52.0
+392,우루과이,sergiorochet,Internacional,32.0,Uruguay,emilianoalvarez,24.0,61.0,45.0,57.0,44.0,64.0,51.0,68.0,68.0,51.0,32.0,64.0,8.33,40.0,60.33,30.0
+393,우루과이,guillermovarela,Flamengo,32.0,Uruguay,joaquinverges,33.0,70.0,73.0,71.0,65.0,69.0,62.0,69.0,76.0,59.0,70.0,70.0,9.67,67.0,52.67,71.0
+394,우루과이,joaquinpiquerez,Palmeiras,27.0,Uruguay,joaquinverges,33.0,70.0,73.0,71.0,65.0,69.0,62.0,69.0,76.0,59.0,70.0,70.0,9.67,67.0,52.67,71.0
+395,우루과이,josegimenez,Atletico Madrid,30.0,Uruguay,maizonrodriguez,22.0,64.0,45.0,32.0,49.0,59.0,38.0,68.0,60.0,72.0,48.0,69.0,8.33,48.0,68.33,29.0
+396,우루과이,joserodriguez,Vasco da Gama,28.0,Uruguay,matiasfonseca,24.0,66.0,69.0,62.0,56.0,58.0,47.0,66.0,66.0,61.0,67.0,67.0,11.0,57.5,35.33,73.0
+397,우루과이,mathiasolivera,Napoli,27.0,Uruguay,matiasfonseca,24.0,66.0,69.0,62.0,56.0,58.0,47.0,66.0,66.0,61.0,67.0,67.0,11.0,57.5,35.33,73.0
+398,우루과이,matiasvina,Flamengo,27.0,Uruguay,nicolassosasanchez,29.0,66.0,64.0,51.0,52.0,69.0,41.0,73.0,81.0,49.0,56.0,72.0,8.67,51.0,30.0,65.0
+399,우루과이,nicolasmarichal,Dinamo Moscow,24.0,Uruguay,leonardoamaral,22.0,60.0,59.0,61.0,47.0,55.0,60.0,72.0,54.0,58.0,55.0,66.0,9.33,56.0,32.67,57.0
+400,우루과이,ronaldaraujo,Barcelona,26.0,Uruguay,matiasfonseca,24.0,66.0,69.0,62.0,56.0,58.0,47.0,66.0,66.0,61.0,67.0,67.0,11.0,57.5,35.33,73.0
+401,우루과이,santiagobueno,Wolverhampton Wanderers,26.0,Uruguay,sebastiancoatesnion,34.0,79.0,65.0,64.0,77.0,70.0,20.0,61.0,75.0,91.0,50.0,59.0,15.0,70.5,81.0,55.0
+402,우루과이,sebastiancaceres,CF America,26.0,Uruguay,emilianoalvarez,24.0,61.0,45.0,57.0,44.0,64.0,51.0,68.0,68.0,51.0,32.0,64.0,8.33,40.0,60.33,30.0
+403,우루과이,emilianomartinez,Palmeiras,26.0,Uruguay,federicopintadonunez,24.0,63.0,17.0,5.0,25.0,42.0,19.0,33.0,21.0,48.0,48.0,36.0,64.67,33.5,13.0,8.0
+404,우루과이,federicovalverde,Real Madrid,27.0,Uruguay,juniorgabrielariascaceres,32.0,68.0,71.0,63.0,68.0,68.0,40.0,62.0,72.0,77.0,75.0,58.0,12.67,55.5,21.0,66.0
+405,우루과이,giorgiandearrascaeta,Flamengo,31.0,Uruguay,joaquinverges,33.0,70.0,73.0,71.0,65.0,69.0,62.0,69.0,76.0,59.0,70.0,70.0,9.67,67.0,52.67,71.0
+406,우루과이,juansanabria,Atletico de San Luis,25.0,Uruguay,lucagiossa,25.0,65.0,15.0,13.0,26.0,60.0,14.0,22.0,18.0,50.0,46.0,19.0,64.67,21.5,12.0,6.0
+407,우루과이,lucastorreira,Galatasaray,29.0,Uruguay,manuelugarteribeiro,24.0,79.0,76.0,77.0,79.0,78.0,62.0,62.0,70.0,74.0,67.0,62.0,9.0,78.0,78.67,65.0
+408,우루과이,manuelugarte,Manchester United,24.0,Uruguay,emilianoalvarez,24.0,61.0,45.0,57.0,44.0,64.0,51.0,68.0,68.0,51.0,32.0,64.0,8.33,40.0,60.33,30.0
+409,우루과이,maximilianoaraujo,Sporting CP,25.0,Uruguay,matiasfonseca,24.0,66.0,69.0,62.0,56.0,58.0,47.0,66.0,66.0,61.0,67.0,67.0,11.0,57.5,35.33,73.0
+410,우루과이,nahitannandez,Al Qadasiya,29.0,Uruguay,matiasfonseca,24.0,66.0,69.0,62.0,56.0,58.0,47.0,66.0,66.0,61.0,67.0,67.0,11.0,57.5,35.33,73.0
+411,우루과이,nicolasfonseca,Leon,26.0,Uruguay,rodrigobentancurcolman,28.0,80.0,81.0,81.0,82.0,78.0,74.0,63.0,72.0,70.0,71.0,65.0,11.33,81.0,78.33,68.0
+412,우루과이,rodrigobentancur,Tottenham Hotspur,28.0,Uruguay,rodrigozalazarmartinez,25.0,79.0,81.0,75.0,78.0,75.0,74.0,77.0,84.0,68.0,88.0,82.0,8.0,80.5,66.0,80.0
+413,우루과이,rodrigozalazar,Braga,26.0,Uruguay,emilianoalvarez,24.0,61.0,45.0,57.0,44.0,64.0,51.0,68.0,68.0,51.0,32.0,64.0,8.33,40.0,60.33,30.0
+414,우루과이,agustinalvarez,Monza,24.0,Uruguay,maizonrodriguez,22.0,64.0,45.0,32.0,49.0,59.0,38.0,68.0,60.0,72.0,48.0,69.0,8.33,48.0,68.33,29.0
+415,우루과이,brianrodriguez,CF America,25.0,Uruguay,cristiansouzaespana,29.0,65.0,62.0,62.0,49.0,62.0,68.0,75.0,67.0,53.0,66.0,77.0,7.0,56.0,19.67,60.0
+416,우루과이,cristianolivera,Gremio,23.0,Uruguay,joaquinverges,33.0,70.0,73.0,71.0,65.0,69.0,62.0,69.0,76.0,59.0,70.0,70.0,9.67,67.0,52.67,71.0
+417,우루과이,darwinnunez,Al Hilal,26.0,Uruguay,facundopellistrirebollo,23.0,73.0,72.0,75.0,70.0,73.0,70.0,84.0,74.0,56.0,68.0,81.0,8.0,62.0,35.0,64.0
+418,우루과이,facundopellistri,Panathinaikos,23.0,Uruguay,joaquinverges,33.0,70.0,73.0,71.0,65.0,69.0,62.0,69.0,76.0,59.0,70.0,70.0,9.67,67.0,52.67,71.0
+419,우루과이,facundotorres,Palmeiras,25.0,Uruguay,federicopintadonunez,24.0,63.0,17.0,5.0,25.0,42.0,19.0,33.0,21.0,48.0,48.0,36.0,64.67,33.5,13.0,8.0
+420,우루과이,federicovinas,Real Oviedo,27.0,Uruguay,ignaciososaospital,21.0,70.0,74.0,68.0,67.0,75.0,40.0,76.0,73.0,70.0,64.0,63.0,9.0,72.0,60.33,49.0
+421,우루과이,ignaciolaquintana,Red Bull Bragantino,26.0,Uruguay,kevinprieto,22.0,63.0,67.0,64.0,52.0,63.0,62.0,72.0,66.0,63.0,72.0,70.0,8.67,59.5,48.0,52.0
+422,우루과이,kevinamaro,Liverpool FC,21.0,Uruguay,emilianorodriguez,21.0,62.0,67.0,62.0,67.0,59.0,49.0,70.0,65.0,71.0,67.0,70.0,11.67,59.0,26.0,58.0
+423,우루과이,lucianorodriguez,Neom SC,22.0,Uruguay,rodrigoabascalbarros,31.0,71.0,62.0,55.0,58.0,65.0,48.0,56.0,71.0,81.0,51.0,68.0,10.67,68.0,72.33,39.0
+424,미국,rodrigoaguirre,CF America,30.0,United States,jonathanklinsmann,28.0,67.0,20.0,19.0,28.0,61.0,14.0,29.0,45.0,59.0,49.0,29.0,66.33,25.0,11.67,5.0
+425,미국,jonathanklinsmann,Cesena,28.0,United States,wyattmeyer,24.0,53.0,51.0,36.0,37.0,50.0,28.0,53.0,62.0,65.0,43.0,64.0,8.67,43.5,55.33,28.0
+426,미국,mattfreese,New York City FC,27.0,United States,romanmarcellocelentano,24.0,72.0,15.0,13.0,35.0,64.0,14.0,22.0,24.0,72.0,53.0,20.0,73.0,41.0,11.67,7.0
+427,미국,romancelentano,FC Cincinnati,25.0,United States,alexanderrando,25.0,52.0,19.0,7.0,31.0,42.0,14.0,31.0,16.0,58.0,38.0,22.0,54.0,25.5,9.0,5.0
+428,미국,alexfreeman,Orlando City,21.0,United States,christianramirez,34.0,68.0,69.0,66.0,72.0,65.0,45.0,57.0,64.0,81.0,72.0,60.0,9.67,64.5,24.33,67.0
+429,미국,chrisrichards,Crystal Palace,25.0,United States,maxfloriani,22.0,61.0,58.0,29.0,57.0,48.0,42.0,64.0,64.0,67.0,40.0,61.0,11.33,59.5,63.67,33.0
+430,미국,maxarfsten,Columbus Crew,24.0,United States,ethanbartlow,25.0,64.0,50.0,39.0,48.0,68.0,22.0,59.0,70.0,76.0,35.0,66.0,10.0,48.0,64.67,18.0
+431,미국,nathanharriel,Philadelphia Union,24.0,United States,noahkaidominicbanks,18.0,66.0,54.0,46.0,56.0,65.0,37.0,59.0,64.0,76.0,40.0,63.0,14.33,55.0,66.67,32.0
+432,미국,noahkaibanks,Augsburg,18.0,United States,seanzawadzki,25.0,68.0,69.0,66.0,67.0,67.0,50.0,70.0,73.0,70.0,60.0,75.0,8.67,70.5,67.33,44.0
+433,미국,seanzawadzki,Columbus Crew,25.0,United States,serginogiannidest,24.0,79.0,82.0,84.0,75.0,77.0,76.0,89.0,76.0,68.0,65.0,86.0,13.67,75.5,74.33,60.0
+434,미국,serginodest,PSV Eindhoven,24.0,United States,tombarlow,29.0,61.0,52.0,51.0,56.0,60.0,40.0,75.0,73.0,75.0,64.0,76.0,9.33,49.5,31.0,62.0
+435,미국,timream,Charlotte FC,37.0,United States,tristanbrown,17.0,57.0,54.0,58.0,44.0,55.0,47.0,73.0,55.0,51.0,50.0,79.0,12.67,51.0,52.67,50.0
+436,미국,tristanblackmon,Vancouver Whitecaps,29.0,United States,cristianroldan,30.0,74.0,73.0,71.0,70.0,78.0,68.0,77.0,85.0,73.0,69.0,77.0,13.33,70.5,70.67,60.0
+437,미국,cristianroldan,Seattle Sounders FC,30.0,United States,jackryanmcglynn,21.0,71.0,70.0,70.0,69.0,70.0,61.0,71.0,77.0,57.0,65.0,69.0,7.67,75.5,59.33,50.0
+438,미국,jackmcglynn,Houston Dynamo FC,22.0,United States,lucadanieldelatorre,27.0,72.0,74.0,72.0,67.0,67.0,72.0,72.0,89.0,52.0,58.0,57.0,9.33,74.5,63.67,66.0
+439,미국,lucadelatorre,San Diego FC,27.0,United States,sebastianberhalter,24.0,67.0,66.0,64.0,66.0,69.0,65.0,72.0,86.0,63.0,56.0,71.0,9.0,67.5,66.33,55.0
+440,미국,sebastianberhalter,Vancouver Whitecaps,24.0,United States,tylershaanadams,26.0,79.0,76.0,73.0,77.0,77.0,63.0,85.0,79.0,68.0,68.0,74.0,7.0,76.0,79.33,52.0
+441,미국,tyleradams,AFC Bournemouth,26.0,United States,alexanderrando,25.0,52.0,19.0,7.0,31.0,42.0,14.0,31.0,16.0,58.0,38.0,22.0,54.0,25.5,9.0,5.0
+442,미국,alexzendejas,CF America,27.0,United States,christianmatepulisic,26.0,84.0,86.0,86.0,83.0,85.0,80.0,90.0,76.0,57.0,81.0,86.0,12.67,78.0,47.33,85.0
+443,미국,christianpulisic,Milan,27.0,United States,damionlamardowns,20.0,70.0,69.0,64.0,59.0,69.0,44.0,67.0,71.0,75.0,66.0,74.0,12.0,52.5,19.33,73.0
+444,미국,damiondowns,Southampton,21.0,United States,diegoangelluna,21.0,72.0,74.0,78.0,62.0,66.0,65.0,83.0,64.0,79.0,63.0,76.0,11.0,66.0,38.67,66.0
+445,미국,diegoluna,Real Salt Lake,22.0,United States,aaronraylong,32.0,71.0,60.0,58.0,68.0,67.0,38.0,77.0,79.0,80.0,46.0,78.0,9.33,64.0,69.0,38.0
+446,미국,folarinbalogun,Monaco,24.0,United States,joshuacohen,32.0,68.0,14.0,14.0,26.0,67.0,11.0,31.0,22.0,55.0,49.0,23.0,67.0,26.0,9.0,7.0
+447,미국,joshuasargent,Norwich City,25.0,United States,timothytarpehweah,25.0,77.0,78.0,77.0,74.0,75.0,75.0,86.0,70.0,59.0,79.0,88.0,12.0,73.5,69.0,74.0
+448,스위스,timothyweah,Marseille,25.0,Switzerland,gregorkobel,27.0,86.0,34.0,24.0,66.0,84.0,13.0,38.0,30.0,81.0,48.0,52.0,86.67,36.0,15.0,10.0
+449,스위스,gregorkobel,Borussia Dortmund,27.0,Switzerland,marvinkeller,22.0,72.0,11.0,14.0,24.0,61.0,16.0,38.0,26.0,61.0,53.0,39.0,73.33,26.0,14.33,7.0
+450,스위스,marvinkeller,Young Boys,23.0,Switzerland,pascaldavidloretz,22.0,72.0,26.0,18.0,51.0,67.0,16.0,45.0,35.0,72.0,51.0,42.0,72.33,41.5,18.0,13.0
+451,스위스,pascalloretz,Luzern,22.0,Switzerland,gianstork,18.0,52.0,50.0,45.0,39.0,53.0,42.0,62.0,46.0,52.0,50.0,61.0,10.67,54.5,52.33,31.0
+452,스위스,yvonmvogo,Lorient,31.0,Switzerland,aureleflorianamenda,21.0,71.0,58.0,42.0,62.0,66.0,40.0,71.0,39.0,90.0,42.0,65.0,10.33,67.0,70.67,23.0
+453,스위스,aureleamenda,Eintracht Frankfurt,22.0,Switzerland,cedriczesiger,27.0,76.0,65.0,60.0,69.0,75.0,42.0,56.0,72.0,90.0,64.0,74.0,6.67,69.0,73.0,37.0
+454,스위스,cedriczesiger,Augsburg,27.0,Switzerland,isaacosa'sschmidt,25.0,72.0,72.0,73.0,65.0,64.0,60.0,87.0,80.0,60.0,58.0,86.0,8.33,60.5,67.67,55.0
+455,스위스,isaacschmidt,Werder Bremen,25.0,Switzerland,lucasblondel,28.0,72.0,71.0,70.0,73.0,68.0,64.0,75.0,83.0,65.0,76.0,82.0,10.0,63.0,69.67,55.0
+456,스위스,lucasblondel,Boca Juniors,29.0,Switzerland,manuelobafemiakanji,29.0,82.0,75.0,74.0,80.0,82.0,55.0,71.0,71.0,85.0,75.0,76.0,8.33,78.0,82.67,38.0
+457,스위스,manuelakanji,Inter,30.0,Switzerland,nicomaier,24.0,61.0,64.0,60.0,58.0,52.0,57.0,68.0,53.0,43.0,57.0,68.0,7.67,61.5,36.33,58.0
+458,스위스,miromuheim,Hamburger SV,27.0,Switzerland,nicoelvedi,28.0,77.0,68.0,62.0,70.0,73.0,65.0,68.0,70.0,79.0,50.0,71.0,10.0,66.0,77.67,30.0
+459,스위스,nicoelvedi,Borussia Mönchengladbach,28.0,Switzerland,ricardoivanrodriguezaraya,32.0,74.0,76.0,76.0,77.0,74.0,82.0,67.0,74.0,71.0,84.0,66.0,13.0,76.5,71.33,58.0
+460,스위스,ricardorodriguez,Real Betis,33.0,Switzerland,ardonjashari,22.0,77.0,75.0,70.0,76.0,74.0,68.0,77.0,91.0,80.0,76.0,74.0,8.67,78.0,72.0,64.0
+461,스위스,ardonjashari,Milan,23.0,Switzerland,demirxhemalija,19.0,48.0,41.0,44.0,42.0,51.0,31.0,61.0,50.0,48.0,41.0,61.0,7.0,48.5,45.33,25.0
+462,스위스,deniszakaria,Monaco,28.0,Switzerland,fabianrieder,23.0,74.0,75.0,74.0,74.0,67.0,54.0,75.0,75.0,59.0,73.0,73.0,12.33,74.5,52.33,70.0
+463,스위스,fabianrieder,Augsburg,23.0,Switzerland,granitxhaka,32.0,85.0,82.0,73.0,84.0,86.0,77.0,40.0,84.0,78.0,89.0,53.0,9.0,89.5,78.0,67.0
+464,스위스,granitxhaka,Sunderland,33.0,Switzerland,joelalmadamonteiro,25.0,73.0,75.0,74.0,66.0,69.0,60.0,80.0,77.0,83.0,70.0,82.0,7.0,67.0,44.33,74.0
+465,스위스,joelmonteiro,Young Boys,26.0,Switzerland,johanmanzambi,19.0,67.0,70.0,72.0,63.0,65.0,52.0,80.0,60.0,64.0,66.0,70.0,10.0,63.0,55.0,65.0
+466,스위스,johanmanzambi,Freiburg,19.0,Switzerland,michelaebischer,28.0,74.0,78.0,73.0,72.0,72.0,68.0,73.0,72.0,69.0,73.0,61.0,11.33,73.5,75.0,66.0
+467,스위스,michelaebischer,Pisa,28.0,Switzerland,remomarcofreuler,33.0,81.0,83.0,76.0,83.0,82.0,65.0,63.0,91.0,67.0,75.0,53.0,13.0,80.5,79.67,70.0
+468,스위스,remofreuler,Bologna,33.0,Switzerland,silvanelisidler,26.0,64.0,58.0,62.0,59.0,60.0,65.0,67.0,74.0,62.0,65.0,61.0,8.33,62.5,61.0,57.0
+469,스위스,silvanwidmer,Mainz 05,32.0,Switzerland,gianstork,18.0,52.0,50.0,45.0,39.0,53.0,42.0,62.0,46.0,52.0,50.0,61.0,10.67,54.5,52.33,31.0
+470,스위스,simonsohm,Fiorentina,24.0,Switzerland,vincentoliviersierro,29.0,75.0,75.0,72.0,75.0,75.0,72.0,63.0,85.0,72.0,66.0,52.0,12.67,76.5,72.0,67.0
+471,스위스,vincentsierro,Al Shabab,29.0,Switzerland,breeldonaldembolo,28.0,77.0,77.0,76.0,75.0,75.0,63.0,73.0,68.0,85.0,83.0,82.0,10.67,72.5,47.0,75.0
+472,스위스,breelembolo,Rennes,28.0,Switzerland,cedricjanitten,28.0,70.0,67.0,65.0,70.0,70.0,62.0,68.0,72.0,84.0,80.0,68.0,7.67,60.5,33.0,68.0
+473,스위스,cedricitten,Fortuna Düsseldorf,28.0,Switzerland,yannsommer,36.0,87.0,30.0,22.0,54.0,83.0,13.0,48.0,45.0,68.0,64.0,54.0,86.33,42.0,14.33,13.0
+474,스위스,danndoye,Nottingham Forest,24.0,Switzerland,rubenlondja,19.0,62.0,62.0,64.0,62.0,56.0,58.0,74.0,48.0,58.0,67.0,80.0,8.67,55.5,27.33,57.0
+475,세네갈,rubenvargas,Sevilla,27.0,Senegal,edouardosoquemendy,33.0,80.0,31.0,18.0,57.0,80.0,10.0,33.0,36.0,72.0,56.0,36.0,79.33,54.0,11.33,5.0
+476,세네갈,edouardmendy,Al Ahli,33.0,Senegal,morydiaw,32.0,70.0,24.0,19.0,33.0,59.0,17.0,44.0,29.0,72.0,53.0,42.0,70.67,28.0,19.67,19.0
+477,세네갈,morydiaw,Le Havre,32.0,Senegal,yehvanndiouf,25.0,78.0,21.0,13.0,46.0,75.0,13.0,52.0,44.0,62.0,57.0,48.0,78.0,32.5,13.33,8.0
+478,세네갈,yehvanndiouf,Nice,25.0,Senegal,sambadiallo,22.0,63.0,64.0,66.0,46.0,63.0,57.0,72.0,59.0,58.0,65.0,69.0,10.33,56.5,23.0,59.0
+479,세네갈,abdoudiallo,Al-Duhail SC,29.0,Senegal,abdoulayefaye,20.0,68.0,66.0,63.0,58.0,65.0,23.0,75.0,65.0,74.0,41.0,77.0,11.33,65.0,66.33,26.0
+480,세네갈,abdoulayeseck,Maccabi Haifa,33.0,Senegal,amadouniang,19.0,50.0,44.0,30.0,44.0,50.0,22.0,52.0,44.0,57.0,34.0,56.0,9.0,28.0,50.33,21.0
+481,세네갈,amadoubenecoly,세네갈,,Senegal,antoinemendy,21.0,70.0,64.0,61.0,67.0,67.0,56.0,63.0,69.0,72.0,52.0,65.0,13.33,59.0,71.33,32.0
+482,세네갈,antoinemendy,Nice,21.0,Senegal,sadiomane,33.0,83.0,85.0,84.0,83.0,84.0,77.0,81.0,80.0,72.0,85.0,83.0,10.33,76.0,40.67,81.0
+483,세네갈,bayeassane,세네갈,,Senegal,sadiomane,33.0,83.0,85.0,84.0,83.0,84.0,77.0,81.0,80.0,72.0,85.0,83.0,10.33,76.0,40.67,81.0
+484,세네갈,badaouda,세네갈,,Senegal,ismailasarr,27.0,79.0,79.0,77.0,82.0,78.0,75.0,89.0,72.0,72.0,83.0,93.0,9.67,74.5,25.0,79.0
+485,세네갈,ismailjakobs,Galatasaray,26.0,Senegal,kalidoukoulibaly,34.0,82.0,70.0,69.0,75.0,81.0,50.0,61.0,74.0,89.0,67.0,84.0,8.33,67.5,81.67,43.0
+486,세네갈,kalidoukoulibaly,Al Hilal,34.0,Senegal,krepindiatta,26.0,74.0,74.0,77.0,70.0,70.0,67.0,90.0,83.0,61.0,73.0,86.0,11.0,66.0,56.33,68.0
+487,세네갈,krepindiatta,Monaco,26.0,Senegal,baousseynou,29.0,74.0,66.0,44.0,55.0,64.0,34.0,68.0,72.0,83.0,45.0,69.0,10.67,58.5,73.33,26.0
+488,세네갈,layoussesamb,세네갈,,Senegal,mamadoumbaye,27.0,68.0,62.0,30.0,56.0,56.0,51.0,50.0,59.0,70.0,48.0,51.0,8.33,63.0,69.67,21.0
+489,세네갈,mamadoumbow,Paris FC,25.0,Senegal,moussaniakhate,29.0,77.0,64.0,65.0,75.0,76.0,63.0,55.0,75.0,83.0,49.0,78.0,8.0,68.5,77.33,49.0
+490,세네갈,moussaniakhate,Lyon,29.0,Senegal,amadouniang,19.0,50.0,44.0,30.0,44.0,50.0,22.0,52.0,44.0,57.0,34.0,56.0,9.0,28.0,50.33,21.0
+491,세네갈,amethniang,세네갈,,Senegal,ousseynoufallseck,18.0,55.0,55.0,54.0,58.0,52.0,40.0,53.0,49.0,75.0,43.0,65.0,10.67,59.0,39.33,45.0
+492,세네갈,bonaventurefonseca,세네갈,,Senegal,diaboulaye,28.0,80.0,79.0,79.0,78.0,78.0,55.0,81.0,74.0,74.0,84.0,87.0,11.67,69.5,39.0,83.0
+493,세네갈,diaboulaye,Lazio,28.0,Senegal,cheikhtoure,28.0,62.0,56.0,60.0,57.0,55.0,35.0,69.0,59.0,73.0,65.0,70.0,11.67,47.5,19.67,63.0
+494,세네갈,cheikhniasse,Hellas Verona,25.0,Senegal,laminecamara,21.0,77.0,77.0,76.0,75.0,76.0,80.0,82.0,81.0,61.0,72.0,76.0,11.33,79.0,72.67,65.0
+495,세네갈,habibdiarra,Sunderland,21.0,Senegal,idrissaganagueye,35.0,79.0,76.0,68.0,75.0,81.0,65.0,66.0,82.0,58.0,76.0,55.0,11.0,74.5,81.0,52.0
+496,세네갈,idrissaganagueye,Everton,36.0,Senegal,diaboulaye,28.0,80.0,79.0,79.0,78.0,78.0,55.0,81.0,74.0,74.0,84.0,87.0,11.67,69.5,39.0,83.0
+497,세네갈,insaboye,세네갈,,Senegal,ismailasarr,27.0,79.0,79.0,77.0,82.0,78.0,75.0,89.0,72.0,72.0,83.0,93.0,9.67,74.5,25.0,79.0
+498,세네갈,ismailasarr,Crystal Palace,27.0,Senegal,ibousane,20.0,63.0,67.0,67.0,58.0,57.0,43.0,67.0,54.0,58.0,59.0,75.0,10.0,48.5,19.0,65.0
+499,세네갈,issakane,세네갈,,Senegal,laminecamara,21.0,77.0,77.0,76.0,75.0,76.0,80.0,82.0,81.0,61.0,72.0,76.0,11.33,79.0,72.67,65.0
+500,세네갈,laminecamara,Monaco,21.0,Senegal,idrissagueye,18.0,70.0,72.0,70.0,64.0,66.0,34.0,63.0,60.0,72.0,68.0,70.0,10.67,49.5,17.33,71.0
+501,세네갈,libassegueye,세네갈,,Senegal,malickdiop,19.0,63.0,71.0,69.0,43.0,58.0,49.0,65.0,55.0,70.0,58.0,60.0,11.0,67.5,55.0,29.0
+502,세네갈,malickdiouf,West Ham United,20.0,Senegal,ilaycamara,22.0,69.0,70.0,77.0,66.0,68.0,70.0,85.0,78.0,60.0,54.0,74.0,12.67,65.0,60.67,58.0
+503,세네갈,mbayeyayaly,세네갈,,Senegal,modoukebacisse,19.0,64.0,61.0,41.0,54.0,58.0,37.0,71.0,66.0,64.0,40.0,67.0,8.0,61.0,65.0,38.0
+504,세네갈,moussacisse,세네갈,,Senegal,issasoumare,24.0,72.0,72.0,74.0,68.0,69.0,67.0,83.0,69.0,62.0,60.0,83.0,9.33,60.5,13.67,67.0
+505,세네갈,baoumar,세네갈,,Senegal,ousseynoufallseck,18.0,55.0,55.0,54.0,58.0,52.0,40.0,53.0,49.0,75.0,43.0,65.0,10.67,59.0,39.33,45.0
+506,세네갈,ousseynoufallseck,Randers FC,,Senegal,damegueye,29.0,66.0,68.0,66.0,63.0,69.0,31.0,61.0,50.0,46.0,72.0,53.0,10.33,41.5,17.0,70.0
+507,세네갈,papegueye,Villarreal,26.0,Senegal,papematarsarr,22.0,79.0,79.0,79.0,79.0,82.0,72.0,71.0,85.0,71.0,69.0,66.0,10.0,80.0,76.67,65.0
+508,세네갈,papesarr,Tottenham Hotspur,23.0,Senegal,pathemboup,21.0,69.0,68.0,72.0,60.0,62.0,60.0,90.0,82.0,59.0,72.0,84.0,11.67,59.5,27.33,67.0
+509,세네갈,patheciss,Rayo Vallecano,31.0,Senegal,serignesalioudiop,20.0,57.0,61.0,62.0,53.0,39.0,39.0,59.0,34.0,65.0,63.0,61.0,12.0,31.5,20.0,59.0
+510,세네갈,serignemoctarkoita,Diaraf,,Senegal,papematarsarr,22.0,79.0,79.0,79.0,79.0,82.0,72.0,71.0,85.0,71.0,69.0,66.0,10.0,80.0,76.67,65.0
+511,세네갈,ababacarsarr,Diaraf,,Senegal,cheikhfall,21.0,57.0,63.0,64.0,57.0,51.0,42.0,66.0,53.0,62.0,54.0,54.0,9.33,62.0,43.67,49.0
+512,세네갈,cheikhsabaly,Metz,26.0,Senegal,papecherifndiaye,29.0,70.0,69.0,69.0,66.0,66.0,55.0,80.0,78.0,81.0,73.0,80.0,9.0,56.0,33.67,70.0
+513,세네갈,cherifndiaye,Samsunspor,29.0,Senegal,morndiaye,24.0,64.0,61.0,60.0,59.0,64.0,53.0,64.0,65.0,74.0,60.0,68.0,12.67,61.0,63.0,49.0
+514,세네갈,ilimanndiaye,Everton,25.0,Senegal,nicolasjackson,24.0,80.0,79.0,81.0,77.0,80.0,62.0,81.0,81.0,77.0,79.0,83.0,8.67,69.5,33.33,81.0
+515,세네갈,nicolasjackson,Bayern München,24.0,Senegal,sadiomane,33.0,83.0,85.0,84.0,83.0,84.0,77.0,81.0,80.0,72.0,85.0,83.0,10.33,76.0,40.67,81.0
+516,일본,sadiomane,Al Nassr FC,33.0,Japan,keisukegoto後藤啓介,20.0,57.0,45.0,55.0,53.0,56.0,31.0,53.0,59.0,80.0,55.0,53.0,9.67,41.0,26.67,64.0
+517,일본,keisukeosako,Sanfrecce Hiroshima,26.0,Japan,tomokiiwata岩田智輝,28.0,72.0,72.0,64.0,73.0,72.0,54.0,73.0,77.0,78.0,76.0,77.0,10.33,71.0,68.0,57.0
+518,일본,tomokihayakawa,Kashima Antlers,26.0,Japan,zionsuzuki鈴木彩艶,22.0,74.0,11.0,14.0,39.0,67.0,12.0,55.0,23.0,78.0,53.0,58.0,74.0,22.0,12.33,6.0
+519,일본,zionsuzuki,Parma,23.0,Japan,ayumuseko瀬古歩夢,25.0,69.0,64.0,53.0,66.0,70.0,42.0,63.0,90.0,73.0,53.0,65.0,10.67,69.5,68.67,30.0
+520,일본,ayumuseko,Le Havre,25.0,Japan,hayatoinamura,23.0,66.0,63.0,56.0,59.0,59.0,53.0,73.0,65.0,74.0,49.0,69.0,12.0,68.5,64.0,17.0
+521,일본,hayatoaraki,Sanfrecce Hiroshima,29.0,Japan,hirokisekine関根大輝,22.0,71.0,59.0,56.0,53.0,68.0,63.0,74.0,80.0,69.0,42.0,68.0,9.33,53.0,71.0,26.0
+522,일본,hirokisekine,Reims,23.0,Japan,koitakura板倉滉,28.0,77.0,74.0,75.0,76.0,76.0,34.0,77.0,76.0,75.0,67.0,74.0,11.67,75.5,78.33,60.0
+523,일본,koitakura,Ajax,28.0,Japan,shinyamada,25.0,69.0,57.0,59.0,58.0,73.0,46.0,86.0,73.0,71.0,74.0,77.0,9.67,43.0,26.67,69.0
+524,일본,tomoyaando,Avispa Fukuoka,26.0,Japan,tsuyoshiwatanabe渡辺剛,28.0,75.0,66.0,53.0,65.0,72.0,25.0,76.0,74.0,82.0,52.0,76.0,12.33,67.0,76.0,33.0
+525,일본,tsuyoshiwatanabe,Feyenoord,28.0,Japan,yukinarisugawara菅原由勢,25.0,74.0,72.0,71.0,70.0,71.0,76.0,75.0,75.0,67.0,65.0,75.0,9.33,72.5,71.0,48.0
+526,일본,yukinarisugawara,Werder Bremen,25.0,Japan,aotanaka田中碧,26.0,76.0,77.0,75.0,79.0,74.0,61.0,72.0,86.0,65.0,73.0,69.0,9.33,76.0,73.67,66.0
+527,일본,yutonagatomo,FC Tokyo,39.0,Japan,daichikamada鎌田大地,28.0,77.0,79.0,77.0,74.0,79.0,74.0,74.0,75.0,55.0,65.0,68.0,7.67,78.0,63.0,74.0
+528,일본,daichikamada,Crystal Palace,29.0,Japan,ryogakida,19.0,56.0,55.0,63.0,51.0,52.0,38.0,63.0,51.0,42.0,53.0,71.0,10.33,50.0,18.33,62.0
+529,일본,henrymochizuki,Machida Zelvia,,Japan,joelchimafujita藤田譲瑠チマ,23.0,69.0,71.0,65.0,67.0,61.0,44.0,76.0,72.0,69.0,67.0,59.0,11.0,74.0,65.67,55.0
+530,일본,joelchimafujita,St. Pauli,23.0,Japan,kaishusano佐野海舟,24.0,79.0,75.0,76.0,76.0,78.0,53.0,76.0,92.0,65.0,65.0,81.0,7.67,75.5,74.33,43.0
+531,일본,kaishusano,Mainz 05,24.0,Japan,kodaisano佐野航大,21.0,71.0,73.0,71.0,69.0,67.0,67.0,79.0,81.0,58.0,63.0,58.0,12.67,73.5,66.33,60.0
+532,일본,kodaisano,NEC Nijmegen,22.0,Japan,takumiminamino南野拓実,30.0,78.0,80.0,81.0,78.0,77.0,73.0,84.0,74.0,58.0,71.0,71.0,12.67,73.0,35.33,76.0
+533,일본,takumiminamino,Monaco,30.0,Japan,wataruendo遠藤航,32.0,79.0,78.0,76.0,79.0,77.0,58.0,66.0,77.0,67.0,76.0,52.0,8.33,78.5,77.33,67.0
+534,일본,wataruendo,Liverpool,32.0,Japan,yuitosuzuki鈴木唯人,23.0,71.0,72.0,73.0,68.0,67.0,62.0,84.0,81.0,45.0,72.0,83.0,11.33,67.0,47.67,69.0
+535,일본,yuitosuzuki,Freiburg,23.0,Japan,ayaseueda上田綺世,26.0,74.0,69.0,65.0,79.0,76.0,47.0,75.0,72.0,70.0,73.0,73.0,9.33,54.0,22.0,78.0
+536,일본,ayaseueda,Feyenoord,27.0,Japan,daizenmaeda前田大然,27.0,79.0,71.0,73.0,76.0,85.0,69.0,94.0,95.0,67.0,78.0,91.0,8.67,65.5,62.67,82.0
+537,일본,daizenmaeda,Celtic,27.0,Japan,shofukuda,24.0,66.0,69.0,67.0,67.0,58.0,58.0,82.0,64.0,59.0,65.0,80.0,6.67,58.5,13.67,67.0
+538,일본,itojunya,Genk,32.0,Japan,kaorumitoma三笘薫,28.0,82.0,88.0,87.0,84.0,77.0,77.0,88.0,75.0,60.0,69.0,87.0,11.0,72.5,57.0,79.0
+539,일본,kaorumitoma,Brighton & Hove Albion,28.0,Japan,kokiogawa小川航基,27.0,68.0,67.0,64.0,72.0,68.0,49.0,50.0,68.0,72.0,72.0,51.0,10.67,55.5,25.33,70.0
+540,일본,kokiogawa,NEC Nijmegen,28.0,Japan,shofukuda,24.0,66.0,69.0,67.0,67.0,58.0,58.0,82.0,64.0,59.0,65.0,80.0,6.67,58.5,13.67,67.0
+541,일본,maohosoya,Kashiwa Reysol,24.0,Japan,ritsudoan堂安律,27.0,82.0,84.0,86.0,75.0,79.0,77.0,86.0,90.0,59.0,67.0,78.0,11.67,75.0,39.0,75.0
+542,일본,ritsudoan,Eintracht Frankfurt,27.0,Japan,shutomachino町野修斗,25.0,75.0,76.0,77.0,67.0,69.0,58.0,74.0,80.0,75.0,82.0,91.0,9.0,68.0,34.0,74.0
+543,일본,shutomachino,Borussia Mönchengladbach,25.0,Japan,takefusakubo久保建英,24.0,82.0,84.0,86.0,80.0,80.0,80.0,89.0,74.0,60.0,77.0,84.0,8.67,76.0,43.0,79.0
+544,덴마크,takefusakubo,Real Sociedad,24.0,Denmark,filipjørgensen,23.0,77.0,40.0,18.0,55.0,74.0,10.0,45.0,35.0,62.0,54.0,45.0,77.33,46.0,14.33,11.0
+545,덴마크,filipjorgensen,Chelsea,23.0,Denmark,kasperpeterschmeichel,38.0,79.0,40.0,12.0,65.0,79.0,18.0,38.0,31.0,72.0,61.0,47.0,78.67,62.5,13.67,12.0
+546,덴마크,kasperschmeichel,Celtic,38.0,Denmark,madshermansen,24.0,76.0,40.0,24.0,41.0,68.0,13.0,49.0,44.0,61.0,57.0,51.0,76.33,61.0,12.67,9.0
+547,덴마크,madshermansen,West Ham United,25.0,Denmark,oliverchristensen,26.0,71.0,19.0,16.0,45.0,63.0,10.0,45.0,42.0,64.0,52.0,43.0,71.67,45.5,14.0,5.0
+548,덴마크,andreaschristensen,Barcelona,29.0,Denmark,antongaaei,22.0,72.0,66.0,66.0,60.0,65.0,74.0,82.0,90.0,69.0,78.0,81.0,9.67,59.5,64.67,58.0
+549,덴마크,antongaaei,Ajax,22.0,Denmark,jannikvestergaard,32.0,74.0,62.0,53.0,70.0,72.0,48.0,29.0,54.0,90.0,83.0,34.0,13.67,70.0,71.67,34.0
+550,덴마크,jannikvestergaard,Leicester City,33.0,Denmark,jacobandersen,21.0,66.0,62.0,60.0,60.0,60.0,60.0,79.0,67.0,70.0,49.0,79.0,8.0,61.5,61.0,38.0
+551,덴마크,joachimandersen,Fulham,29.0,Denmark,jakobjessen,21.0,60.0,60.0,57.0,45.0,59.0,41.0,69.0,64.0,58.0,52.0,67.0,7.67,59.5,48.67,56.0
+552,덴마크,joakimmæhle,Wolfsburg,28.0,Denmark,lucashøgsberg,19.0,69.0,62.0,59.0,57.0,67.0,55.0,65.0,67.0,73.0,28.0,68.0,9.33,64.0,68.67,29.0
+553,덴마크,lucashøgsberg,Strasbourg,,Denmark,rasmuscarstensen,24.0,68.0,67.0,65.0,60.0,64.0,68.0,77.0,79.0,69.0,65.0,74.0,8.67,66.0,63.33,57.0
+554,덴마크,rasmuskristensen,Eintracht Frankfurt,28.0,Denmark,matthewseano'riley,24.0,78.0,78.0,76.0,79.0,79.0,74.0,67.0,78.0,72.0,81.0,68.0,11.0,80.0,67.0,77.0
+555,덴마크,matthewo'riley,Marseille,24.0,Denmark,mikkelkroghdamsgaard,24.0,80.0,80.0,81.0,81.0,80.0,79.0,70.0,78.0,62.0,72.0,66.0,8.0,82.5,66.0,74.0
+556,덴마크,mikkeldamsgaard,Brentford,25.0,Denmark,mortenblomduehjulmand,26.0,83.0,80.0,76.0,82.0,81.0,72.0,69.0,91.0,81.0,82.0,71.0,9.33,80.5,79.67,76.0
+557,덴마크,mortenhjulmand,Sporting CP,26.0,Denmark,patrickmortensen,35.0,72.0,71.0,64.0,78.0,78.0,38.0,50.0,76.0,85.0,72.0,47.0,9.0,62.5,21.67,75.0
+558,덴마크,patrickdorgu,Manchester United,20.0,Denmark,pierreemilekordthøjbjerg,29.0,82.0,79.0,75.0,79.0,82.0,68.0,52.0,81.0,78.0,85.0,47.0,10.33,82.5,77.67,68.0
+559,덴마크,pierreemilehøjbjerg,Marseille,30.0,Denmark,victormowfroholdt,19.0,71.0,72.0,72.0,72.0,74.0,58.0,76.0,80.0,60.0,66.0,75.0,9.67,70.0,68.0,62.0
+560,덴마크,victorfroholdt,FC Porto,,Denmark,albertrrahmani,18.0,59.0,63.0,62.0,50.0,51.0,55.0,73.0,56.0,45.0,57.0,70.0,8.67,58.0,35.67,57.0
+561,덴마크,albertgrønbæk,Genoa,24.0,Denmark,andersdahl,23.0,63.0,63.0,60.0,51.0,62.0,60.0,66.0,59.0,44.0,48.0,65.0,9.67,64.0,59.33,42.0
+562,덴마크,andersdreyer,San Diego FC,27.0,Denmark,andreasskovolsen,25.0,77.0,80.0,80.0,72.0,66.0,76.0,85.0,72.0,70.0,80.0,81.0,10.33,71.0,35.67,77.0
+563,덴마크,andreasskovolsen,Wolfsburg,25.0,Denmark,jacobbruunlarsen,26.0,74.0,74.0,75.0,66.0,73.0,69.0,85.0,62.0,68.0,82.0,72.0,12.0,69.5,51.33,72.0
+564,덴마크,jacobbruunlarsen,Burnley,27.0,Denmark,oliverolsen,24.0,69.0,66.0,63.0,53.0,60.0,65.0,72.0,82.0,71.0,53.0,75.0,6.33,64.5,64.33,47.0
+565,덴마크,kasperdolberg,Ajax,27.0,Denmark,mikamilesbiereth,22.0,78.0,75.0,70.0,77.0,78.0,57.0,69.0,73.0,79.0,78.0,79.0,10.33,63.5,26.67,83.0
+566,덴마크,mikabiereth,Monaco,22.0,Denmark,rasmuswintherhøjlund,22.0,76.0,73.0,75.0,72.0,73.0,38.0,84.0,70.0,82.0,84.0,86.0,11.0,61.0,26.33,77.0
+567,덴마크,rasmushøjlund,Napoli,22.0,Denmark,williamclem,21.0,68.0,67.0,60.0,66.0,64.0,55.0,55.0,70.0,73.0,62.0,52.0,10.33,69.5,66.0,48.0
+568,이란,williamosula,Newcastle United,22.0,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+569,이란,alirezabeiranvand,Tractor,33.0,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+570,이란,hosseinhosseini,Sepahan,33.0,Iran,mehditaremiمهدیطارمی,32.0,78.0,80.0,78.0,84.0,76.0,70.0,77.0,65.0,77.0,75.0,72.0,10.67,72.0,34.67,80.0
+571,이란,mohammadkhalifeh,이란,,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+572,이란,parsajafari,Zob Ahan,,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+573,이란,payamniazmand,Persepolis,30.0,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+574,이란,alinemati,Foolad Khouzestan,,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+575,이란,arefaghasi,Esteghlal,,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+576,이란,ariayousefi,Sepahan,23.0,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+577,이란,miladmohammadi,Persepolis,31.0,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+578,이란,mohammadhazbavi,Sepahan,,Iran,mehditaremiمهدیطارمی,32.0,78.0,80.0,78.0,84.0,76.0,70.0,77.0,65.0,77.0,75.0,72.0,10.67,72.0,34.67,80.0
+579,이란,mortezapouraliganji,Persepolis,33.0,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+580,이란,omidnoorafkan,Sepahan,28.0,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+581,이란,roozbehcheshmi,Esteghlal,32.0,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+582,이란,sadeghmoharrami,Tractor,29.0,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+583,이란,salehhardani,Esteghlal,27.0,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+584,이란,shojakhalilzadeh,Tractor,36.0,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+585,이란,amirmohammadrazaghinia,Esteghlal,,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+586,이란,arefhajieydi,Aluminium Arak,26.0,Iran,mehditaremiمهدیطارمی,32.0,78.0,80.0,78.0,84.0,76.0,70.0,77.0,65.0,77.0,75.0,72.0,10.67,72.0,34.67,80.0
+587,이란,mehdihashemnejad,Tractor,23.0,Iran,mehditaremiمهدیطارمی,32.0,78.0,80.0,78.0,84.0,76.0,70.0,77.0,65.0,77.0,75.0,72.0,10.67,72.0,34.67,80.0
+588,이란,mohammadghorbani,Al-Wahda,24.0,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+589,이란,mohammadkarimi,Sepahan,,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+590,이란,saeidezatolahi,Shabab Al-Ahli Dubai FC,28.0,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+591,이란,samanghoddos,Al Ittihad Kalba,32.0,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+592,이란,alialipour,Persepolis,29.0,Iran,aligholizadehعلیقلی‌زاده,29.0,71.0,70.0,72.0,69.0,65.0,68.0,74.0,74.0,62.0,69.0,69.0,10.67,68.5,47.33,68.0
+593,이란,amirhosseinhosseinzadeh,Tractor,24.0,Iran,mehditaremiمهدیطارمی,32.0,78.0,80.0,78.0,84.0,76.0,70.0,77.0,65.0,77.0,75.0,72.0,10.67,72.0,34.67,80.0
+594,이란,mehditaremi,Olympiacos,33.0,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+595,이란,mohammadaskari,이란,19.0,Iran,seyedmajidhosseiniمجیدحسینی,29.0,68.0,51.0,42.0,66.0,63.0,28.0,52.0,74.0,75.0,46.0,60.0,10.33,62.0,68.0,22.0
+596,이란,mohammadhosseinsadeghi,Havadar SC,,Iran,seyedmajidhosseiniمجیدحسینی,29.0,68.0,51.0,42.0,66.0,63.0,28.0,52.0,74.0,75.0,46.0,60.0,10.33,62.0,68.0,22.0
+597,이란,mohammadjavadhosseinnejad,Dynamo Makhachkala,22.0,Iran,mehditaremiمهدیطارمی,32.0,78.0,80.0,78.0,84.0,76.0,70.0,77.0,65.0,77.0,75.0,72.0,10.67,72.0,34.67,80.0
+598,이란,mohammadmehdimohebi,Al Ittihad Kalba,,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+599,이란,shahriarmoghanlou,Al Ittihad Kalba,,Iran,alikarimiعلیکریمی,31.0,67.0,72.0,66.0,67.0,67.0,58.0,64.0,69.0,74.0,64.0,48.0,6.67,67.0,62.67,60.0
+600,오스트리아,yaghoobbarajeh,Persepolis,19.0,Austria,alexanderschlager,29.0,73.0,23.0,13.0,33.0,69.0,20.0,46.0,24.0,55.0,52.0,47.0,73.67,21.5,19.33,14.0
+601,오스트리아,alexanderschlager,Salzburg,29.0,Austria,patrickpentz,28.0,72.0,25.0,15.0,37.0,70.0,19.0,52.0,42.0,63.0,53.0,55.0,71.67,25.5,18.0,13.0
+602,오스트리아,patrickpentz,Brøndby IF,28.0,Austria,tobiaskainz,32.0,67.0,64.0,62.0,64.0,65.0,65.0,72.0,87.0,65.0,68.0,70.0,9.67,65.5,64.0,53.0
+603,오스트리아,tobiaslawal,Genk,25.0,Austria,alexanderprass,24.0,74.0,74.0,74.0,74.0,74.0,74.0,76.0,79.0,73.0,72.0,73.0,9.33,74.0,68.67,59.0
+604,오스트리아,alexanderprass,Hoffenheim,24.0,Austria,davidfalkner,18.0,55.0,52.0,57.0,41.0,59.0,42.0,63.0,53.0,45.0,51.0,65.0,11.33,60.5,49.0,37.0
+605,오스트리아,davidalaba,Real Madrid,33.0,Austria,kevindanso,26.0,79.0,68.0,59.0,72.0,77.0,44.0,65.0,66.0,90.0,49.0,79.0,12.67,65.5,77.67,26.0
+606,오스트리아,kevindanso,Tottenham Hotspur,27.0,Austria,konradlaimer,28.0,82.0,75.0,74.0,79.0,84.0,76.0,82.0,79.0,69.0,74.0,82.0,11.33,79.5,82.0,69.0
+607,오스트리아,konradlaimer,Bayern München,28.0,Austria,leopoldquerfeld,21.0,75.0,56.0,47.0,71.0,69.0,33.0,39.0,68.0,85.0,79.0,51.0,11.33,72.0,75.67,24.0
+608,오스트리아,leopoldquerfeld,Union Berlin,21.0,Austria,philipplienhart,28.0,79.0,69.0,59.0,75.0,78.0,41.0,62.0,75.0,79.0,29.0,71.0,13.33,72.0,79.0,24.0
+609,오스트리아,philipplienhart,Freiburg,29.0,Austria,phillippmwene,31.0,76.0,73.0,75.0,70.0,75.0,76.0,83.0,88.0,66.0,62.0,73.0,9.33,68.5,72.67,52.0
+610,오스트리아,phillippmwene,Mainz 05,31.0,Austria,samsonbaidoo,21.0,70.0,67.0,57.0,55.0,62.0,27.0,72.0,58.0,81.0,39.0,69.0,9.67,66.5,70.33,22.0
+611,오스트리아,samsonbaidoo,Lens,21.0,Austria,stefanposch,28.0,79.0,75.0,65.0,70.0,76.0,73.0,71.0,70.0,75.0,63.0,78.0,6.67,72.0,79.67,52.0
+612,오스트리아,stefanposch,Como,28.0,Austria,alessandroandreschopf,31.0,68.0,68.0,68.0,66.0,66.0,62.0,69.0,84.0,66.0,67.0,65.0,11.33,69.0,61.67,58.0
+613,오스트리아,alessandroschopf,Wolfsberger AC,31.0,Austria,christophbaumgartner,25.0,77.0,78.0,79.0,74.0,78.0,63.0,81.0,75.0,55.0,75.0,68.0,11.67,76.0,47.0,72.0
+614,오스트리아,christophbaumgartner,RB Leipzig,26.0,Austria,floriangrillitsch,29.0,75.0,77.0,74.0,74.0,77.0,66.0,55.0,64.0,72.0,64.0,69.0,11.33,80.5,71.67,58.0
+615,오스트리아,floriangrillitsch,Braga,30.0,Austria,marcelsabitzer,31.0,80.0,82.0,78.0,83.0,83.0,77.0,76.0,78.0,75.0,87.0,72.0,13.0,81.0,77.0,76.0
+616,오스트리아,marcelsabitzer,Borussia Dortmund,31.0,Austria,nicolasseiwald,24.0,77.0,75.0,72.0,70.0,78.0,73.0,74.0,81.0,72.0,70.0,70.0,8.67,77.0,73.33,58.0
+617,오스트리아,nicolasseiwald,RB Leipzig,24.0,Austria,patrickwimmer,24.0,77.0,79.0,82.0,70.0,75.0,73.0,83.0,78.0,73.0,75.0,84.0,13.0,70.0,48.33,70.0
+618,오스트리아,patrickwimmer,Wolfsburg,24.0,Austria,nicolasschmid,28.0,71.0,25.0,14.0,35.0,67.0,14.0,43.0,22.0,67.0,52.0,45.0,70.67,47.5,18.0,10.0
+619,오스트리아,romanoschmid,Werder Bremen,25.0,Austria,xaverschlager,27.0,80.0,78.0,78.0,74.0,80.0,59.0,74.0,77.0,77.0,78.0,64.0,8.33,80.0,76.0,66.0
+620,오스트리아,xaverschlager,RB Leipzig,27.0,Austria,andreasweimann,33.0,70.0,70.0,70.0,65.0,71.0,63.0,73.0,79.0,65.0,74.0,66.0,9.67,61.0,38.33,73.0
+621,오스트리아,andreasweimann,Derby County,34.0,Austria,marcogrull,26.0,75.0,75.0,77.0,69.0,73.0,69.0,84.0,75.0,72.0,76.0,74.0,8.67,67.0,34.67,76.0
+622,오스트리아,marcogrull,Werder Bremen,27.0,Austria,markoraguz,27.0,64.0,68.0,70.0,64.0,56.0,52.0,52.0,34.0,73.0,67.0,55.0,8.0,59.5,16.67,62.0
+623,오스트리아,markoarnautovic,FK Crvena Zvezda,36.0,Austria,michaelgregoritsch,31.0,75.0,74.0,68.0,73.0,80.0,62.0,36.0,71.0,86.0,83.0,37.0,10.67,65.5,38.0,78.0
+624,오스트리아,michaelgregoritsch,Brøndby IF,31.0,Austria,nikolauswurmbrand,19.0,68.0,66.0,70.0,61.0,66.0,59.0,88.0,68.0,58.0,68.0,85.0,8.0,57.0,27.67,67.0
+625,오스트리아,nikolauswurmbrand,Rapid Wien,19.0,Austria,raulflorucz,24.0,70.0,72.0,74.0,72.0,61.0,65.0,75.0,67.0,62.0,72.0,70.0,10.0,65.5,26.67,70.0
+626,대한민국,raulflorucz,Union St.Gilloise,24.0,South Korea,jinhyukhong,21.0,49.0,16.0,9.0,38.0,37.0,10.0,18.0,20.0,53.0,37.0,31.0,49.33,27.5,12.0,9.0
+627,대한민국,bumkeunsong,Jeonbuk Hyundai Motors FC,27.0,South Korea,hoyeonjoo,22.0,49.0,12.0,5.0,39.0,35.0,10.0,29.0,27.0,58.0,38.0,22.0,49.0,26.5,10.0,7.0
+628,대한민국,hyeonwoojo,Ulsan HD FC,34.0,South Korea,mingyukim,27.0,60.0,58.0,46.0,45.0,57.0,29.0,71.0,62.0,76.0,49.0,66.0,10.33,35.5,57.67,35.0
+629,대한민국,seunggyukim,FC Tokyo,34.0,South Korea,sangyonglee,31.0,53.0,56.0,45.0,42.0,56.0,52.0,67.0,72.0,61.0,39.0,73.0,12.0,53.0,50.33,47.0
+630,대한민국,hanbeomlee,FC Midtjylland,23.0,South Korea,hyunseokyoon,21.0,48.0,44.0,43.0,36.0,48.0,41.0,66.0,59.0,52.0,50.0,66.0,9.67,53.0,34.33,32.0
+631,대한민국,junsoobyeon,Gwangju FC,23.0,South Korea,sehyoungkim,18.0,51.0,19.0,14.0,30.0,43.0,14.0,19.0,21.0,47.0,44.0,21.0,48.67,21.5,10.0,7.0
+632,대한민국,jusungkim,Sanfrecce Hiroshima,24.0,South Korea,minjaekim,21.0,48.0,39.0,41.0,36.0,54.0,42.0,59.0,64.0,47.0,50.0,69.0,10.33,48.5,45.0,29.0
+633,대한민국,minjaekim,Bayern München,28.0,South Korea,minhokim,22.0,51.0,47.0,45.0,39.0,53.0,49.0,57.0,58.0,43.0,29.0,55.0,11.33,29.0,49.67,25.0
+634,대한민국,moonhwankim,Daejeon Hana Citizen,30.0,South Korea,minjaekim,21.0,48.0,39.0,41.0,36.0,54.0,42.0,59.0,64.0,47.0,50.0,69.0,10.33,48.5,45.0,29.0
+635,대한민국,myungjaelee,Daejeon Hana Citizen,31.0,South Korea,sehyoungkim,18.0,51.0,19.0,14.0,30.0,43.0,14.0,19.0,21.0,47.0,44.0,21.0,48.67,21.5,10.0,7.0
+636,대한민국,taehyeonkim,Kashima Antlers,,South Korea,sangyonglee,31.0,53.0,56.0,45.0,42.0,56.0,52.0,67.0,72.0,61.0,39.0,73.0,12.0,53.0,50.33,47.0
+637,대한민국,taeseoklee,Austria Wien,23.0,South Korea,seungwonyeo,25.0,63.0,55.0,56.0,44.0,58.0,62.0,81.0,81.0,79.0,52.0,85.0,11.67,40.5,55.67,41.0
+638,대한민국,youngwooseol,FK Crvena Zvezda,26.0,South Korea,sangyonglee,31.0,53.0,56.0,45.0,42.0,56.0,52.0,67.0,72.0,61.0,39.0,73.0,12.0,53.0,50.33,47.0
+639,대한민국,jaesunglee,Mainz 05,33.0,South Korea,jenscastrop,21.0,70.0,73.0,72.0,60.0,71.0,57.0,79.0,79.0,57.0,54.0,80.0,10.33,71.0,63.67,57.0
+640,대한민국,jenscastrop,Borussia Mönchengladbach,22.0,South Korea,mingyukim,27.0,60.0,58.0,46.0,45.0,57.0,29.0,71.0,62.0,76.0,49.0,66.0,10.33,35.5,57.67,35.0
+641,대한민국,jingyukim,Jeonbuk Hyundai Motors FC,28.0,South Korea,manhopark,21.0,48.0,15.0,5.0,33.0,37.0,13.0,20.0,27.0,42.0,34.0,19.0,48.0,21.5,11.33,8.0
+642,대한민국,jinseobpark,Jeonbuk Hyundai Motors FC,29.0,South Korea,minhokim,22.0,51.0,47.0,45.0,39.0,53.0,49.0,57.0,58.0,43.0,29.0,55.0,11.33,29.0,49.67,25.0
+643,대한민국,minwooseo,Gangwon FC,27.0,South Korea,manhopark,21.0,48.0,15.0,5.0,33.0,37.0,13.0,20.0,27.0,42.0,34.0,19.0,48.0,21.5,11.33,8.0
+644,대한민국,seunghopaik,Birmingham City,28.0,South Korea,jonghyunpark,24.0,60.0,50.0,40.0,44.0,54.0,28.0,56.0,64.0,75.0,31.0,56.0,6.67,54.0,59.0,21.0
+645,대한민국,yongwoopark,Al-Ain,32.0,South Korea,sangyonglee,31.0,53.0,56.0,45.0,42.0,56.0,52.0,67.0,72.0,61.0,39.0,73.0,12.0,53.0,50.33,47.0
+646,대한민국,donggyeonglee,Gimcheon Sangmu,28.0,South Korea,seungwonyeo,25.0,63.0,55.0,56.0,44.0,58.0,62.0,81.0,81.0,79.0,52.0,85.0,11.67,40.5,55.67,41.0
+647,대한민국,heungminson,Los Angeles FC,33.0,South Korea,hyunseokyoon,21.0,48.0,44.0,43.0,36.0,48.0,41.0,66.0,59.0,52.0,50.0,66.0,9.67,53.0,34.33,32.0
+648,대한민국,hyungyuoh,Genk,24.0,South Korea,jinhojo,21.0,57.0,58.0,53.0,48.0,51.0,44.0,64.0,56.0,53.0,65.0,65.0,9.67,69.5,48.33,39.0
+649,대한민국,joonhobae,Stoke City,22.0,South Korea,sangyonglee,31.0,53.0,56.0,45.0,42.0,56.0,52.0,67.0,72.0,61.0,39.0,73.0,12.0,53.0,50.33,47.0
+650,대한민국,kanginlee,Paris Saint-Germain,24.0,South Korea,seungjunhwang,19.0,48.0,39.0,53.0,32.0,45.0,39.0,65.0,56.0,51.0,21.0,61.0,10.33,29.0,44.33,22.0
+651,대한민국,sangbinjeong,St. Louis City,23.0,South Korea,hequan和泉,20.0,48.0,35.0,51.0,34.0,47.0,41.0,59.0,58.0,45.0,25.0,57.0,10.0,24.0,47.67,26.0
+652,에콰도르,sehunoh,Machida Zelvia,26.0,Ecuador,kevinvaras,32.0,67.0,70.0,72.0,72.0,59.0,50.0,76.0,57.0,42.0,70.0,65.0,7.33,65.5,48.33,61.0
+653,에콰도르,davidcabezas,El Nacional,,Ecuador,kevinvaras,32.0,67.0,70.0,72.0,72.0,59.0,50.0,76.0,57.0,42.0,70.0,65.0,7.33,65.5,48.33,61.0
+654,에콰도르,gonzalovalle,LDU de Quito,,Ecuador,hernanismaelgalindez,38.0,74.0,21.0,13.0,51.0,65.0,11.0,33.0,28.0,77.0,53.0,30.0,74.67,27.5,13.0,15.0
+655,에콰도르,hernangalindez,Huracan,38.0,Ecuador,kevinvaras,32.0,67.0,70.0,72.0,72.0,59.0,50.0,76.0,57.0,42.0,70.0,65.0,7.33,65.5,48.33,61.0
+656,에콰도르,moisesramirez,Kifisia FC,25.0,Ecuador,kevinvaras,32.0,67.0,70.0,72.0,72.0,59.0,50.0,76.0,57.0,42.0,70.0,65.0,7.33,65.5,48.33,61.0
+657,에콰도르,cristianramirez,Lokomotiv Moscow,31.0,Ecuador,kevinvaras,32.0,67.0,70.0,72.0,72.0,59.0,50.0,76.0,57.0,42.0,70.0,65.0,7.33,65.5,48.33,61.0
+658,에콰도르,felixtorres,Corinthians,28.0,Ecuador,paulduran,19.0,58.0,57.0,61.0,54.0,49.0,53.0,73.0,61.0,51.0,57.0,73.0,10.67,49.0,30.67,56.0
+659,에콰도르,joelordonez,Club Brugge,21.0,Ecuador,kevinvaras,32.0,67.0,70.0,72.0,72.0,59.0,50.0,76.0,57.0,42.0,70.0,65.0,7.33,65.5,48.33,61.0
+660,에콰도르,pervisestupinan,Milan,27.0,Ecuador,kevinvaras,32.0,67.0,70.0,72.0,72.0,59.0,50.0,76.0,57.0,42.0,70.0,65.0,7.33,65.5,48.33,61.0
+661,에콰도르,pierohincapie,Arsenal,23.0,Ecuador,kevinvaras,32.0,67.0,70.0,72.0,72.0,59.0,50.0,76.0,57.0,42.0,70.0,65.0,7.33,65.5,48.33,61.0
+662,에콰도르,willianpacho,Paris Saint-Germain,23.0,Ecuador,kevinvaras,32.0,67.0,70.0,72.0,72.0,59.0,50.0,76.0,57.0,42.0,70.0,65.0,7.33,65.5,48.33,61.0
+663,에콰도르,xavierarreaga,Barcelona SC,30.0,Ecuador,paulduran,19.0,58.0,57.0,61.0,54.0,49.0,53.0,73.0,61.0,51.0,57.0,73.0,10.67,49.0,30.67,56.0
+664,에콰도르,alanfranco,Atletico MG,27.0,Ecuador,paulduran,19.0,58.0,57.0,61.0,54.0,49.0,53.0,73.0,61.0,51.0,57.0,73.0,10.67,49.0,30.67,56.0
+665,에콰도르,angelopreciado,Sparta Prague,27.0,Ecuador,kevinvaras,32.0,67.0,70.0,72.0,72.0,59.0,50.0,76.0,57.0,42.0,70.0,65.0,7.33,65.5,48.33,61.0
+666,에콰도르,darwinguagua,Independiente del Valle,,Ecuador,kevinvaras,32.0,67.0,70.0,72.0,72.0,59.0,50.0,76.0,57.0,42.0,70.0,65.0,7.33,65.5,48.33,61.0
+667,에콰도르,denilcastillo,FC Midtjylland,21.0,Ecuador,paulduran,19.0,58.0,57.0,61.0,54.0,49.0,53.0,73.0,61.0,51.0,57.0,73.0,10.67,49.0,30.67,56.0
+668,에콰도르,jordyalcivar,Independiente del Valle,26.0,Ecuador,moisesisaaccaicedocorozo,23.0,87.0,83.0,79.0,83.0,84.0,65.0,76.0,90.0,77.0,75.0,66.0,12.33,84.5,85.33,57.0
+669,에콰도르,moisescaicedo,Chelsea,23.0,Ecuador,paulduran,19.0,58.0,57.0,61.0,54.0,49.0,53.0,73.0,61.0,51.0,57.0,73.0,10.67,49.0,30.67,56.0
+670,에콰도르,patrikmercado,Independiente del Valle,22.0,Ecuador,kevinvaras,32.0,67.0,70.0,72.0,72.0,59.0,50.0,76.0,57.0,42.0,70.0,65.0,7.33,65.5,48.33,61.0
+671,에콰도르,pedrovite,Pumas,23.0,Ecuador,yaimarabelmedinaortiz,20.0,70.0,66.0,66.0,52.0,68.0,70.0,91.0,71.0,64.0,63.0,91.0,13.33,61.5,62.33,61.0
+672,에콰도르,yaimarmedina,Genk,20.0,Ecuador,paulduran,19.0,58.0,57.0,61.0,54.0,49.0,53.0,73.0,61.0,51.0,57.0,73.0,10.67,49.0,30.67,56.0
+673,에콰도르,alanminda,Cercle Brugge,22.0,Ecuador,kevinvaras,32.0,67.0,70.0,72.0,72.0,59.0,50.0,76.0,57.0,42.0,70.0,65.0,7.33,65.5,48.33,61.0
+674,에콰도르,bryanramirez,LDU de Quito,,Ecuador,kevinvaras,32.0,67.0,70.0,72.0,72.0,59.0,50.0,76.0,57.0,42.0,70.0,65.0,7.33,65.5,48.33,61.0
+675,에콰도르,ennervalencia,Pachuca,35.0,Ecuador,paulduran,19.0,58.0,57.0,61.0,54.0,49.0,53.0,73.0,61.0,51.0,57.0,73.0,10.67,49.0,30.67,56.0
+676,에콰도르,gonzaloplata,Flamengo,24.0,Ecuador,kevinvaras,32.0,67.0,70.0,72.0,72.0,59.0,50.0,76.0,57.0,42.0,70.0,65.0,7.33,65.5,48.33,61.0
+677,에콰도르,johnmercado,Sparta Prague,23.0,Ecuador,johnyeboahzamora,25.0,70.0,72.0,75.0,58.0,70.0,58.0,91.0,79.0,52.0,66.0,92.0,10.33,64.5,22.33,69.0
+678,에콰도르,johnyeboah,Venezia,25.0,Ecuador,kevinvaras,32.0,67.0,70.0,72.0,72.0,59.0,50.0,76.0,57.0,42.0,70.0,65.0,7.33,65.5,48.33,61.0
+679,에콰도르,kendrypaez,Strasbourg,18.0,Ecuador,kevinvaras,32.0,67.0,70.0,72.0,72.0,59.0,50.0,76.0,57.0,42.0,70.0,65.0,7.33,65.5,48.33,61.0
+680,에콰도르,kevinrodriguez,Union St.Gilloise,25.0,Ecuador,leonardocampanaromero,25.0,72.0,69.0,62.0,66.0,70.0,34.0,65.0,71.0,78.0,70.0,65.0,10.0,50.0,24.33,78.0
+681,에콰도르,leonardocampana,New England Revolution,25.0,Ecuador,paulduran,19.0,58.0,57.0,61.0,54.0,49.0,53.0,73.0,61.0,51.0,57.0,73.0,10.67,49.0,30.67,56.0
+682,호주,nilsonangulo,Anderlecht,22.0,Australia,boskasey,21.0,65.0,65.0,52.0,50.0,61.0,62.0,74.0,37.0,65.0,51.0,72.0,8.0,54.0,65.67,48.0
+683,호주,joegauci,Port Vale,25.0,Australia,mathewdavidryan,33.0,78.0,32.0,18.0,64.0,75.0,25.0,52.0,35.0,64.0,60.0,52.0,77.33,48.0,19.67,15.0
+684,호주,mathewryan,Levante,33.0,Australia,pauldavidizzo,30.0,70.0,23.0,22.0,58.0,60.0,11.0,55.0,33.0,67.0,50.0,56.0,70.67,33.0,18.0,14.0
+685,호주,paulizzo,Randers FC,30.0,Australia,maxcooper,22.0,52.0,32.0,26.0,52.0,45.0,27.0,62.0,60.0,69.0,31.0,65.0,9.33,37.5,53.33,20.0
+686,호주,thomasglover,오스트레일리아,27.0,Australia,alessandrocircati,21.0,71.0,58.0,42.0,55.0,71.0,42.0,54.0,74.0,80.0,52.0,63.0,9.67,64.0,71.33,24.0
+687,호주,alessandrocircati,Parma,21.0,Australia,liambonetig,19.0,53.0,34.0,33.0,39.0,49.0,25.0,59.0,62.0,68.0,38.0,62.0,7.33,30.0,54.33,32.0
+688,호주,alexbonetig,Western Sydney Wanderers FC,23.0,Australia,alexnunes,18.0,50.0,53.0,56.0,51.0,48.0,35.0,43.0,33.0,38.0,54.0,69.0,5.33,48.5,32.67,39.0
+689,호주,alexgersbach,Western Sydney Wanderers FC,28.0,Australia,azizeraltaybehich,34.0,67.0,66.0,68.0,63.0,65.0,65.0,77.0,72.0,67.0,67.0,71.0,14.33,65.5,61.67,58.0
+690,호주,azizbehich,Melbourne City FC,34.0,Australia,maxbarryburgess,30.0,63.0,60.0,61.0,66.0,61.0,57.0,80.0,78.0,73.0,63.0,81.0,13.0,62.0,49.67,60.0
+691,호주,cameronburgess,Swansea City,29.0,Australia,jagoleahy,37.0,58.0,54.0,48.0,47.0,53.0,57.0,63.0,58.0,65.0,44.0,71.0,9.0,57.5,56.67,32.0
+692,호주,jackiredale,Hibernian,29.0,Australia,jasonalandavidson,34.0,66.0,65.0,63.0,62.0,62.0,65.0,65.0,79.0,67.0,51.0,56.0,12.67,61.0,67.67,51.0
+693,호주,jasondavidson,오스트레일리아,,Australia,jagoleahy,37.0,58.0,54.0,48.0,47.0,53.0,57.0,63.0,58.0,65.0,44.0,71.0,9.0,57.5,56.67,32.0
+694,호주,jasongeria,Albirex Niigata,32.0,Australia,ryanstrain,28.0,68.0,65.0,64.0,62.0,62.0,68.0,81.0,80.0,71.0,68.0,76.0,10.67,62.5,61.67,46.0
+695,호주,kaitrewin,Melbourne City FC,24.0,Australia,boskasey,21.0,65.0,65.0,52.0,50.0,61.0,62.0,74.0,37.0,65.0,51.0,72.0,8.0,54.0,65.67,48.0
+696,호주,boskasey,Mainz 05,21.0,Australia,alexnunes,18.0,50.0,53.0,56.0,51.0,48.0,35.0,43.0,33.0,38.0,54.0,69.0,5.33,48.5,32.67,39.0
+697,호주,kyerowles,DC United,27.0,Australia,lewismiller,24.0,66.0,62.0,61.0,57.0,60.0,59.0,62.0,74.0,73.0,64.0,70.0,8.33,60.0,64.0,41.0
+698,호주,lewismiller,Blackburn Rovers,25.0,Australia,williamfreney,19.0,52.0,52.0,54.0,40.0,49.0,40.0,63.0,54.0,50.0,44.0,62.0,10.67,55.5,47.0,34.0
+699,호주,milosdegenek,TSC Backa Topola,31.0,Australia,sebastianesposito,20.0,50.0,39.0,35.0,41.0,47.0,22.0,56.0,54.0,64.0,38.0,58.0,10.67,41.0,50.33,21.0
+700,호주,sebastianesposito,Melbourne Victory,20.0,Australia,brandono'neill,31.0,61.0,61.0,60.0,62.0,60.0,59.0,61.0,68.0,67.0,63.0,52.0,11.33,62.0,59.33,55.0
+701,호주,aideno'neill,New York City FC,27.0,Australia,anthonykalik,27.0,68.0,71.0,65.0,60.0,65.0,65.0,72.0,80.0,70.0,71.0,74.0,11.67,67.5,62.33,60.0
+702,호주,anthonycaceres,Macarthur FC,32.0,Australia,connorisaacmetcalfe,25.0,69.0,70.0,69.0,69.0,71.0,61.0,75.0,78.0,75.0,63.0,69.0,9.67,69.5,60.33,61.0
+703,호주,connormetcalfe,St. Pauli,25.0,Australia,keanukolebaccus,27.0,66.0,66.0,63.0,63.0,62.0,59.0,76.0,88.0,55.0,65.0,77.0,7.33,65.5,62.67,53.0
+704,호주,keanubaccus,St. Mirren,27.0,Australia,maximilienbalard,24.0,67.0,70.0,62.0,68.0,69.0,46.0,65.0,74.0,71.0,55.0,69.0,7.33,70.0,60.33,51.0
+705,호주,maximilienbalard,NAC Breda,24.0,Australia,nicolaspetarmilanovic,23.0,71.0,72.0,74.0,59.0,62.0,58.0,86.0,91.0,70.0,63.0,89.0,9.67,57.5,33.33,74.0
+706,호주,nicolasmilanovic,Aberdeen,23.0,Australia,patrickyazbek,23.0,66.0,63.0,59.0,61.0,62.0,60.0,67.0,81.0,70.0,55.0,69.0,12.33,64.5,61.67,56.0
+707,호주,patrickyazbek,Nashville SC,23.0,Australia,ryanstrain,28.0,68.0,65.0,64.0,62.0,62.0,68.0,81.0,80.0,71.0,68.0,76.0,10.67,62.5,61.67,46.0
+708,호주,ryanteague,KV Mechelen,23.0,Australia,adamjaketaggart,32.0,69.0,69.0,64.0,73.0,66.0,56.0,80.0,80.0,73.0,69.0,80.0,12.67,63.5,32.0,71.0
+709,호주,adamtaggart,Perth Glory,32.0,Australia,brandono'neill,31.0,61.0,61.0,60.0,62.0,60.0,59.0,61.0,68.0,67.0,63.0,52.0,11.33,62.0,59.33,55.0
+710,호주,brandonborrello,Western Sydney Wanderers FC,30.0,Australia,danielianbennie,19.0,62.0,63.0,65.0,55.0,56.0,61.0,74.0,53.0,63.0,59.0,71.0,8.0,51.5,19.0,62.0
+711,호주,danielarzani,Ferencvaros,26.0,Australia,kusinibojayengi,26.0,65.0,61.0,67.0,64.0,58.0,53.0,76.0,63.0,85.0,73.0,80.0,10.33,52.0,26.33,65.0
+712,호주,kusiniyengi,Aberdeen,26.0,Australia,marcotilio,23.0,68.0,68.0,68.0,63.0,61.0,61.0,85.0,75.0,47.0,66.0,82.0,13.33,58.0,39.67,61.0
+713,호주,marcotilio,Rapid Wien,24.0,Australia,martincallieboyle,32.0,71.0,73.0,74.0,68.0,72.0,67.0,91.0,74.0,50.0,75.0,87.0,12.0,64.5,40.67,73.0
+714,호주,martinboyle,Hibernian,32.0,Australia,mohamedtoure,21.0,68.0,66.0,65.0,65.0,66.0,56.0,85.0,54.0,83.0,67.0,86.0,10.67,55.5,30.33,68.0
+715,호주,mitchellduke,Machida Zelvia,34.0,Australia,mohamedtoure,21.0,68.0,66.0,65.0,65.0,66.0,56.0,85.0,54.0,83.0,67.0,86.0,10.67,55.5,30.33,68.0
+716,호주,mohamedtoure,Randers FC,21.0,Australia,nestoryirankunda,19.0,67.0,64.0,68.0,63.0,65.0,63.0,90.0,59.0,78.0,88.0,86.0,7.67,59.0,43.0,67.0
+717,호주,nestoryirankunda,Watford,19.0,Australia,rileypatrickmcgree,26.0,72.0,71.0,72.0,74.0,71.0,67.0,80.0,77.0,74.0,68.0,76.0,11.0,67.0,62.0,66.0
+718,캐나다,rileymcgree,Middlesbrough,26.0,Canada,daynetristanstclair,28.0,73.0,19.0,9.0,39.0,72.0,14.0,27.0,26.0,57.0,45.0,26.0,73.67,21.0,10.0,5.0
+719,캐나다,daynestclair,Minnesota United,28.0,Canada,jaydennelson,22.0,68.0,68.0,75.0,70.0,59.0,57.0,93.0,69.0,56.0,61.0,92.0,11.0,57.5,45.67,59.0
+720,캐나다,jaydenhibbert,Atlanta United,21.0,Canada,maximecrepeau,31.0,69.0,40.0,19.0,58.0,62.0,19.0,46.0,33.0,68.0,48.0,44.0,69.67,40.0,14.67,17.0
+721,캐나다,maximecrepeau,Portland Timbers,31.0,Canada,thomashasal,25.0,63.0,12.0,8.0,23.0,63.0,14.0,27.0,23.0,63.0,44.0,26.0,63.33,19.0,10.67,7.0
+722,캐나다,thomasmcgill,Brighton & Hove Albion Academy,25.0,Canada,derekaustincornelius,27.0,74.0,61.0,52.0,65.0,70.0,34.0,61.0,70.0,91.0,76.0,71.0,8.67,65.0,68.67,27.0
+723,캐나다,derekcornelius,Rangers,27.0,Canada,jahkeelestanfordjackmarshallrutty,21.0,63.0,66.0,68.0,63.0,59.0,55.0,84.0,62.0,32.0,55.0,79.0,10.33,56.5,56.0,51.0
+724,캐나다,jahkeelemarshallrutty,Charlotte FC,21.0,Canada,jamiemathieuknightlebel,20.0,61.0,48.0,43.0,52.0,57.0,30.0,59.0,72.0,74.0,34.0,61.0,12.67,47.5,60.0,24.0
+725,캐나다,jamieknightlebel,Swindon Town,20.0,Canada,joelrobertwaterman,29.0,68.0,58.0,49.0,54.0,69.0,39.0,34.0,68.0,78.0,59.0,50.0,9.33,72.0,66.67,45.0
+726,캐나다,joelwaterman,Chicago Fire FC,29.0,Canada,lucrolletdefougerolles,19.0,60.0,46.0,45.0,51.0,64.0,33.0,65.0,63.0,57.0,46.0,63.0,9.33,55.5,62.33,27.0
+727,캐나다,lucdefougerolles,FCV Dender EH,19.0,Canada,nikokristiansigur,21.0,70.0,72.0,72.0,75.0,75.0,63.0,69.0,81.0,56.0,74.0,72.0,11.67,72.5,63.67,54.0
+728,캐나다,nikosigur,Hajduk Split,22.0,Canada,aliahmed,24.0,68.0,72.0,72.0,71.0,65.0,61.0,78.0,75.0,62.0,61.0,78.0,10.33,68.0,62.33,60.0
+729,캐나다,richielaryea,Toronto FC,30.0,Canada,liammackenzie,18.0,55.0,59.0,52.0,50.0,50.0,38.0,53.0,46.0,56.0,48.0,69.0,11.0,58.5,38.67,50.0
+730,캐나다,ismaelkone,Sassuolo,23.0,Canada,jacobeverettshaffelburg,25.0,67.0,62.0,65.0,55.0,54.0,68.0,91.0,69.0,60.0,75.0,91.0,10.33,57.5,51.67,62.0
+731,캐나다,jacobshaffelburg,Nashville SC,25.0,Canada,lukaboiteau,19.0,57.0,60.0,60.0,57.0,53.0,53.0,64.0,46.0,38.0,47.0,59.0,10.0,56.5,30.33,50.0
+732,캐나다,juniorhoilett,Hibernian,35.0,Canada,mathieuchoiniere,26.0,67.0,66.0,66.0,72.0,66.0,64.0,68.0,74.0,62.0,60.0,54.0,13.67,67.5,64.33,58.0
+733,캐나다,mathieuchoiniere,Los Angeles FC,26.0,Canada,nathandylansaliba,21.0,68.0,73.0,73.0,73.0,64.0,58.0,72.0,77.0,60.0,69.0,63.0,11.0,71.5,58.0,59.0
+734,캐나다,nathansaliba,Anderlecht,21.0,Canada,stephenantuneseustaquio,28.0,77.0,77.0,71.0,76.0,75.0,72.0,67.0,79.0,70.0,72.0,65.0,8.0,77.5,73.67,64.0
+735,캐나다,stepheneustaquio,FC Porto,28.0,Canada,tajontrevorbuchanan,26.0,74.0,74.0,75.0,66.0,73.0,67.0,91.0,73.0,69.0,75.0,90.0,9.33,65.5,66.0,65.0
+736,캐나다,tajonbuchanan,Villarreal,26.0,Canada,zorhanludovicbassong,26.0,63.0,62.0,64.0,50.0,52.0,57.0,78.0,62.0,64.0,43.0,71.0,10.33,56.0,59.33,28.0
+737,캐나다,zorhanbassong,Sporting Kansas City,26.0,Canada,aliahmed,24.0,68.0,72.0,72.0,71.0,65.0,61.0,78.0,75.0,62.0,61.0,78.0,10.33,68.0,62.33,60.0
+738,캐나다,aliahmed,Vancouver Whitecaps,24.0,Canada,jaydennelson,22.0,68.0,68.0,75.0,70.0,59.0,57.0,93.0,69.0,56.0,61.0,92.0,11.0,57.5,45.67,59.0
+739,캐나다,jaydennelson,Vancouver Whitecaps,23.0,Canada,jonathansirois,24.0,67.0,19.0,12.0,34.0,64.0,13.0,35.0,33.0,50.0,41.0,32.0,67.67,27.5,10.0,9.0
+740,캐나다,jonathandavid,Juventus,25.0,Canada,thomashasal,25.0,63.0,12.0,8.0,23.0,63.0,14.0,27.0,23.0,63.0,44.0,26.0,63.33,19.0,10.67,7.0
+741,캐나다,promisedavid,Union St.Gilloise,24.0,Canada,antoniklukowski,18.0,59.0,60.0,60.0,54.0,55.0,55.0,54.0,54.0,57.0,58.0,58.0,8.0,53.5,23.33,62.0
+742,캐나다,tanioluwaseyi,Villarreal,25.0,Canada,thomashasal,25.0,63.0,12.0,8.0,23.0,63.0,14.0,27.0,23.0,63.0,44.0,26.0,63.33,19.0,10.67,7.0
+743,노르웨이,theloniusbair,Lausanne,26.0,Norway,egilselvik,27.0,70.0,17.0,7.0,45.0,64.0,10.0,20.0,22.0,52.0,50.0,18.0,69.67,40.0,10.0,5.0
+744,노르웨이,egilselvik,Watford,28.0,Norway,mathiaslønnedyngeland,29.0,70.0,30.0,18.0,58.0,65.0,18.0,44.0,35.0,59.0,51.0,42.0,69.67,51.0,17.0,13.0
+745,노르웨이,mathiasdyngeland,Brann,29.0,Norway,ørjanhaskjoldnyland,34.0,76.0,23.0,21.0,39.0,73.0,12.0,47.0,33.0,70.0,58.0,48.0,75.0,32.0,13.33,11.0
+746,노르웨이,ørjanhaskjoldnyland,Sevilla,35.0,Norway,sandersvendsen,27.0,69.0,67.0,67.0,68.0,65.0,63.0,85.0,80.0,60.0,70.0,81.0,9.33,60.0,33.67,66.0
+747,노르웨이,andreashancheolsen,Mainz 05,28.0,Norway,davidmøllerwolfe,23.0,73.0,70.0,68.0,66.0,71.0,71.0,77.0,82.0,76.0,59.0,79.0,9.67,64.5,68.0,52.0
+748,노르웨이,davidmøllerwolfe,Wolverhampton Wanderers,23.0,Norway,fredrikandrebjørkan,26.0,74.0,71.0,73.0,67.0,70.0,68.0,81.0,91.0,70.0,58.0,81.0,10.0,65.0,68.0,53.0
+749,노르웨이,fredrikandrebjørkan,Bodø/Glimt,27.0,Norway,julianryerson,27.0,79.0,76.0,76.0,74.0,77.0,79.0,77.0,83.0,80.0,73.0,72.0,7.0,72.5,79.33,62.0
+750,노르웨이,julianryerson,Borussia Dortmund,27.0,Norway,kristoffervassbakkkoppajer,27.0,75.0,74.0,71.0,77.0,75.0,69.0,63.0,69.0,89.0,64.0,70.0,8.67,67.5,75.33,58.0
+751,노르웨이,kristoffervassbakkajer,Brentford,27.0,Norway,leoskiriøstigard,25.0,73.0,61.0,58.0,58.0,71.0,48.0,63.0,65.0,82.0,52.0,58.0,9.0,58.5,70.33,33.0
+752,노르웨이,leoøstigard,Genoa,25.0,Norway,tobiasheintz,26.0,69.0,68.0,67.0,64.0,67.0,67.0,75.0,77.0,66.0,59.0,72.0,11.67,65.5,35.67,66.0
+753,노르웨이,tobiasguddal,Tromsø,23.0,Norway,torbjørnlysakerheggem,26.0,73.0,67.0,66.0,68.0,71.0,58.0,70.0,79.0,82.0,54.0,75.0,9.33,64.5,72.33,44.0
+754,노르웨이,torbjoernlysakerheggem,Bologna,26.0,Norway,martinlinnes,33.0,72.0,70.0,68.0,64.0,70.0,67.0,81.0,86.0,64.0,62.0,83.0,13.33,63.0,66.33,56.0
+755,노르웨이,antonionusa,RB Leipzig,20.0,Norway,arildøstbø,34.0,64.0,13.0,7.0,46.0,64.0,15.0,30.0,29.0,68.0,47.0,32.0,62.67,17.0,15.67,8.0
+756,노르웨이,arondønnum,Toulouse,27.0,Norway,felixhornmyhre,26.0,74.0,74.0,73.0,75.0,73.0,68.0,74.0,84.0,65.0,66.0,70.0,11.67,74.0,69.67,68.0
+757,노르웨이,felixhornmyhre,Brann,26.0,Norway,marcusholmgrenpedersen,24.0,72.0,68.0,72.0,63.0,64.0,74.0,88.0,78.0,62.0,51.0,89.0,12.0,68.5,67.67,48.0
+758,노르웨이,marcusholmgrenpedersen,Torino,25.0,Norway,martinødegaard,26.0,87.0,88.0,87.0,87.0,88.0,86.0,68.0,88.0,55.0,82.0,68.0,10.67,89.0,65.67,79.0
+759,노르웨이,martinødegaard,Arsenal,26.0,Norway,mortenthorsby,29.0,72.0,74.0,70.0,73.0,74.0,68.0,62.0,78.0,70.0,69.0,50.0,11.0,72.5,69.0,62.0
+760,노르웨이,mortenthorsby,Genoa,29.0,Norway,patrickberg,27.0,77.0,75.0,72.0,78.0,76.0,72.0,72.0,92.0,75.0,69.0,74.0,10.67,77.0,71.33,64.0
+761,노르웨이,patrickberg,Bodø/Glimt,27.0,Norway,oliverberg,31.0,67.0,68.0,65.0,68.0,68.0,62.0,60.0,91.0,71.0,69.0,66.0,12.67,62.0,49.33,69.0
+762,노르웨이,sanderberge,Fulham,27.0,Norway,axelkryger,27.0,65.0,62.0,57.0,48.0,64.0,45.0,59.0,69.0,68.0,54.0,66.0,9.0,64.5,62.67,28.0
+763,노르웨이,theloaasgaard,Rangers,23.0,Norway,alexandersørloth,29.0,84.0,82.0,77.0,83.0,83.0,66.0,72.0,84.0,90.0,86.0,81.0,12.67,68.5,27.67,85.0
+764,노르웨이,alexandersørloth,Atletico Madrid,29.0,Norway,danielschneider,23.0,62.0,58.0,53.0,57.0,59.0,38.0,54.0,58.0,73.0,45.0,57.0,6.33,54.5,61.0,30.0
+765,노르웨이,andreasschjelderup,Benfica,21.0,Norway,aunesellandheggebø,23.0,68.0,68.0,66.0,62.0,65.0,42.0,67.0,70.0,82.0,66.0,68.0,6.67,53.5,18.33,67.0
+766,노르웨이,aunesellandheggebø,West Bromwich Albion,24.0,Norway,erlingbrauthaland,24.0,90.0,82.0,79.0,86.0,93.0,58.0,79.0,76.0,93.0,94.0,92.0,8.33,71.5,38.0,94.0
+767,노르웨이,erlinghaaland,Manchester City,25.0,Norway,jørgenstrandlarsen,25.0,78.0,78.0,69.0,73.0,79.0,45.0,72.0,84.0,86.0,76.0,78.0,8.0,63.5,26.33,82.0
+768,노르웨이,jørgenstrandlarsen,Wolverhampton Wanderers,25.0,Norway,oscarbobb,21.0,72.0,76.0,79.0,73.0,63.0,66.0,84.0,50.0,34.0,66.0,74.0,11.33,73.0,32.33,66.0
+769,스웨덴,oscarbobb,Manchester City,22.0,Sweden,bokristoffernordfeldt,36.0,72.0,24.0,14.0,50.0,74.0,11.0,51.0,32.0,73.0,54.0,48.0,70.33,39.5,15.0,13.0
+770,스웨덴,kristoffernordfeldt,AIK,36.0,Sweden,kevinholmen,23.0,65.0,64.0,63.0,58.0,66.0,47.0,56.0,58.0,61.0,58.0,60.0,9.33,65.5,56.0,64.0
+771,스웨덴,robinolsen,Malmö FF,35.0,Sweden,piotrjohansson,30.0,67.0,61.0,60.0,62.0,60.0,61.0,80.0,90.0,79.0,59.0,84.0,7.67,56.0,62.0,50.0
+772,스웨덴,viktorjohansson,Stoke City,27.0,Sweden,axelnoren,26.0,71.0,62.0,58.0,52.0,69.0,25.0,67.0,70.0,82.0,39.0,66.0,10.67,65.5,70.0,28.0
+773,스웨덴,axelnoren,Mjällby,26.0,Sweden,theokrantz,19.0,56.0,17.0,6.0,34.0,52.0,13.0,28.0,17.0,45.0,40.0,28.0,55.33,22.0,10.33,6.0
+774,스웨덴,emilkrafth,Newcastle United,31.0,Sweden,gabrielgudmundsson,26.0,77.0,75.0,76.0,72.0,74.0,77.0,85.0,79.0,73.0,75.0,88.0,8.67,71.0,72.67,59.0
+775,스웨덴,gabrielgudmundsson,Leeds United,26.0,Sweden,hjalmarekdal,26.0,72.0,64.0,59.0,72.0,70.0,29.0,49.0,67.0,81.0,43.0,56.0,7.67,65.5,72.0,30.0
+776,스웨덴,hjalmarekdal,Burnley,26.0,Sweden,noaheile,22.0,67.0,66.0,40.0,51.0,58.0,21.0,66.0,62.0,80.0,39.0,78.0,13.0,66.0,62.0,22.0
+777,스웨덴,isakhien,Atalanta,26.0,Sweden,samueleliasdahl,22.0,73.0,76.0,75.0,68.0,73.0,70.0,81.0,83.0,61.0,60.0,85.0,11.0,68.5,67.0,48.0
+778,스웨덴,samueldahl,Benfica,22.0,Sweden,alexanderolofbernhardsson,26.0,72.0,74.0,76.0,58.0,70.0,61.0,87.0,75.0,67.0,76.0,76.0,9.33,65.0,48.0,72.0
+779,스웨덴,alexanderbernhardsson,Holstein Kiel,27.0,Sweden,antonekeroth,23.0,63.0,56.0,54.0,52.0,54.0,59.0,77.0,75.0,57.0,41.0,80.0,11.33,52.0,56.33,36.0
+780,스웨덴,antonsaletros,AIK,29.0,Sweden,danielsvensson,23.0,77.0,77.0,74.0,76.0,75.0,72.0,78.0,89.0,68.0,62.0,76.0,11.0,77.0,76.33,51.0
+781,스웨덴,danielsvensson,Borussia Dortmund,23.0,Sweden,victorlarsson,25.0,65.0,60.0,58.0,60.0,62.0,60.0,67.0,80.0,69.0,55.0,72.0,10.0,54.5,61.33,41.0
+782,스웨덴,hugolarsson,Eintracht Frankfurt,21.0,Sweden,jesperkarlstrom,30.0,75.0,74.0,70.0,76.0,72.0,64.0,66.0,84.0,76.0,69.0,62.0,12.67,75.0,71.33,52.0
+783,스웨덴,jesperkarlstrom,Udinese,30.0,Sweden,kennlatasema,31.0,70.0,69.0,71.0,63.0,65.0,70.0,73.0,67.0,71.0,76.0,75.0,10.0,65.5,61.67,65.0
+784,스웨덴,kensema,Pafos FC,31.0,Sweden,theobergvall,20.0,64.0,60.0,59.0,58.0,59.0,59.0,85.0,64.0,67.0,43.0,85.0,8.67,62.0,58.33,42.0
+785,스웨덴,lucasbergvall,Tottenham Hotspur,19.0,Sweden,tahaayari,20.0,62.0,63.0,63.0,53.0,56.0,58.0,76.0,47.0,35.0,48.0,74.0,10.33,59.0,29.0,59.0
+786,스웨덴,yasinayari,Brighton & Hove Albion,21.0,Sweden,alexanderisak,25.0,88.0,87.0,88.0,88.0,87.0,68.0,86.0,82.0,79.0,91.0,80.0,8.33,69.5,32.67,91.0
+787,스웨덴,alexanderisak,Liverpool,26.0,Sweden,nahirbesara,34.0,73.0,72.0,71.0,71.0,74.0,69.0,57.0,75.0,72.0,72.0,55.0,10.67,74.0,41.0,74.0
+788,스웨덴,anthonyelanga,Newcastle United,23.0,Sweden,erikbenjaminnygren,23.0,73.0,71.0,73.0,72.0,69.0,69.0,73.0,81.0,68.0,74.0,70.0,8.67,75.0,61.67,75.0
+789,스웨덴,benjaminnygren,Celtic,24.0,Sweden,julianlarsson,24.0,59.0,58.0,57.0,54.0,58.0,46.0,74.0,54.0,55.0,59.0,71.0,9.33,45.5,17.67,60.0
+790,스웨덴,jordanlarsson,FC København,28.0,Sweden,victoreriksson,24.0,73.0,61.0,56.0,60.0,68.0,38.0,62.0,72.0,89.0,58.0,75.0,8.67,65.0,71.33,28.0
+791,스웨덴,niclaseliasson,AEK Athens,29.0,Sweden,algotsebastiannanasi,23.0,76.0,79.0,79.0,75.0,74.0,66.0,77.0,77.0,61.0,62.0,64.0,8.67,76.5,32.0,67.0
+792,스웨덴,sebastiannanasi,Strasbourg,23.0,Sweden,viktoreinargyokeres,27.0,87.0,83.0,80.0,85.0,87.0,72.0,88.0,93.0,91.0,88.0,92.0,10.67,68.0,28.0,88.0
+793,세르비아,viktorgyokeres,Arsenal,27.0,Serbia,matijamitrovic,20.0,65.0,69.0,66.0,55.0,68.0,45.0,61.0,63.0,60.0,64.0,58.0,8.67,68.0,58.67,55.0
+794,세르비아,djordjepetrovic,AFC Bournemouth,25.0,Serbia,milanrodic,34.0,68.0,65.0,64.0,51.0,66.0,69.0,70.0,73.0,59.0,62.0,69.0,13.33,52.0,66.0,51.0
+795,세르비아,draganrosic,Vojvodina,29.0,Serbia,nikolamilenkovic,27.0,83.0,70.0,60.0,78.0,83.0,66.0,62.0,77.0,90.0,60.0,53.0,9.67,70.0,84.0,38.0
+796,세르비아,vanjamilinkovicsavic,Napoli,28.0,Serbia,veljkoilic,21.0,68.0,15.0,7.0,40.0,65.0,15.0,31.0,22.0,65.0,45.0,35.0,66.67,33.5,11.33,6.0
+797,세르비아,veljkoilic,Widzew Łódź,22.0,Serbia,stefanvisic,27.0,59.0,56.0,51.0,44.0,56.0,32.0,63.0,56.0,66.0,50.0,56.0,11.0,49.0,13.0,63.0
+798,세르비아,aleksaterzic,Salzburg,26.0,Serbia,veljkoilic,21.0,68.0,15.0,7.0,40.0,65.0,15.0,31.0,22.0,65.0,45.0,35.0,66.67,33.5,11.33,6.0
+799,세르비아,jancarlosimic,Al Ittihad,20.0,Serbia,nikolamilenkovic,27.0,83.0,70.0,60.0,78.0,83.0,66.0,62.0,77.0,90.0,60.0,53.0,9.67,70.0,84.0,38.0
+800,세르비아,kostanedeljkovic,RB Leipzig,19.0,Serbia,milospantovic,22.0,71.0,71.0,71.0,74.0,70.0,53.0,74.0,72.0,67.0,69.0,75.0,8.67,57.0,28.0,74.0
+801,세르비아,milosveljkovic,FK Crvena Zvezda,30.0,Serbia,stefanvisic,27.0,59.0,56.0,51.0,44.0,56.0,32.0,63.0,56.0,66.0,50.0,56.0,11.0,49.0,13.0,63.0
+802,세르비아,nemanjastojic,PFC Sochi,27.0,Serbia,nikolamilenkovic,27.0,83.0,70.0,60.0,78.0,83.0,66.0,62.0,77.0,90.0,60.0,53.0,9.67,70.0,84.0,38.0
+803,세르비아,nikolamilenkovic,Nottingham Forest,27.0,Serbia,stefanvisic,27.0,59.0,56.0,51.0,44.0,56.0,32.0,63.0,56.0,66.0,50.0,56.0,11.0,49.0,13.0,63.0
+804,세르비아,srdjanbabic,Spartak Moscow,29.0,Serbia,strahinjastojkovic,18.0,57.0,49.0,54.0,42.0,42.0,52.0,65.0,63.0,79.0,29.0,59.0,8.33,51.5,56.0,26.0
+805,세르비아,strahinjaerakovic,Zenit St. Petersburg,24.0,Serbia,strahinjastojkovic,18.0,57.0,49.0,54.0,42.0,42.0,52.0,65.0,63.0,79.0,29.0,59.0,8.33,51.5,56.0,26.0
+806,세르비아,strahinjapavlovic,Milan,24.0,Serbia,aleksandarjovanovic,32.0,66.0,16.0,7.0,49.0,63.0,14.0,22.0,27.0,69.0,47.0,22.0,67.33,18.5,13.33,8.0
+807,세르비아,aleksandarkatai,FK Crvena Zvezda,34.0,Serbia,veljkoilic,21.0,68.0,15.0,7.0,40.0,65.0,15.0,31.0,22.0,65.0,45.0,35.0,66.67,33.5,11.33,6.0
+808,세르비아,filipkostic,Juventus,32.0,Serbia,milanrodic,34.0,68.0,65.0,64.0,51.0,66.0,69.0,70.0,73.0,59.0,62.0,69.0,13.33,52.0,66.0,51.0
+809,세르비아,ivanilic,Torino,24.0,Serbia,mirzacatovic,18.0,60.0,61.0,59.0,52.0,60.0,41.0,56.0,50.0,71.0,60.0,60.0,13.67,60.5,57.0,44.0
+810,세르비아,lazarsamardzic,Atalanta,23.0,Serbia,milanrodic,34.0,68.0,65.0,64.0,51.0,66.0,69.0,70.0,73.0,59.0,62.0,69.0,13.33,52.0,66.0,51.0
+811,세르비아,nemanjagudelj,Sevilla,33.0,Serbia,andrijamaksimovic,18.0,71.0,70.0,70.0,70.0,70.0,73.0,70.0,71.0,65.0,68.0,71.0,7.33,71.5,34.0,72.0
+812,세르비아,nemanjamaksimovic,Shabab Al-Ahli Dubai FC,30.0,Serbia,bogdanmircetic,19.0,66.0,70.0,68.0,65.0,60.0,60.0,75.0,65.0,48.0,60.0,72.0,12.33,61.5,31.67,66.0
+813,세르비아,ognjenugresic,Partizan Beograd,19.0,Serbia,stefanvisic,27.0,59.0,56.0,51.0,44.0,56.0,32.0,63.0,56.0,66.0,50.0,56.0,11.0,49.0,13.0,63.0
+814,세르비아,sasalukic,Fulham,29.0,Serbia,milanrodic,34.0,68.0,65.0,64.0,51.0,66.0,69.0,70.0,73.0,59.0,62.0,69.0,13.33,52.0,66.0,51.0
+815,세르비아,urosracic,Aris Thessaloniki FC,27.0,Serbia,aleksandarjovanovic,32.0,66.0,16.0,7.0,49.0,63.0,14.0,22.0,27.0,69.0,47.0,22.0,67.33,18.5,13.33,8.0
+816,세르비아,aleksandarmitrovic,Al-Rayyan,31.0,Serbia,andrijamaksimovic,18.0,71.0,70.0,70.0,70.0,70.0,73.0,70.0,71.0,65.0,68.0,71.0,7.33,71.5,34.0,72.0
+817,세르비아,andrijazivkovic,PAOK Thessaloniki FC,29.0,Serbia,milanrodic,34.0,68.0,65.0,64.0,51.0,66.0,69.0,70.0,73.0,59.0,62.0,69.0,13.33,52.0,66.0,51.0
+818,세르비아,dusanvlahovic,Juventus,25.0,Serbia,milanrodic,34.0,68.0,65.0,64.0,51.0,66.0,69.0,70.0,73.0,59.0,62.0,69.0,13.33,52.0,66.0,51.0
+819,세르비아,lukajovic,AEK Athens,27.0,Serbia,nikolamituljikic,22.0,65.0,67.0,69.0,65.0,59.0,57.0,77.0,57.0,59.0,61.0,74.0,8.67,59.0,34.67,62.0
+820,세르비아,nikolastulic,Lecce,24.0,Serbia,stefanvisic,27.0,59.0,56.0,51.0,44.0,56.0,32.0,63.0,56.0,66.0,50.0,56.0,11.0,49.0,13.0,63.0
+821,세르비아,stefanmitrovic,Excelsior,23.0,Serbia,veljkomilosavljevic,18.0,70.0,59.0,55.0,63.0,67.0,41.0,52.0,64.0,83.0,65.0,54.0,8.33,61.5,69.33,30.0
+822,이집트,veljkobirmancevic,Sparta Prague,27.0,Egypt,karimashrafahmed,21.0,53.0,51.0,46.0,44.0,48.0,30.0,63.0,55.0,75.0,56.0,67.0,10.0,39.0,27.67,51.0
+823,이집트,abdelazizelbalouti,National Bank,,Egypt,omarfayedعمرفايد,21.0,65.0,56.0,58.0,60.0,56.0,44.0,60.0,59.0,75.0,59.0,59.0,10.67,59.0,65.33,25.0
+824,이집트,mohamedelshenawy,Al Ahly SC,36.0,Egypt,omarfayedعمرفايد,21.0,65.0,56.0,58.0,60.0,56.0,44.0,60.0,59.0,75.0,59.0,59.0,10.67,59.0,65.33,25.0
+825,이집트,mohamedsobhi,Zamalek SC,,Egypt,omarfayedعمرفايد,21.0,65.0,56.0,58.0,60.0,56.0,44.0,60.0,59.0,75.0,59.0,59.0,10.67,59.0,65.33,25.0
+826,이집트,mostafaahmedshobeir,Al Ahly SC,25.0,Egypt,karimashrafahmed,21.0,53.0,51.0,46.0,44.0,48.0,30.0,63.0,55.0,75.0,56.0,67.0,10.0,39.0,27.67,51.0
+827,이집트,eidahmed,Al Masry SC,24.0,Egypt,karimashrafahmed,21.0,53.0,51.0,46.0,44.0,48.0,30.0,63.0,55.0,75.0,56.0,67.0,10.0,39.0,27.67,51.0
+828,이집트,ahmedkouka,Al Ahly SC,24.0,Egypt,karimashrafahmed,21.0,53.0,51.0,46.0,44.0,48.0,30.0,63.0,55.0,75.0,56.0,67.0,10.0,39.0,27.67,51.0
+829,이집트,ahmedramadan,Al Ahly SC,,Egypt,karimashrafahmed,21.0,53.0,51.0,46.0,44.0,48.0,30.0,63.0,55.0,75.0,56.0,67.0,10.0,39.0,27.67,51.0
+830,이집트,amrelgazar,National Bank,26.0,Egypt,karimashrafahmed,21.0,53.0,51.0,46.0,44.0,48.0,30.0,63.0,55.0,75.0,56.0,67.0,10.0,39.0,27.67,51.0
+831,이집트,hossamabdelmaguid,Zamalek SC,24.0,Egypt,karimashrafahmed,21.0,53.0,51.0,46.0,44.0,48.0,30.0,63.0,55.0,75.0,56.0,67.0,10.0,39.0,27.67,51.0
+832,이집트,khaledsobhi,Al Masry SC,,Egypt,mohamedabdelmonemمحمدعبدالمنعم,26.0,74.0,62.0,58.0,74.0,68.0,56.0,63.0,63.0,77.0,56.0,62.0,11.33,72.5,74.0,34.0
+833,이집트,mohamedabdelmonem,Nice,26.0,Egypt,karimashrafahmed,21.0,53.0,51.0,46.0,44.0,48.0,30.0,63.0,55.0,75.0,56.0,67.0,10.0,39.0,27.67,51.0
+834,이집트,mohamedhamdi,Pyramids FC,30.0,Egypt,omarfayedعمرفايد,21.0,65.0,56.0,58.0,60.0,56.0,44.0,60.0,59.0,75.0,59.0,59.0,10.67,59.0,65.33,25.0
+835,이집트,mohamedhany,Al Ahly SC,29.0,Egypt,omarfayedعمرفايد,21.0,65.0,56.0,58.0,60.0,56.0,44.0,60.0,59.0,75.0,59.0,59.0,10.67,59.0,65.33,25.0
+836,이집트,mohamedrabia,ZED FC,,Egypt,karimashrafahmed,21.0,53.0,51.0,46.0,44.0,48.0,30.0,63.0,55.0,75.0,56.0,67.0,10.0,39.0,27.67,51.0
+837,이집트,ramirabia,Al-Ain,,Egypt,karimashrafahmed,21.0,53.0,51.0,46.0,44.0,48.0,30.0,63.0,55.0,75.0,56.0,67.0,10.0,39.0,27.67,51.0
+838,이집트,hamdifathi,Al-Wakrah,,Egypt,karimashrafahmed,21.0,53.0,51.0,46.0,44.0,48.0,30.0,63.0,55.0,75.0,56.0,67.0,10.0,39.0,27.67,51.0
+839,이집트,mahmoudsaber,ZED FC,,Egypt,karimashrafahmed,21.0,53.0,51.0,46.0,44.0,48.0,30.0,63.0,55.0,75.0,56.0,67.0,10.0,39.0,27.67,51.0
+840,이집트,marwanattia,Al Ahly SC,27.0,Egypt,omarfayedعمرفايد,21.0,65.0,56.0,58.0,60.0,56.0,44.0,60.0,59.0,75.0,59.0,59.0,10.67,59.0,65.33,25.0
+841,이집트,mohamedshehata,Zamalek SC,,Egypt,karimashrafahmed,21.0,53.0,51.0,46.0,44.0,48.0,30.0,63.0,55.0,75.0,56.0,67.0,10.0,39.0,27.67,51.0
+842,이집트,mohanadlasheen,Pyramids FC,29.0,Egypt,karimashrafahmed,21.0,53.0,51.0,46.0,44.0,48.0,30.0,63.0,55.0,75.0,56.0,67.0,10.0,39.0,27.67,51.0
+843,이집트,nabildunga,Zamalek SC,29.0,Egypt,karimashrafahmed,21.0,53.0,51.0,46.0,44.0,48.0,30.0,63.0,55.0,75.0,56.0,67.0,10.0,39.0,27.67,51.0
+844,이집트,zizo,Al Ahly SC,29.0,Egypt,karimashrafahmed,21.0,53.0,51.0,46.0,44.0,48.0,30.0,63.0,55.0,75.0,56.0,67.0,10.0,39.0,27.67,51.0
+845,이집트,ibrahimadel,Al-Jazira,24.0,Egypt,karimashrafahmed,21.0,53.0,51.0,46.0,44.0,48.0,30.0,63.0,55.0,75.0,56.0,67.0,10.0,39.0,27.67,51.0
+846,이집트,mohamedsalah,Liverpool,33.0,Egypt,karimashrafahmed,21.0,53.0,51.0,46.0,44.0,48.0,30.0,63.0,55.0,75.0,56.0,67.0,10.0,39.0,27.67,51.0
+847,이집트,mostafafathi,Pyramids FC,,Egypt,karimashrafahmed,21.0,53.0,51.0,46.0,44.0,48.0,30.0,63.0,55.0,75.0,56.0,67.0,10.0,39.0,27.67,51.0
+848,이집트,mostafamohamed,Nantes,27.0,Egypt,omarfayedعمرفايد,21.0,65.0,56.0,58.0,60.0,56.0,44.0,60.0,59.0,75.0,59.0,59.0,10.67,59.0,65.33,25.0
+849,이집트,omarmarmoush,Manchester City,26.0,Egypt,karimashrafahmed,21.0,53.0,51.0,46.0,44.0,48.0,30.0,63.0,55.0,75.0,56.0,67.0,10.0,39.0,27.67,51.0
+850,이집트,osamafaisal,National Bank,,Egypt,karimashrafahmed,21.0,53.0,51.0,46.0,44.0,48.0,30.0,63.0,55.0,75.0,56.0,67.0,10.0,39.0,27.67,51.0
+851,폴란드,trezeguet,Al Ahly SC,30.0,Poland,bartłomiejdragowski,27.0,76.0,18.0,20.0,65.0,73.0,19.0,40.0,34.0,56.0,56.0,45.0,76.0,33.5,17.33,12.0
+852,폴란드,bartlomiejdragowski,Panathinaikos,28.0,Poland,bartoszmrozek,25.0,72.0,24.0,14.0,31.0,63.0,9.0,39.0,36.0,61.0,51.0,37.0,72.33,20.0,13.67,7.0
+853,폴란드,bartoszmrozek,Lech Poznan,25.0,Poland,kamilgrosicki,37.0,74.0,74.0,72.0,74.0,68.0,72.0,81.0,80.0,65.0,70.0,81.0,13.67,72.0,28.0,68.0
+854,폴란드,kamilgrabara,Wolfsburg,26.0,Poland,łukaszskorupski,34.0,79.0,23.0,18.0,58.0,76.0,19.0,51.0,31.0,58.0,51.0,51.0,80.0,30.5,15.67,11.0
+855,폴란드,lukaszskorupski,Bologna,34.0,Poland,arkadiuszpyrka,22.0,68.0,69.0,63.0,58.0,59.0,62.0,83.0,78.0,59.0,56.0,85.0,11.33,60.0,63.0,64.0
+856,폴란드,arkadiuszpyrka,St. Pauli,23.0,Poland,jakubkolan,20.0,60.0,60.0,55.0,41.0,59.0,47.0,63.0,59.0,55.0,40.0,63.0,9.0,57.5,59.67,40.0
+857,폴란드,jakubkiwior,FC Porto,25.0,Poland,filipbednarek,32.0,65.0,25.0,14.0,61.0,63.0,16.0,47.0,45.0,70.0,48.0,40.0,65.0,27.0,15.33,15.0
+858,폴란드,janbednarek,FC Porto,29.0,Poland,janziołkowski,20.0,66.0,65.0,32.0,47.0,63.0,29.0,60.0,66.0,69.0,43.0,64.0,12.0,58.5,66.33,22.0
+859,폴란드,janziolkowski,Roma,20.0,Poland,patrykmakuch,26.0,64.0,60.0,60.0,62.0,62.0,51.0,72.0,79.0,82.0,64.0,77.0,8.67,54.0,24.33,63.0
+860,폴란드,mattycash,Aston Villa,28.0,Poland,dawidpolak,17.0,55.0,59.0,59.0,46.0,48.0,50.0,64.0,41.0,52.0,48.0,68.0,9.67,60.0,46.67,46.0
+861,폴란드,pawelwszolek,Legia Warszawa,33.0,Poland,przemysławfrankowski,30.0,75.0,75.0,74.0,78.0,76.0,74.0,86.0,78.0,67.0,73.0,87.0,8.67,74.0,69.0,68.0
+862,폴란드,przemyslawfrankowski,Rennes,30.0,Poland,przemysławwisniewski,26.0,71.0,56.0,44.0,64.0,68.0,38.0,81.0,74.0,91.0,40.0,87.0,10.67,56.0,69.33,16.0
+863,폴란드,przemyslawwisniewski,Spezia,27.0,Poland,tomaszkarolkedziora,31.0,75.0,66.0,64.0,69.0,73.0,67.0,74.0,75.0,77.0,56.0,77.0,11.67,70.0,74.33,38.0
+864,폴란드,tomaszkedziora,PAOK Thessaloniki FC,31.0,Poland,bartoszkapustka,28.0,72.0,73.0,69.0,62.0,72.0,64.0,74.0,81.0,60.0,63.0,76.0,10.67,74.0,56.0,70.0
+865,폴란드,bartoszkapustka,Legia Warszawa,28.0,Poland,bartoszslisz,26.0,73.0,74.0,68.0,73.0,71.0,54.0,71.0,91.0,67.0,52.0,71.0,9.0,73.5,67.33,56.0
+866,폴란드,bartoszslisz,Atlanta United,26.0,Poland,jakubkaminski,23.0,74.0,77.0,79.0,63.0,63.0,69.0,86.0,74.0,54.0,64.0,83.0,9.0,66.0,50.0,68.0
+867,폴란드,jakubkaminski,1. FC Köln,23.0,Poland,jakubpiotrowski,27.0,69.0,72.0,69.0,68.0,66.0,63.0,66.0,70.0,78.0,73.0,72.0,7.67,69.0,66.0,60.0
+868,폴란드,jakubpiotrowski,Udinese,27.0,Poland,nicolazalewski,23.0,76.0,78.0,79.0,72.0,72.0,75.0,80.0,75.0,49.0,72.0,85.0,11.0,70.5,64.67,58.0
+869,폴란드,nicolazalewski,Atalanta,23.0,Poland,jakubzielinski,17.0,59.0,24.0,14.0,30.0,59.0,12.0,20.0,20.0,61.0,45.0,21.0,59.67,25.0,11.0,10.0
+870,폴란드,piotrzielinski,Inter,31.0,Poland,sebastianszymanski,26.0,78.0,78.0,74.0,76.0,77.0,78.0,81.0,84.0,57.0,79.0,76.0,12.33,78.5,61.0,76.0
+871,폴란드,sebastianszymanski,Fenerbahçe,26.0,Poland,adambuksa,28.0,73.0,69.0,68.0,71.0,73.0,48.0,63.0,72.0,82.0,74.0,57.0,9.0,54.5,28.0,77.0
+872,폴란드,adambuksa,Udinese,29.0,Poland,kamilgrosicki,37.0,74.0,74.0,72.0,74.0,68.0,72.0,81.0,80.0,65.0,70.0,81.0,13.67,72.0,28.0,68.0
+873,폴란드,kamilgrosicki,Pogoń Szczecin,37.0,Poland,karolszymanski,32.0,62.0,23.0,9.0,47.0,53.0,18.0,20.0,23.0,68.0,39.0,30.0,62.33,19.5,16.67,11.0
+874,폴란드,karolswiderski,Panathinaikos,28.0,Poland,krzysztofpiatek,30.0,78.0,77.0,73.0,70.0,76.0,51.0,67.0,71.0,76.0,79.0,75.0,9.67,58.5,30.33,83.0
+875,폴란드,krzysztofpiatek,Al-Duhail SC,30.0,Poland,robertlewandowski,36.0,88.0,88.0,84.0,87.0,89.0,76.0,73.0,76.0,89.0,89.0,74.0,11.0,77.0,32.0,92.0
+876,파라과이,robertlewandowski,Barcelona,37.0,Paraguay,carlosmiguelcoronel,28.0,72.0,29.0,17.0,50.0,70.0,16.0,39.0,41.0,72.0,55.0,39.0,71.67,53.5,17.0,10.0
+877,파라과이,carloscoronel,New York Red Bulls,28.0,Paraguay,angelaquino,20.0,61.0,45.0,47.0,45.0,58.0,56.0,74.0,58.0,64.0,50.0,76.0,8.33,54.0,58.67,35.0
+878,파라과이,juanespinola,Newell's Old Boys,30.0,Paraguay,eduardodelmas,18.0,56.0,54.0,64.0,53.0,49.0,43.0,75.0,45.0,39.0,42.0,73.0,9.0,53.0,32.33,55.0
+879,파라과이,orlandogill,San Lorenzo,,Paraguay,javierdominguez,25.0,68.0,70.0,68.0,55.0,70.0,52.0,61.0,76.0,66.0,52.0,63.0,12.33,69.5,54.0,61.0
+880,파라과이,robertofernandez,Cerro Porteno,37.0,Paraguay,gonzaloagustinsandez,24.0,73.0,60.0,64.0,66.0,68.0,67.0,74.0,83.0,85.0,52.0,86.0,9.33,59.5,70.33,36.0
+881,파라과이,agustinsandez,Rosario Central,24.0,Paraguay,ivanramirez,21.0,60.0,59.0,55.0,60.0,59.0,40.0,60.0,60.0,62.0,59.0,63.0,13.0,48.5,25.67,63.0
+882,파라과이,alanbenitez,Internacional,31.0,Paraguay,alexisfretes,19.0,60.0,63.0,60.0,48.0,56.0,58.0,71.0,65.0,62.0,41.0,69.0,13.0,53.0,56.0,40.0
+883,파라과이,alexisduarte,Santos FC,25.0,Paraguay,arielavalos,20.0,63.0,59.0,63.0,55.0,65.0,45.0,75.0,80.0,75.0,62.0,70.0,8.67,49.0,25.0,68.0
+884,파라과이,blasriveros,Cerro Porteno,27.0,Paraguay,matiasarguello,18.0,59.0,57.0,50.0,49.0,48.0,63.0,68.0,68.0,47.0,48.0,68.0,6.67,51.5,51.33,38.0
+885,파라과이,fabianbalbuena,Gremio,34.0,Paraguay,octavioalfonso,19.0,60.0,60.0,61.0,40.0,58.0,60.0,62.0,58.0,56.0,62.0,61.0,8.0,61.0,41.33,58.0
+886,파라과이,gustavogomez,Palmeiras,32.0,Paraguay,angelaquino,20.0,61.0,45.0,47.0,45.0,58.0,56.0,74.0,58.0,64.0,50.0,76.0,8.33,54.0,58.67,35.0
+887,파라과이,gustavovelazquez,Cerro Porteno,34.0,Paraguay,ivanramirez,21.0,60.0,59.0,55.0,60.0,59.0,40.0,60.0,60.0,62.0,59.0,63.0,13.0,48.5,25.67,63.0
+888,파라과이,juancaceres,Dinamo Moscow,25.0,Paraguay,octavioalfonso,19.0,60.0,60.0,61.0,40.0,58.0,60.0,62.0,58.0,56.0,62.0,61.0,8.0,61.0,41.33,58.0
+889,파라과이,junioralonso,Atletico MG,32.0,Paraguay,ivanramirez,21.0,60.0,59.0,55.0,60.0,59.0,40.0,60.0,60.0,62.0,59.0,63.0,13.0,48.5,25.67,63.0
+890,파라과이,omaralderete,Sunderland,28.0,Paraguay,adrianandrescubas,29.0,74.0,72.0,64.0,74.0,74.0,59.0,70.0,86.0,31.0,56.0,68.0,9.67,72.0,74.67,40.0
+891,파라과이,andrescubas,Vancouver Whitecaps,29.0,Paraguay,ivanramirez,21.0,60.0,59.0,55.0,60.0,59.0,40.0,60.0,60.0,62.0,59.0,63.0,13.0,48.5,25.67,63.0
+892,파라과이,braianojeda,Real Salt Lake,25.0,Paraguay,matiasarguello,18.0,59.0,57.0,50.0,49.0,48.0,63.0,68.0,68.0,47.0,48.0,68.0,6.67,51.5,51.33,38.0
+893,파라과이,damianbobadilla,Sao Paulo,24.0,Paraguay,victorrojas,20.0,56.0,18.0,13.0,25.0,43.0,11.0,19.0,18.0,48.0,41.0,15.0,56.0,21.5,10.33,5.0
+894,파라과이,diegogomez,Brighton & Hove Albion,22.0,Paraguay,angelaquino,20.0,61.0,45.0,47.0,45.0,58.0,56.0,74.0,58.0,64.0,50.0,76.0,8.33,54.0,58.67,35.0
+895,파라과이,hugocuenca,Genoa,20.0,Paraguay,angelaquino,20.0,61.0,45.0,47.0,45.0,58.0,56.0,74.0,58.0,64.0,50.0,76.0,8.33,54.0,58.67,35.0
+896,파라과이,julioenciso,Strasbourg,21.0,Paraguay,angelaquino,20.0,61.0,45.0,47.0,45.0,58.0,56.0,74.0,58.0,64.0,50.0,76.0,8.33,54.0,58.67,35.0
+897,파라과이,kaku,Al-Ain,30.0,Paraguay,ivanramirez,21.0,60.0,59.0,55.0,60.0,59.0,40.0,60.0,60.0,62.0,59.0,63.0,13.0,48.5,25.67,63.0
+898,파라과이,lucasromero,Recoleta,,Paraguay,matiasgalarzafonda,23.0,73.0,77.0,80.0,76.0,72.0,70.0,59.0,61.0,48.0,75.0,67.0,12.0,71.5,65.33,74.0
+899,파라과이,mathiasvillasanti,Gremio,28.0,Paraguay,angelaquino,20.0,61.0,45.0,47.0,45.0,58.0,56.0,74.0,58.0,64.0,50.0,76.0,8.33,54.0,58.67,35.0
+900,파라과이,rubenlezcano,Fluminense,21.0,Paraguay,arielavalos,20.0,63.0,59.0,63.0,55.0,65.0,45.0,75.0,80.0,75.0,62.0,70.0,8.67,49.0,25.0,68.0
+901,파라과이,adrianalcaraz,Olimpia,25.0,Paraguay,alexisfretes,19.0,60.0,63.0,60.0,48.0,56.0,58.0,71.0,65.0,62.0,41.0,69.0,13.0,53.0,56.0,40.0
+902,파라과이,alexarce,Independiente Rivadavia,30.0,Paraguay,angelaquino,20.0,61.0,45.0,47.0,45.0,58.0,56.0,74.0,58.0,64.0,50.0,76.0,8.33,54.0,58.67,35.0
+903,파라과이,angelromero,Corinthians,33.0,Paraguay,octavioalfonso,19.0,60.0,60.0,61.0,40.0,58.0,60.0,62.0,58.0,56.0,62.0,61.0,8.0,61.0,41.33,58.0
+904,파라과이,antoniosanabria,Cremonese,29.0,Paraguay,arielavalos,20.0,63.0,59.0,63.0,55.0,65.0,45.0,75.0,80.0,75.0,62.0,70.0,8.67,49.0,25.0,68.0
+905,파라과이,gabrielavalos,Independiente,34.0,Paraguay,ivanramirez,21.0,60.0,59.0,55.0,60.0,59.0,40.0,60.0,60.0,62.0,59.0,63.0,13.0,48.5,25.67,63.0
+906,파라과이,isidropitta,Red Bull Bragantino,26.0,Paraguay,matiasgalarzafonda,23.0,73.0,77.0,80.0,76.0,72.0,70.0,59.0,61.0,48.0,75.0,67.0,12.0,71.5,65.33,74.0
+907,파라과이,matiasgalarza,River Plate,23.0,Paraguay,angelaquino,20.0,61.0,45.0,47.0,45.0,58.0,56.0,74.0,58.0,64.0,50.0,76.0,8.33,54.0,58.67,35.0
+908,파라과이,miguelalmiron,Atlanta United,31.0,Paraguay,victorrojas,20.0,56.0,18.0,13.0,25.0,43.0,11.0,19.0,18.0,48.0,41.0,15.0,56.0,21.5,10.33,5.0
+909,파라과이,ramonsosa,Palmeiras,26.0,Paraguay,joaquinparedes,22.0,57.0,42.0,30.0,44.0,54.0,31.0,60.0,66.0,61.0,38.0,65.0,10.0,44.0,59.33,18.0
+910,파라과이,rodneyredes,Olimpia,25.0,Paraguay,ronaldoivanmartinezrolon,29.0,67.0,66.0,68.0,56.0,64.0,25.0,73.0,52.0,64.0,68.0,74.0,7.33,53.0,15.33,71.0
+911,알제리,ronaldomartinez,Club Atletico Platense,29.0,Algeria,ahmedkendouci,26.0,71.0,75.0,74.0,69.0,68.0,60.0,73.0,71.0,57.0,75.0,73.0,9.0,72.0,62.67,73.0
+912,알제리,alexisguendouz,MC Alger,,Algeria,yassinebenzia,30.0,72.0,72.0,75.0,74.0,71.0,68.0,68.0,63.0,55.0,71.0,64.0,9.33,71.5,39.0,71.0
+913,알제리,oussamabenbot,USM Alger,,Algeria,ibrahimmaza,19.0,71.0,77.0,81.0,70.0,67.0,63.0,74.0,70.0,62.0,82.0,76.0,12.67,66.5,36.0,64.0
+914,알제리,zakariabouhalfaya,CS Constantine,,Algeria,ahmedkashi,36.0,69.0,68.0,62.0,69.0,63.0,49.0,58.0,93.0,71.0,58.0,43.0,12.0,69.0,63.67,45.0
+915,알제리,ahmedtouba,Panathinaikos,27.0,Algeria,ahmedkashi,36.0,69.0,68.0,62.0,69.0,63.0,49.0,58.0,93.0,71.0,58.0,43.0,12.0,69.0,63.67,45.0
+916,알제리,aissamandi,Lille,33.0,Algeria,jaouenhadjamجوينحجام,22.0,69.0,67.0,71.0,62.0,60.0,61.0,77.0,74.0,74.0,61.0,80.0,8.33,57.0,69.0,52.0
+917,알제리,jaouenhadjam,Young Boys,22.0,Algeria,kevindanielguitounvandenkerkhof,29.0,70.0,68.0,70.0,59.0,66.0,68.0,80.0,83.0,75.0,68.0,82.0,10.0,64.5,63.33,64.0
+918,알제리,kevinvandenkerkhof,Sporting Charleroi,29.0,Algeria,ahmedkashi,36.0,69.0,68.0,62.0,69.0,63.0,49.0,58.0,93.0,71.0,58.0,43.0,12.0,69.0,63.67,45.0
+919,알제리,mohamedtougai,Espérance,,Algeria,ahmedkashi,36.0,69.0,68.0,62.0,69.0,63.0,49.0,58.0,93.0,71.0,58.0,43.0,12.0,69.0,63.67,45.0
+920,알제리,naoufelkhacef,CR Belouizdad,27.0,Algeria,aminesaid,22.0,57.0,62.0,60.0,56.0,49.0,41.0,65.0,58.0,67.0,57.0,67.0,7.67,49.5,17.0,61.0
+921,알제리,ramybensebaini,Borussia Dortmund,30.0,Algeria,aminesaid,22.0,57.0,62.0,60.0,56.0,49.0,41.0,65.0,58.0,67.0,57.0,67.0,7.67,49.5,17.0,61.0
+922,알제리,youcefatal,Al-Sadd,29.0,Algeria,ahmedkashi,36.0,69.0,68.0,62.0,69.0,63.0,49.0,58.0,93.0,71.0,58.0,43.0,12.0,69.0,63.67,45.0
+923,알제리,fareschaibi,Eintracht Frankfurt,22.0,Algeria,hacenebenali,25.0,66.0,67.0,62.0,62.0,69.0,51.0,71.0,64.0,64.0,66.0,75.0,8.33,53.0,25.0,68.0
+924,알제리,hichamboudaoui,Nice,26.0,Algeria,hacenebenali,25.0,66.0,67.0,62.0,62.0,69.0,51.0,71.0,64.0,64.0,66.0,75.0,8.33,53.0,25.0,68.0
+925,알제리,himadabdelli,Angers,25.0,Algeria,houssemaouarحسامعوار,27.0,77.0,81.0,84.0,76.0,76.0,65.0,68.0,66.0,62.0,69.0,64.0,10.33,77.5,62.67,73.0
+926,알제리,houssemaouar,Al Ittihad,27.0,Algeria,ibrahimmaza,19.0,71.0,77.0,81.0,70.0,67.0,63.0,74.0,70.0,62.0,82.0,76.0,12.67,66.5,36.0,64.0
+927,알제리,ibrahimmaza,Bayer Leverkusen,19.0,Algeria,ilankaiskebbal,26.0,76.0,77.0,79.0,76.0,70.0,71.0,83.0,83.0,40.0,68.0,71.0,10.33,71.5,24.33,72.0
+928,알제리,ilankebbal,Paris FC,27.0,Algeria,mohamedramzdinefarsi,25.0,70.0,69.0,69.0,66.0,63.0,68.0,83.0,78.0,50.0,60.0,85.0,12.0,62.0,64.67,52.0
+929,알제리,mohammedbenkhemassa,MC Alger,,Algeria,rafikmessali,22.0,64.0,60.0,58.0,54.0,54.0,60.0,69.0,68.0,63.0,45.0,76.0,10.0,63.0,58.67,42.0
+930,알제리,nabilbentaleb,Lille,30.0,Algeria,ramizlarbizerrouki,27.0,73.0,72.0,72.0,73.0,68.0,59.0,65.0,80.0,80.0,76.0,59.0,8.0,74.5,69.0,59.0
+931,알제리,ramizzerrouki,FC Twente,27.0,Algeria,rayanjawadkolli,20.0,65.0,65.0,66.0,62.0,64.0,61.0,77.0,54.0,58.0,65.0,77.0,7.67,57.0,23.33,65.0
+932,알제리,rayanaitnouri,Manchester City,24.0,Algeria,yassinebenzia,30.0,72.0,72.0,75.0,74.0,71.0,68.0,68.0,63.0,55.0,71.0,64.0,9.33,71.5,39.0,71.0
+933,알제리,yassinebenzia,Al-Fayha,31.0,Algeria,amineferidgouiri,25.0,79.0,80.0,81.0,79.0,76.0,77.0,79.0,76.0,71.0,80.0,75.0,7.33,73.5,39.33,85.0
+934,알제리,aminegouiri,Marseille,25.0,Algeria,ibrahimmaza,19.0,71.0,77.0,81.0,70.0,67.0,63.0,74.0,70.0,62.0,82.0,76.0,12.67,66.5,36.0,64.0
+935,알제리,anishadjmoussa,Feyenoord,23.0,Algeria,mehdibaaloudj,24.0,62.0,61.0,64.0,59.0,61.0,47.0,61.0,55.0,74.0,58.0,56.0,9.33,46.5,17.67,66.0
+936,알제리,baghdadbounedjah,Al-Shamal,33.0,Algeria,sohaibnair,23.0,68.0,60.0,51.0,55.0,62.0,38.0,64.0,67.0,75.0,35.0,65.0,9.0,60.0,68.0,29.0
+937,알제리,mohamedamoura,Wolfsburg,25.0,Algeria,riyadmahrezرياضمحرز,34.0,84.0,89.0,87.0,81.0,81.0,81.0,81.0,79.0,60.0,82.0,76.0,10.67,78.0,33.67,80.0
+938,알제리,riyadmahrez,Al Ahli,34.0,Algeria,yanissellami,18.0,61.0,69.0,65.0,58.0,51.0,61.0,58.0,54.0,47.0,58.0,55.0,13.33,66.5,43.33,49.0
+939,알제리,saidbenrahma,Neom SC,30.0,Algeria,hacenebenali,25.0,66.0,67.0,62.0,62.0,69.0,51.0,71.0,64.0,64.0,66.0,75.0,8.33,53.0,25.0,68.0
+940,체코,youcefbelaili,Espérance,33.0,Czech Republic,jindrichstanek,29.0,76.0,27.0,17.0,48.0,72.0,16.0,36.0,26.0,68.0,59.0,35.0,76.0,20.5,14.67,15.0
+941,체코,jindrichstanek,Slavia Prague,29.0,Czech Republic,matejkovar,25.0,75.0,35.0,22.0,63.0,67.0,15.0,26.0,28.0,55.0,59.0,37.0,75.33,46.5,12.0,9.0
+942,체코,matejkovar,PSV Eindhoven,25.0,Czech Republic,vitezslavjaros,23.0,70.0,29.0,15.0,58.0,65.0,12.0,39.0,40.0,58.0,53.0,38.0,70.0,47.0,14.0,11.0
+943,체코,vitezslavjaros,Ajax,24.0,Czech Republic,davidjurasek,24.0,73.0,72.0,73.0,67.0,71.0,76.0,84.0,75.0,74.0,77.0,83.0,8.67,64.5,66.33,51.0
+944,체코,davidjurasek,Beşiktaş,25.0,Czech Republic,jaroslavzeleny,32.0,72.0,72.0,70.0,75.0,74.0,71.0,72.0,71.0,78.0,66.0,75.0,11.67,70.5,69.33,61.0
+945,체코,jaroslavzeleny,Sparta Prague,33.0,Czech Republic,ladislavkrejci,26.0,78.0,72.0,69.0,75.0,75.0,56.0,68.0,79.0,85.0,78.0,75.0,9.67,74.5,75.0,62.0
+946,체코,ladislavkrejci,Wolverhampton Wanderers,26.0,Czech Republic,martinjedlicka,27.0,75.0,22.0,11.0,38.0,71.0,11.0,33.0,22.0,62.0,53.0,37.0,74.67,43.0,12.0,6.0
+947,체코,martincedidla,Jablonec,23.0,Czech Republic,martinvitik,22.0,74.0,67.0,63.0,67.0,71.0,31.0,71.0,63.0,81.0,60.0,75.0,11.0,65.0,74.0,33.0
+948,체코,martinvitik,Bologna,22.0,Czech Republic,robinhranac,25.0,71.0,56.0,48.0,54.0,69.0,30.0,65.0,64.0,84.0,68.0,84.0,5.67,65.0,69.67,25.0
+949,체코,robinhranac,Hoffenheim,25.0,Czech Republic,tomasholes,32.0,76.0,70.0,65.0,73.0,74.0,73.0,74.0,77.0,81.0,72.0,74.0,9.0,70.0,75.0,52.0
+950,체코,tomasholes,Slavia Prague,32.0,Czech Republic,vaclavjemelka,30.0,74.0,70.0,68.0,70.0,70.0,65.0,64.0,71.0,80.0,56.0,68.0,10.67,71.0,71.33,44.0
+951,체코,vaclavjemelka,Viktoria Plzen,30.0,Czech Republic,adamkarabec,21.0,71.0,72.0,75.0,74.0,68.0,65.0,74.0,76.0,64.0,66.0,73.0,11.33,69.5,34.33,64.0
+952,체코,adamkarabec,Lyon,22.0,Czech Republic,alexkral,27.0,74.0,76.0,76.0,75.0,74.0,68.0,69.0,84.0,76.0,75.0,73.0,11.33,73.5,73.67,62.0
+953,체코,alexkral,Union Berlin,27.0,Czech Republic,daviddoudera,27.0,74.0,72.0,71.0,56.0,70.0,75.0,88.0,85.0,56.0,69.0,89.0,11.67,66.0,66.0,68.0
+954,체코,daviddoudera,Slavia Prague,27.0,Czech Republic,lukascerv,24.0,74.0,71.0,68.0,63.0,72.0,64.0,69.0,78.0,75.0,73.0,69.0,8.67,72.5,70.33,61.0
+955,체코,lukascerv,Viktoria Plzen,24.0,Czech Republic,michalsacek,28.0,71.0,72.0,68.0,70.0,69.0,68.0,77.0,73.0,66.0,69.0,72.0,9.67,69.0,66.33,59.0
+956,체코,michalberan,Sigma Olomouc,25.0,Czech Republic,michalsadilek,26.0,76.0,74.0,68.0,70.0,71.0,69.0,74.0,86.0,74.0,71.0,36.0,12.0,79.5,72.67,50.0
+957,체코,michalsadilek,Slavia Prague,26.0,Czech Republic,pavelsulc,24.0,77.0,77.0,78.0,78.0,77.0,74.0,72.0,85.0,54.0,66.0,70.0,12.0,75.5,40.0,78.0
+958,체코,pavelsulc,Lyon,24.0,Czech Republic,tomassoucek,30.0,78.0,75.0,71.0,73.0,78.0,68.0,42.0,87.0,80.0,73.0,47.0,8.33,75.0,77.67,72.0
+959,체코,tomassoucek,West Ham United,30.0,Czech Republic,jankuchta,28.0,73.0,71.0,70.0,69.0,72.0,58.0,77.0,76.0,79.0,72.0,77.0,9.67,64.5,29.0,71.0
+960,체코,jankuchta,Sparta Prague,28.0,Czech Republic,lukasprovod,28.0,78.0,79.0,79.0,79.0,79.0,78.0,71.0,85.0,85.0,82.0,80.0,12.0,78.5,63.0,71.0
+961,체코,lukasprovod,Slavia Prague,28.0,Czech Republic,matejvydra,33.0,74.0,72.0,71.0,72.0,76.0,66.0,78.0,66.0,75.0,74.0,75.0,12.67,63.5,32.67,73.0
+962,체코,matejvydra,Viktoria Plzen,33.0,Czech Republic,patrikschick,29.0,85.0,83.0,81.0,85.0,85.0,64.0,72.0,69.0,85.0,85.0,72.0,11.33,71.0,30.67,86.0
+963,체코,patrikschick,Bayer Leverkusen,29.0,Czech Republic,tomaschory,30.0,75.0,72.0,66.0,74.0,75.0,44.0,47.0,75.0,95.0,77.0,65.0,9.0,62.0,28.0,76.0
+964,체코,tomaschory,Slavia Prague,30.0,Czech Republic,vaclavcerny,27.0,77.0,77.0,78.0,68.0,74.0,70.0,87.0,89.0,54.0,72.0,83.0,11.0,65.0,37.67,74.0
+965,체코,vaclavcerny,Beşiktaş,27.0,Czech Republic,vasilkusej,25.0,74.0,77.0,79.0,67.0,65.0,68.0,82.0,67.0,64.0,66.0,74.0,11.67,65.0,19.33,73.0
+966,그리스,vasilkusej,Slavia Prague,25.0,Greece,christoskosidis,20.0,63.0,50.0,51.0,59.0,58.0,55.0,65.0,68.0,70.0,36.0,68.0,7.33,55.5,62.0,39.0
+967,그리스,christosmandas,Lazio,24.0,Greece,konstantinosdoumtsios,27.0,61.0,63.0,60.0,54.0,56.0,44.0,64.0,56.0,64.0,63.0,63.0,9.33,49.0,21.0,61.0
+968,그리스,konstantinostzolakis,Olympiacos,22.0,Greece,giannisniarchos,23.0,62.0,63.0,61.0,55.0,60.0,50.0,62.0,60.0,65.0,64.0,66.0,8.0,50.5,17.0,62.0
+969,그리스,odysseasvlachodimos,Sevilla,31.0,Greece,georgiosliavas,24.0,69.0,71.0,64.0,58.0,62.0,36.0,59.0,78.0,70.0,59.0,65.0,11.0,69.0,64.67,57.0
+970,그리스,georgiosvagiannidis,Sporting CP,24.0,Greece,georgioskyriopoulos,20.0,65.0,69.0,71.0,60.0,62.0,60.0,73.0,65.0,57.0,55.0,73.0,10.33,54.5,26.33,62.0
+971,그리스,giorgoskyriakopoulos,Panathinaikos,29.0,Greece,konstantinosdoumtsios,27.0,61.0,63.0,60.0,54.0,56.0,44.0,64.0,56.0,64.0,63.0,63.0,9.33,49.0,21.0,61.0
+972,그리스,konstantinoskoulierakis,Wolfsburg,21.0,Greece,konstantinoskaretsas,17.0,70.0,77.0,76.0,69.0,52.0,69.0,85.0,59.0,48.0,71.0,64.0,8.67,72.0,23.0,62.0
+973,그리스,konstantinosmavropanos,West Ham United,27.0,Greece,konstantinoskaretsas,17.0,70.0,77.0,76.0,69.0,52.0,69.0,85.0,59.0,48.0,71.0,64.0,8.67,72.0,23.0,62.0
+974,그리스,konstantinostsimikas,Roma,29.0,Greece,giannisbokos,18.0,63.0,66.0,70.0,55.0,60.0,60.0,74.0,56.0,49.0,62.0,74.0,11.33,55.0,23.0,61.0
+975,그리스,lazarosrota,AEK Athens,28.0,Greece,anestismythou,18.0,61.0,52.0,55.0,60.0,61.0,29.0,68.0,64.0,67.0,56.0,73.0,8.67,44.0,23.0,64.0
+976,그리스,panagiotisretsos,Olympiacos,27.0,Greece,dimitrioschatsidis,19.0,62.0,67.0,66.0,55.0,64.0,45.0,74.0,63.0,56.0,55.0,75.0,6.67,50.0,20.0,60.0
+977,그리스,pantelishatzidiakos,FC København,28.0,Greece,dimitriosbataoulas,18.0,62.0,45.0,43.0,52.0,55.0,30.0,58.0,68.0,72.0,42.0,61.0,12.0,58.0,61.67,35.0
+978,그리스,anastasiosbakasetas,Panathinaikos,32.0,Greece,christoskosidis,20.0,63.0,50.0,51.0,59.0,58.0,55.0,65.0,68.0,70.0,36.0,68.0,7.33,55.5,62.0,39.0
+979,그리스,christosmouzakitis,Olympiacos,18.0,Greece,christoskosidis,20.0,63.0,50.0,51.0,59.0,58.0,55.0,65.0,68.0,70.0,36.0,68.0,7.33,55.5,62.0,39.0
+980,그리스,christoszafeiris,Slavia Prague,22.0,Greece,dimitriosbataoulas,18.0,62.0,45.0,43.0,52.0,55.0,30.0,58.0,68.0,72.0,42.0,61.0,12.0,58.0,61.67,35.0
+981,그리스,dimitriosgiannoulis,Augsburg,29.0,Greece,dimitrioschatsidis,19.0,62.0,67.0,66.0,55.0,64.0,45.0,74.0,63.0,56.0,55.0,75.0,6.67,50.0,20.0,60.0
+982,그리스,dimitrioskourbelis,Al Khaleej,31.0,Greece,dimitriosbataoulas,18.0,62.0,45.0,43.0,52.0,55.0,30.0,58.0,68.0,72.0,42.0,61.0,12.0,58.0,61.67,35.0
+983,그리스,dimitriospelkas,PAOK Thessaloniki FC,31.0,Greece,giannisniarchos,23.0,62.0,63.0,61.0,55.0,60.0,50.0,62.0,60.0,65.0,64.0,66.0,8.0,50.5,17.0,62.0
+984,그리스,gianniskonstantelias,PAOK Thessaloniki FC,22.0,Greece,konstantinoskaretsas,17.0,70.0,77.0,76.0,69.0,52.0,69.0,85.0,59.0,48.0,71.0,64.0,8.67,72.0,23.0,62.0
+985,그리스,konstantinoskaretsas,Genk,17.0,Greece,giannisbokos,18.0,63.0,66.0,70.0,55.0,60.0,60.0,74.0,56.0,49.0,62.0,74.0,11.33,55.0,23.0,61.0
+986,그리스,manolissiopis,Panathinaikos,31.0,Greece,dimitriosbataoulas,18.0,62.0,45.0,43.0,52.0,55.0,30.0,58.0,68.0,72.0,42.0,61.0,12.0,58.0,61.67,35.0
+987,그리스,petrosmantalos,AEK Athens,34.0,Greece,konstantinosdoumtsios,27.0,61.0,63.0,60.0,54.0,56.0,44.0,64.0,56.0,64.0,63.0,63.0,9.33,49.0,21.0,61.0
+988,그리스,anastasiosdouvikas,Como,26.0,Greece,christoskosidis,20.0,63.0,50.0,51.0,59.0,58.0,55.0,65.0,68.0,70.0,36.0,68.0,7.33,55.5,62.0,39.0
+989,그리스,christostzolis,Club Brugge,23.0,Greece,christoskosidis,20.0,63.0,50.0,51.0,59.0,58.0,55.0,65.0,68.0,70.0,36.0,68.0,7.33,55.5,62.0,39.0
+990,그리스,fotisioannidis,Sporting CP,25.0,Greece,georgiosliavas,24.0,69.0,71.0,64.0,58.0,62.0,36.0,59.0,78.0,70.0,59.0,65.0,11.0,69.0,64.67,57.0
+991,그리스,giorgosmasouras,Al Khaleej,31.0,Greece,dimitrioschatsidis,19.0,62.0,67.0,66.0,55.0,64.0,45.0,74.0,63.0,56.0,55.0,75.0,6.67,50.0,20.0,60.0
+992,코트디부아르,vangelispavlidis,Benfica,26.0,Ivory Coast,albanlafont,26.0,75.0,10.0,14.0,61.0,69.0,13.0,48.0,40.0,70.0,52.0,45.0,76.0,52.5,15.33,6.0
+993,코트디부아르,albanlafont,Panathinaikos,26.0,Ivory Coast,mohamedkone,23.0,68.0,13.0,14.0,30.0,63.0,13.0,27.0,28.0,60.0,48.0,37.0,67.33,19.0,10.0,7.0
+994,코트디부아르,mohamedkone,Sporting Charleroi,23.0,Ivory Coast,yahiafofana,24.0,76.0,12.0,7.0,22.0,69.0,11.0,40.0,33.0,77.0,53.0,43.0,77.0,19.5,12.0,5.0
+995,코트디부아르,yahiafofana,Rizespor,25.0,Ivory Coast,gueladoue,22.0,77.0,76.0,72.0,75.0,77.0,71.0,65.0,76.0,79.0,62.0,77.0,11.33,74.0,74.33,41.0
+996,코트디부아르,armelzohouri,Iberia 1999,24.0,Ivory Coast,christopherteaoperi,28.0,74.0,74.0,72.0,72.0,72.0,74.0,74.0,82.0,69.0,79.0,81.0,13.67,68.5,69.33,48.0
+997,코트디부아르,christopheroperi,Başakşehir,28.0,Ivory Coast,clementakpa,23.0,74.0,70.0,64.0,72.0,73.0,64.0,71.0,67.0,74.0,42.0,69.0,8.33,59.0,74.33,42.0
+998,코트디부아르,clementakpa,Auxerre,23.0,Ivory Coast,emmanueljuniorkakou,20.0,62.0,63.0,54.0,50.0,55.0,53.0,72.0,60.0,65.0,21.0,67.0,10.0,54.5,64.33,28.0
+999,코트디부아르,emmanuelagbadou,Wolverhampton Wanderers,28.0,Ivory Coast,obiteevanndicka,25.0,81.0,75.0,69.0,80.0,81.0,68.0,69.0,83.0,81.0,65.0,78.0,9.67,76.0,80.67,49.0
+1000,코트디부아르,evann'dicka,Roma,26.0,Ivory Coast,richardkone,21.0,69.0,66.0,68.0,68.0,65.0,56.0,81.0,69.0,83.0,69.0,83.0,9.33,47.0,34.0,68.0
+1001,코트디부아르,ghislainkonan,Gil Vicente,29.0,Ivory Coast,jeanphilippegbamin,29.0,68.0,68.0,65.0,69.0,64.0,68.0,65.0,56.0,80.0,76.0,73.0,11.67,67.5,67.33,48.0
+1002,코트디부아르,jeanphilippegbamin,Metz,30.0,Ivory Coast,gueladoue,22.0,77.0,76.0,72.0,75.0,77.0,71.0,65.0,76.0,79.0,62.0,77.0,11.33,74.0,74.33,41.0
+1003,코트디부아르,luckzogbe,Brest,20.0,Ivory Coast,odilonkossounoukouakou,24.0,80.0,69.0,66.0,73.0,76.0,58.0,74.0,76.0,79.0,52.0,84.0,7.0,75.0,81.0,26.0
+1004,코트디부아르,odilonkossounou,Atalanta,24.0,Ivory Coast,wilfriedstephanesingo,24.0,80.0,74.0,74.0,75.0,79.0,73.0,72.0,79.0,85.0,81.0,87.0,10.33,72.5,79.33,55.0
+1005,코트디부아르,wilfriedsingo,Galatasaray,24.0,Ivory Coast,guidavy,19.0,60.0,62.0,57.0,46.0,60.0,41.0,56.0,69.0,74.0,74.0,65.0,11.67,66.0,56.33,40.0
+1006,코트디부아르,amad,Manchester United,23.0,Ivory Coast,franckyannickkessie,28.0,80.0,80.0,77.0,83.0,77.0,66.0,77.0,92.0,87.0,84.0,79.0,10.33,76.5,78.67,75.0
+1007,코트디부아르,franckkessie,Al Ahli,28.0,Ivory Coast,ibrahimsangare,27.0,77.0,74.0,74.0,75.0,75.0,66.0,62.0,66.0,87.0,80.0,54.0,6.67,75.5,77.0,59.0
+1008,코트디부아르,ibrahimsangare,Nottingham Forest,27.0,Ivory Coast,sekoufofana,22.0,60.0,56.0,48.0,42.0,58.0,51.0,67.0,64.0,66.0,20.0,71.0,8.67,50.0,57.33,37.0
+1009,코트디부아르,sekofofana,Rennes,30.0,Ivory Coast,bazoumanatoure,19.0,70.0,72.0,70.0,56.0,60.0,68.0,90.0,65.0,50.0,60.0,92.0,6.67,62.5,27.67,61.0
+1010,코트디부아르,bazoumanatoure,Hoffenheim,,Ivory Coast,evannguessand,24.0,79.0,80.0,81.0,80.0,76.0,77.0,79.0,76.0,84.0,78.0,86.0,6.0,73.5,29.67,79.0
+1011,코트디부아르,evannguessand,Aston Villa,24.0,Ivory Coast,nicolaspepe,30.0,80.0,82.0,83.0,75.0,78.0,75.0,87.0,69.0,74.0,82.0,88.0,8.33,74.0,33.33,76.0
+1012,코트디부아르,nicolaspepe,Villarreal,30.0,Ivory Coast,parfaitguiagon,24.0,72.0,77.0,79.0,67.0,63.0,68.0,76.0,65.0,63.0,67.0,68.0,11.67,63.0,23.33,70.0
+1013,코트디부아르,parfaitguiagon,Sporting Charleroi,24.0,Ivory Coast,severinnioule,20.0,63.0,64.0,66.0,50.0,51.0,53.0,85.0,60.0,49.0,56.0,92.0,11.0,51.5,22.33,61.0
+1014,코트디부아르,sebastienhaller,FC Utrecht,31.0,Ivory Coast,simonadingra,23.0,76.0,77.0,80.0,79.0,72.0,70.0,88.0,70.0,45.0,73.0,87.0,10.67,69.0,30.67,71.0
+1015,코트디부아르,simonadingra,Sunderland,23.0,Ivory Coast,vakounissoufbayo,28.0,69.0,68.0,67.0,63.0,66.0,55.0,76.0,65.0,82.0,71.0,76.0,12.33,52.0,21.0,70.0
+1016,나이지리아,vakounissoufbayo,Udinese,28.0,Nigeria,elijahodede,18.0,58.0,66.0,64.0,53.0,41.0,57.0,67.0,48.0,51.0,54.0,69.0,12.0,44.5,30.33,61.0
+1017,나이지리아,adebayoadeleye,NFC Volos,,Nigeria,hassansani,18.0,52.0,18.0,9.0,25.0,42.0,13.0,22.0,15.0,56.0,39.0,20.0,50.33,26.0,12.33,7.0
+1018,나이지리아,amasobasogie,나이지리아,,Nigeria,silasnwankwo,21.0,62.0,58.0,59.0,51.0,55.0,36.0,83.0,64.0,80.0,55.0,82.0,9.67,50.0,23.67,65.0
+1019,나이지리아,stanleynwabili,Chippa United,,Nigeria,benjaminchiemelafredrick,20.0,61.0,57.0,58.0,58.0,54.0,58.0,60.0,62.0,71.0,48.0,72.0,9.67,53.0,57.67,22.0
+1020,나이지리아,benjaminfredrick,FCV Dender EH,,Nigeria,brightosayisamuel,27.0,76.0,77.0,81.0,63.0,73.0,65.0,92.0,81.0,82.0,65.0,93.0,14.0,63.0,71.67,58.0
+1021,나이지리아,brightosayisamuel,Birmingham City,27.0,Nigeria,davidmoses,21.0,68.0,64.0,68.0,66.0,70.0,58.0,63.0,67.0,60.0,53.0,64.0,8.33,71.5,61.0,52.0
+1022,나이지리아,calvinbassey,Fulham,25.0,Nigeria,chidoziecollinsawaziem,28.0,70.0,61.0,57.0,69.0,70.0,30.0,70.0,72.0,77.0,53.0,73.0,13.0,63.5,69.0,36.0
+1023,나이지리아,chidozieawaziem,Nantes,28.0,Nigeria,musaisah,23.0,61.0,68.0,50.0,44.0,59.0,49.0,69.0,49.0,43.0,53.0,70.0,11.33,72.0,58.0,34.0
+1024,나이지리아,olaaina,Nottingham Forest,28.0,Nigeria,sopuruchukwubrunoonyemaechi,26.0,72.0,68.0,69.0,55.0,65.0,72.0,79.0,71.0,76.0,65.0,81.0,13.67,63.5,70.33,35.0
+1025,나이지리아,sopuruchukwuonyemaechi,Olympiacos,26.0,Nigeria,williampaultroostekong,31.0,71.0,47.0,37.0,69.0,69.0,37.0,57.0,65.0,85.0,53.0,65.0,7.33,50.0,70.33,23.0
+1026,나이지리아,williamtroostekong,Al Kholood,32.0,Nigeria,anjolapopoola,18.0,51.0,50.0,50.0,46.0,48.0,24.0,64.0,58.0,56.0,51.0,68.0,7.33,35.0,12.67,53.0
+1027,나이지리아,ademolalookman,Atalanta,27.0,Nigeria,hassansani,18.0,52.0,18.0,9.0,25.0,42.0,13.0,22.0,15.0,56.0,39.0,20.0,50.33,26.0,12.33,7.0
+1028,나이지리아,alhassanyusuf,New England Revolution,25.0,Nigeria,agufelix,25.0,75.0,75.0,74.0,66.0,74.0,64.0,88.0,78.0,54.0,49.0,93.0,11.0,65.0,72.0,58.0
+1029,나이지리아,agufelix,Werder Bremen,26.0,Nigeria,oluwafisayofaruqdelebashiru,24.0,73.0,75.0,79.0,74.0,68.0,51.0,79.0,71.0,81.0,84.0,89.0,10.0,70.5,66.0,69.0
+1030,나이지리아,fisayodelebashiru,Lazio,24.0,Nigeria,donaldnduka,22.0,62.0,55.0,40.0,46.0,58.0,38.0,68.0,59.0,80.0,35.0,53.0,12.0,51.5,60.33,39.0
+1031,나이지리아,frankonyeka,Brentford,27.0,Nigeria,orjiokwonkwo,27.0,67.0,65.0,68.0,60.0,62.0,60.0,91.0,72.0,61.0,74.0,90.0,11.33,56.0,38.67,68.0
+1032,나이지리아,fredrickgodwin,Mjøndalen,,Nigeria,jamesbello,20.0,56.0,57.0,54.0,49.0,49.0,37.0,72.0,56.0,60.0,62.0,77.0,10.0,45.0,22.0,55.0
+1033,나이지리아,nathantella,Bayer Leverkusen,26.0,Nigeria,raphaelonyedikanwadike,24.0,77.0,75.0,70.0,74.0,72.0,51.0,74.0,88.0,80.0,80.0,73.0,11.0,74.5,74.33,59.0
+1034,나이지리아,raphaelonyedika,Club Brugge,24.0,Nigeria,onyinyewilfredndidi,28.0,76.0,74.0,72.0,75.0,76.0,72.0,61.0,80.0,78.0,75.0,66.0,11.0,74.0,74.0,61.0
+1035,나이지리아,wilfredndidi,Beşiktaş,28.0,Nigeria,akorjeromeadams,25.0,73.0,73.0,70.0,67.0,68.0,48.0,75.0,72.0,82.0,76.0,78.0,7.33,55.0,25.0,73.0
+1036,나이지리아,akoradams,Sevilla,25.0,Nigeria,hassansani,18.0,52.0,18.0,9.0,25.0,42.0,13.0,22.0,15.0,56.0,39.0,20.0,50.33,26.0,12.33,7.0
+1037,나이지리아,alexiwobi,Fulham,29.0,Nigeria,christiannwachukwu,19.0,57.0,55.0,62.0,50.0,51.0,50.0,80.0,35.0,42.0,57.0,77.0,7.0,45.0,23.33,56.0
+1038,나이지리아,christantusuche,Crystal Palace,22.0,Nigeria,davidmoses,21.0,68.0,64.0,68.0,66.0,70.0,58.0,63.0,67.0,60.0,53.0,64.0,8.33,71.5,61.0,52.0
+1039,나이지리아,cyrieldessers,Panathinaikos,30.0,Nigeria,mosesusor,23.0,70.0,69.0,72.0,71.0,60.0,61.0,90.0,76.0,65.0,70.0,90.0,12.67,63.0,38.67,63.0
+1040,나이지리아,mosessimon,Paris FC,30.0,Nigeria,samuelakere,21.0,67.0,66.0,66.0,60.0,63.0,60.0,85.0,62.0,56.0,62.0,88.0,14.0,58.5,25.33,62.0
+1041,나이지리아,samuelchukwueze,Fulham,26.0,Nigeria,teremigobormoffi,26.0,75.0,74.0,75.0,69.0,67.0,50.0,80.0,58.0,85.0,80.0,84.0,12.0,53.5,21.0,75.0
+1042,나이지리아,teremmoffi,Nice,26.0,Nigeria,darekareem,19.0,53.0,55.0,51.0,52.0,49.0,30.0,48.0,55.0,69.0,54.0,52.0,10.33,34.0,10.67,55.0
+1043,나이지리아,toluarokodare,Wolverhampton Wanderers,24.0,Nigeria,musaisah,23.0,61.0,68.0,50.0,44.0,59.0,49.0,69.0,49.0,43.0,53.0,70.0,11.33,72.0,58.0,34.0
+1044,나이지리아,umarsadiq,Real Sociedad,28.0,Nigeria,victorokohboniface,24.0,81.0,82.0,84.0,78.0,78.0,48.0,65.0,55.0,90.0,91.0,69.0,11.0,67.5,31.67,82.0
+1045,나이지리아,victorokohboniface,Werder Bremen,24.0,Nigeria,victorjamesosimhen,26.0,87.0,84.0,80.0,80.0,88.0,62.0,91.0,81.0,91.0,86.0,92.0,9.67,63.0,34.33,88.0
+1046,튀니지,victorosimhen,Galatasaray,26.0,Tunisia,ademarous,20.0,59.0,36.0,32.0,49.0,53.0,30.0,62.0,59.0,66.0,47.0,61.0,10.0,33.5,64.67,30.0
+1047,튀니지,aymendahmen,CS Sfaxien,28.0,Tunisia,adelbettaieb,28.0,61.0,61.0,61.0,59.0,54.0,50.0,68.0,60.0,66.0,68.0,64.0,13.0,52.5,19.67,60.0
+1048,튀니지,bechirbensaid,Espérance,32.0,Tunisia,loueybenfarhat,18.0,64.0,70.0,72.0,60.0,67.0,54.0,84.0,60.0,38.0,64.0,83.0,11.67,64.0,35.33,65.0
+1049,튀니지,noureddinefarhati,튀니지,,Tunisia,ademarous,20.0,59.0,36.0,32.0,49.0,53.0,30.0,62.0,59.0,66.0,47.0,61.0,10.0,33.5,64.67,30.0
+1050,튀니지,alaaghram,Shakhtar Donetsk,24.0,Tunisia,adelbettaieb,28.0,61.0,61.0,61.0,59.0,54.0,50.0,68.0,60.0,66.0,68.0,64.0,13.0,52.5,19.67,60.0
+1051,튀니지,aminebenhamida,Espérance,,Tunisia,ademarous,20.0,59.0,36.0,32.0,49.0,53.0,30.0,62.0,59.0,66.0,47.0,61.0,10.0,33.5,64.67,30.0
+1052,튀니지,dylanbronn,Servette,30.0,Tunisia,moutazneffati,20.0,63.0,61.0,60.0,54.0,61.0,62.0,66.0,57.0,57.0,52.0,70.0,12.67,60.5,58.67,56.0
+1053,튀니지,montassartalbi,Lorient,27.0,Tunisia,moutazneffati,20.0,63.0,61.0,60.0,54.0,61.0,62.0,66.0,57.0,57.0,52.0,70.0,12.67,60.5,58.67,56.0
+1054,튀니지,moutazneffati,IFK Norrköping,,Tunisia,ademarous,20.0,59.0,36.0,32.0,49.0,53.0,30.0,62.0,59.0,66.0,47.0,61.0,10.0,33.5,64.67,30.0
+1055,튀니지,yanvalery,Sheffield Wednesday,26.0,Tunisia,ademarous,20.0,59.0,36.0,32.0,49.0,53.0,30.0,62.0,59.0,66.0,47.0,61.0,10.0,33.5,64.67,30.0
+1056,튀니지,yassinemeriah,Espérance,32.0,Tunisia,ademarous,20.0,59.0,36.0,32.0,49.0,53.0,30.0,62.0,59.0,66.0,47.0,61.0,10.0,33.5,64.67,30.0
+1057,튀니지,aissalaidouni,튀니지,28.0,Tunisia,ademarous,20.0,59.0,36.0,32.0,49.0,53.0,30.0,62.0,59.0,66.0,47.0,61.0,10.0,33.5,64.67,30.0
+1058,튀니지,aliabdi,Nice,31.0,Tunisia,ademarous,20.0,59.0,36.0,32.0,49.0,53.0,30.0,62.0,59.0,66.0,47.0,61.0,10.0,33.5,64.67,30.0
+1059,튀니지,ferjanisassi,Al-Gharafa,33.0,Tunisia,loueybenfarhat,18.0,64.0,70.0,72.0,60.0,67.0,54.0,84.0,60.0,38.0,64.0,83.0,11.67,64.0,35.33,65.0
+1060,튀니지,firasbenlarbi,Sharjah Cultural Club,29.0,Tunisia,ademarous,20.0,59.0,36.0,32.0,49.0,53.0,30.0,62.0,59.0,66.0,47.0,61.0,10.0,33.5,64.67,30.0
+1061,튀니지,hadjmahmoud,Lugano,25.0,Tunisia,waeldebbiche,20.0,57.0,58.0,53.0,53.0,47.0,47.0,63.0,61.0,48.0,45.0,58.0,13.67,58.0,58.0,28.0
+1062,튀니지,hannibalmejbri,Burnley,22.0,Tunisia,mohammedamincherni,23.0,66.0,55.0,63.0,49.0,64.0,65.0,79.0,86.0,66.0,31.0,70.0,12.67,57.5,61.0,32.0
+1063,튀니지,mohamedalibenromdhane,Al Ahly SC,26.0,Tunisia,ademarous,20.0,59.0,36.0,32.0,49.0,53.0,30.0,62.0,59.0,66.0,47.0,61.0,10.0,33.5,64.67,30.0
+1064,튀니지,naimsliti,Al-Shamal,33.0,Tunisia,ademarous,20.0,59.0,36.0,32.0,49.0,53.0,30.0,62.0,59.0,66.0,47.0,61.0,10.0,33.5,64.67,30.0
+1065,튀니지,amorlayouni,Häcken,32.0,Tunisia,mohamedeliasachouri,26.0,72.0,74.0,76.0,66.0,68.0,67.0,86.0,66.0,58.0,67.0,85.0,14.0,63.0,31.67,64.0
+1066,튀니지,eliasachouri,FC København,26.0,Tunisia,eliassaadالياسسعد,25.0,72.0,73.0,79.0,70.0,68.0,64.0,82.0,69.0,59.0,69.0,67.0,10.33,68.0,32.33,72.0
+1067,튀니지,eliassaad,Augsburg,25.0,Tunisia,ademarous,20.0,59.0,36.0,32.0,49.0,53.0,30.0,62.0,59.0,66.0,47.0,61.0,10.0,33.5,64.67,30.0
+1068,튀니지,firaschaouat,Club Africain,29.0,Tunisia,ademarous,20.0,59.0,36.0,32.0,49.0,53.0,30.0,62.0,59.0,66.0,47.0,61.0,10.0,33.5,64.67,30.0
+1069,튀니지,hazemmastouri,Dynamo Makhachkala,28.0,Tunisia,ismaelgharbialvarez,21.0,73.0,79.0,79.0,73.0,66.0,68.0,81.0,70.0,50.0,74.0,75.0,10.0,67.5,40.0,66.0
+1070,튀니지,ismaelgharbi,Augsburg,21.0,Tunisia,mohameddrager,29.0,65.0,65.0,64.0,59.0,61.0,65.0,69.0,66.0,56.0,62.0,65.0,10.33,60.5,60.67,61.0
+1071,튀니지,mortadhabenouanes,Kasımpaşa,31.0,Tunisia,ademarous,20.0,59.0,36.0,32.0,49.0,53.0,30.0,62.0,59.0,66.0,47.0,61.0,10.0,33.5,64.67,30.0
+1072,코스타리카,sebastiantounekti,Celtic,23.0,Costa Rica,carlosandreimoramontoya,24.0,68.0,69.0,68.0,57.0,64.0,66.0,75.0,74.0,64.0,58.0,73.0,8.67,61.0,63.33,63.0
+1073,코스타리카,alexandrelezcano,Deportiva San Carlos,,Costa Rica,ginoviviquesada,24.0,59.0,63.0,62.0,60.0,51.0,49.0,74.0,49.0,44.0,56.0,74.0,11.67,56.0,42.67,56.0
+1074,코스타리카,keylornavas,Pumas,38.0,Costa Rica,patrickgilmarsequeiramejias,26.0,71.0,11.0,5.0,42.0,65.0,23.0,38.0,25.0,60.0,52.0,30.0,70.67,29.0,11.67,6.0
+1075,코스타리카,patricksequeira,Casa Pia AC,26.0,Costa Rica,ginoviviquesada,24.0,59.0,63.0,62.0,60.0,51.0,49.0,74.0,49.0,44.0,56.0,74.0,11.67,56.0,42.67,56.0
+1076,코스타리카,alexisgamboa,LD Alajuelense,26.0,Costa Rica,carlosandreimoramontoya,24.0,68.0,69.0,68.0,57.0,64.0,66.0,75.0,74.0,64.0,58.0,73.0,8.67,61.0,63.33,63.0
+1077,코스타리카,carlosmora,Universitatea Craiova,24.0,Costa Rica,franciscojaviercalvoquesada,32.0,68.0,62.0,64.0,61.0,66.0,59.0,63.0,77.0,74.0,55.0,63.0,8.67,64.0,66.0,41.0
+1078,코스타리카,franciscocalvo,Al-Ettifaq,33.0,Costa Rica,ginoviviquesada,24.0,59.0,63.0,62.0,60.0,51.0,49.0,74.0,49.0,44.0,56.0,74.0,11.67,56.0,42.67,56.0
+1079,코스타리카,josephmora,Deportivo Saprissa,32.0,Costa Rica,ginoviviquesada,24.0,59.0,63.0,62.0,60.0,51.0,49.0,74.0,49.0,44.0,56.0,74.0,11.67,56.0,42.67,56.0
+1080,코스타리카,juanpablovargas,Millonarios,30.0,Costa Rica,juliocesarcascantesolorzano,31.0,67.0,59.0,53.0,57.0,65.0,21.0,56.0,57.0,77.0,40.0,58.0,6.0,62.0,64.67,45.0
+1081,코스타리카,juliocascante,Austin FC,31.0,Costa Rica,ginoviviquesada,24.0,59.0,63.0,62.0,60.0,51.0,49.0,74.0,49.0,44.0,56.0,74.0,11.67,56.0,42.67,56.0
+1082,코스타리카,kenaymyrie,Deportivo Saprissa,,Costa Rica,brandonaguilerazamora,22.0,69.0,70.0,72.0,59.0,66.0,61.0,69.0,71.0,68.0,74.0,72.0,9.0,70.5,57.33,57.0
+1083,코스타리카,santiagovanderputten,LD Alajuelense,,Costa Rica,ginoviviquesada,24.0,59.0,63.0,62.0,60.0,51.0,49.0,74.0,49.0,44.0,56.0,74.0,11.67,56.0,42.67,56.0
+1084,코스타리카,alejandrobran,LD Alajuelense,24.0,Costa Rica,arieldaniellassiteracuna,30.0,66.0,65.0,66.0,60.0,60.0,60.0,81.0,74.0,59.0,71.0,81.0,10.0,53.5,35.33,64.0
+1085,코스타리카,ariellassiter,Portland Timbers,31.0,Costa Rica,brandonaguilerazamora,22.0,69.0,70.0,72.0,59.0,66.0,61.0,69.0,71.0,68.0,74.0,72.0,9.0,70.5,57.33,57.0
+1086,코스타리카,brandonaguilera,Rio Ave,22.0,Costa Rica,ginoviviquesada,24.0,59.0,63.0,62.0,60.0,51.0,49.0,74.0,49.0,44.0,56.0,74.0,11.67,56.0,42.67,56.0
+1087,코스타리카,creichelperez,LD Alajuelense,,Costa Rica,ginoviviquesada,24.0,59.0,63.0,62.0,60.0,51.0,49.0,74.0,49.0,44.0,56.0,74.0,11.67,56.0,42.67,56.0
+1088,코스타리카,orlandogalo,Riga FC,25.0,Costa Rica,ginoviviquesada,24.0,59.0,63.0,62.0,60.0,51.0,49.0,74.0,49.0,44.0,56.0,74.0,11.67,56.0,42.67,56.0
+1089,코스타리카,sebastianacuna,Deportivo Saprissa,,Costa Rica,adrianalonsomartinezbatista,26.0,70.0,74.0,70.0,68.0,70.0,64.0,81.0,65.0,64.0,78.0,80.0,10.0,62.0,27.33,78.0
+1090,코스타리카,alonsomartinez,New York City FC,26.0,Costa Rica,ginoviviquesada,24.0,59.0,63.0,62.0,60.0,51.0,49.0,74.0,49.0,44.0,56.0,74.0,11.67,56.0,42.67,56.0
+1091,코스타리카,andyrojas,New York Red Bulls,19.0,Costa Rica,ginoviviquesada,24.0,59.0,63.0,62.0,60.0,51.0,49.0,74.0,49.0,44.0,56.0,74.0,11.67,56.0,42.67,56.0
+1092,코스타리카,anthonycontreras,Riga FC,25.0,Costa Rica,josimarangeloalcocermccook,20.0,67.0,71.0,75.0,47.0,47.0,66.0,75.0,65.0,60.0,60.0,70.0,10.0,59.5,24.0,66.0
+1093,코스타리카,josimaralcocer,Westerlo,21.0,Costa Rica,ginoviviquesada,24.0,59.0,63.0,62.0,60.0,51.0,49.0,74.0,49.0,44.0,56.0,74.0,11.67,56.0,42.67,56.0
+1094,코스타리카,kennethvargas,Hearts,23.0,Costa Rica,ginoviviquesada,24.0,59.0,63.0,62.0,60.0,51.0,49.0,74.0,49.0,44.0,56.0,74.0,11.67,56.0,42.67,56.0
+1095,슬로베니아,manfredugalde,Spartak Moscow,23.0,Slovenia,igorvekic,27.0,67.0,15.0,11.0,33.0,61.0,14.0,26.0,35.0,60.0,51.0,37.0,66.0,33.5,13.0,15.0
+1096,슬로베니아,igorvekic,Vejle Boldklub,27.0,Slovenia,janoblak,32.0,88.0,30.0,12.0,68.0,85.0,13.0,42.0,42.0,78.0,59.0,53.0,86.0,41.5,19.67,11.0
+1097,슬로베니아,janoblak,Atletico Madrid,32.0,Slovenia,martinturk,21.0,64.0,14.0,13.0,33.0,54.0,12.0,40.0,30.0,55.0,43.0,34.0,66.67,23.5,11.0,7.0
+1098,슬로베니아,martinturk,Estoril,22.0,Slovenia,davidbrekalo,26.0,70.0,64.0,61.0,69.0,65.0,56.0,74.0,83.0,85.0,35.0,73.0,12.33,61.0,68.67,25.0
+1099,슬로베니아,davidbrekalo,Orlando City,26.0,Slovenia,zecdavid,25.0,71.0,59.0,56.0,65.0,68.0,37.0,56.0,68.0,78.0,51.0,73.0,12.0,60.0,68.0,33.0
+1100,슬로베니아,zecdavid,Holstein Kiel,25.0,Slovenia,erikjanza,32.0,69.0,67.0,61.0,61.0,62.0,68.0,60.0,81.0,60.0,62.0,64.0,8.67,64.5,68.33,40.0
+1101,슬로베니아,erikjanza,Górnik Zabrze,32.0,Slovenia,jakabijol,26.0,77.0,67.0,60.0,70.0,74.0,50.0,63.0,79.0,81.0,71.0,64.0,12.0,74.5,76.0,57.0
+1102,슬로베니아,jakabijol,Leeds United,26.0,Slovenia,jurebalkovec,30.0,71.0,68.0,65.0,68.0,66.0,74.0,66.0,70.0,75.0,81.0,66.0,11.0,68.5,71.33,40.0
+1103,슬로베니아,jurebalkovec,Fatih Karagümrük,31.0,Slovenia,aljazivacic,31.0,67.0,12.0,11.0,27.0,63.0,13.0,37.0,34.0,64.0,47.0,41.0,67.67,18.5,9.0,9.0
+1104,슬로베니아,vanjadrkusic,Zenit St. Petersburg,25.0,Slovenia,zanvipotnik,23.0,68.0,67.0,66.0,69.0,64.0,53.0,64.0,71.0,74.0,68.0,61.0,10.33,53.0,18.67,71.0
+1105,슬로베니아,zankarnicnik,NK Celje,31.0,Slovenia,adamgnezdacerin,25.0,74.0,79.0,71.0,70.0,74.0,67.0,74.0,83.0,66.0,65.0,72.0,12.0,75.0,65.0,64.0
+1106,슬로베니아,adamgnezdacerin,Panathinaikos,26.0,Slovenia,adrianzeljkovic,22.0,65.0,65.0,60.0,53.0,67.0,34.0,58.0,65.0,76.0,42.0,58.0,10.0,65.0,61.67,51.0
+1107,슬로베니아,adrianzeljkovic,Viktoria Plzen,23.0,Slovenia,adrianzeljkovic,22.0,65.0,65.0,60.0,53.0,67.0,34.0,58.0,65.0,76.0,42.0,58.0,10.0,65.0,61.67,51.0
+1108,슬로베니아,dejanpetrovic,Rijeka,27.0,Slovenia,janmlakar,26.0,67.0,67.0,67.0,60.0,65.0,55.0,78.0,71.0,71.0,70.0,76.0,10.0,60.5,31.67,66.0
+1109,슬로베니아,janmlakar,Amiens,26.0,Slovenia,jongorencstankovic,29.0,74.0,72.0,64.0,76.0,70.0,41.0,41.0,84.0,84.0,59.0,37.0,8.0,67.0,75.33,44.0
+1110,슬로베니아,jongorencstankovic,Sturm Graz,29.0,Slovenia,petarstojanovic,29.0,69.0,66.0,63.0,60.0,62.0,65.0,76.0,83.0,58.0,68.0,77.0,8.33,62.5,63.33,41.0
+1111,슬로베니아,petarstojanovic,Legia Warszawa,29.0,Slovenia,sandilovric,27.0,75.0,76.0,74.0,72.0,76.0,66.0,62.0,75.0,61.0,69.0,62.0,10.33,77.5,70.67,67.0
+1112,슬로베니아,sandilovric,Udinese,27.0,Slovenia,svitseslar,23.0,63.0,64.0,62.0,54.0,60.0,54.0,76.0,76.0,61.0,63.0,68.0,12.67,70.5,55.0,48.0
+1113,슬로베니아,svitseslar,Eyüpspor,23.0,Slovenia,tamarsvetlin,23.0,67.0,68.0,67.0,57.0,67.0,57.0,73.0,68.0,53.0,63.0,70.0,10.33,66.5,47.33,64.0
+1114,슬로베니아,tamarsvetlin,Korona Kielce,24.0,Slovenia,marcelratnik,21.0,59.0,49.0,27.0,40.0,48.0,22.0,59.0,57.0,74.0,36.0,62.0,9.0,45.0,58.33,21.0
+1115,슬로베니아,timielsnik,FK Crvena Zvezda,27.0,Slovenia,tomihorvat,26.0,73.0,75.0,77.0,70.0,73.0,72.0,72.0,79.0,68.0,70.0,77.0,12.67,73.0,52.0,70.0
+1116,슬로베니아,tomihorvat,Sturm Graz,26.0,Slovenia,aljazcasar,24.0,66.0,68.0,65.0,63.0,66.0,53.0,54.0,76.0,82.0,65.0,60.0,8.33,65.5,63.0,51.0
+1117,슬로베니아,andrazsporar,Slovan Bratislava,31.0,Slovenia,benjaminsesko,22.0,80.0,81.0,79.0,77.0,73.0,56.0,79.0,84.0,83.0,85.0,87.0,10.0,66.5,40.67,81.0
+1118,슬로베니아,benjaminsesko,Manchester United,22.0,Slovenia,zancelar,26.0,69.0,67.0,66.0,66.0,65.0,53.0,76.0,74.0,77.0,73.0,73.0,10.33,59.5,22.33,70.0
+1119,슬로베니아,danijelsturm,NK Celje,26.0,Slovenia,zanvipotnik,23.0,68.0,67.0,66.0,69.0,64.0,53.0,64.0,71.0,74.0,68.0,61.0,10.33,53.0,18.67,71.0
+1120,카메룬,zanvipotnik,Swansea City,23.0,Cameroon,andreonana,29.0,80.0,40.0,26.0,65.0,76.0,15.0,62.0,40.0,78.0,64.0,60.0,80.33,57.5,14.67,12.0
+1121,카메룬,andreonana,Trabzonspor,29.0,Cameroon,simonbradyngapandouetnbu,22.0,66.0,19.0,13.0,28.0,47.0,21.0,28.0,26.0,55.0,47.0,15.0,68.67,23.0,17.0,7.0
+1122,카메룬,simonngapandouetnbu,Montpellier,22.0,Cameroon,nouhoutolo,28.0,71.0,59.0,58.0,61.0,67.0,60.0,84.0,83.0,76.0,54.0,84.0,9.33,53.5,70.0,28.0
+1123,카메룬,simonomossola,AS Vita Club,,Cameroon,christnkamaafalna,27.0,67.0,64.0,62.0,59.0,64.0,57.0,80.0,84.0,70.0,64.0,83.0,9.67,62.5,45.67,61.0
+1124,카메룬,christopherwooh,Spartak Moscow,24.0,Cameroon,briceambina,23.0,67.0,66.0,60.0,63.0,64.0,46.0,70.0,77.0,65.0,62.0,67.0,8.33,66.5,63.33,49.0
+1125,카메룬,faicollins,카메룬,33.0,Cameroon,daneldongmo,24.0,58.0,60.0,58.0,44.0,52.0,52.0,64.0,65.0,54.0,63.0,68.0,10.0,62.5,50.0,54.0
+1126,카메룬,flavienboyomo,Osasuna,23.0,Cameroon,martinndzie,22.0,68.0,69.0,64.0,61.0,61.0,45.0,80.0,66.0,73.0,55.0,69.0,10.67,66.0,68.0,52.0
+1127,카메룬,guymarcelinkilama,Hatayspor,26.0,Cameroon,jeanclaudengandombende,25.0,64.0,69.0,75.0,71.0,59.0,54.0,78.0,64.0,63.0,55.0,70.0,11.0,66.0,54.67,50.0
+1128,카메룬,jeancharlescastelletto,Al-Duhail SC,30.0,Cameroon,briceambina,23.0,67.0,66.0,60.0,63.0,64.0,46.0,70.0,77.0,65.0,62.0,67.0,8.33,66.5,63.33,49.0
+1129,카메룬,joyskimdawa,FCSB,29.0,Cameroon,malcombokelemputu,25.0,68.0,56.0,52.0,62.0,59.0,64.0,69.0,63.0,72.0,51.0,74.0,11.67,58.5,69.0,49.0
+1130,카메룬,malcombokelemputu,Göztepe,25.0,Cameroon,michaelngadeungadjui,34.0,73.0,58.0,50.0,60.0,65.0,42.0,51.0,73.0,91.0,63.0,71.0,7.0,72.5,71.33,34.0
+1131,카메룬,michaelngadeungadjui,Beijing Guoan,34.0,Cameroon,nouhoutolo,28.0,71.0,59.0,58.0,61.0,67.0,60.0,84.0,83.0,76.0,54.0,84.0,9.33,53.5,70.0,28.0
+1132,카메룬,nouhoutolo,Seattle Sounders FC,28.0,Cameroon,andrefrankzamboanguissa,29.0,82.0,82.0,79.0,80.0,84.0,62.0,74.0,89.0,82.0,75.0,76.0,10.0,81.5,77.67,76.0
+1133,카메룬,andrefrankzamboanguissa,Napoli,29.0,Cameroon,arthuravomebong,20.0,71.0,78.0,72.0,71.0,66.0,59.0,71.0,81.0,63.0,58.0,69.0,12.33,71.5,66.0,52.0
+1134,카메룬,arthuravom,Lorient,20.0,Cameroon,andreonana,29.0,80.0,40.0,26.0,65.0,76.0,15.0,62.0,40.0,78.0,64.0,60.0,80.33,57.5,14.67,12.0
+1135,카메룬,carlosbaleba,Brighton & Hove Albion,21.0,Cameroon,daneldongmo,24.0,58.0,60.0,58.0,44.0,52.0,52.0,64.0,65.0,54.0,63.0,68.0,10.0,62.5,50.0,54.0
+1136,카메룬,dannynamaso,Auxerre,25.0,Cameroon,jacksontchatchoua,24.0,74.0,73.0,76.0,64.0,65.0,75.0,87.0,88.0,73.0,67.0,91.0,8.67,62.0,67.67,56.0
+1137,카메룬,jacksontchatchoua,Wolverhampton Wanderers,24.0,Cameroon,nouhoutolo,28.0,71.0,59.0,58.0,61.0,67.0,60.0,84.0,83.0,76.0,54.0,84.0,9.33,53.5,70.0,28.0
+1138,카메룬,jameseto'o,CSKA Sofia,24.0,Cameroon,mahamadouaboubakarnagida,20.0,66.0,66.0,67.0,52.0,64.0,61.0,75.0,62.0,51.0,61.0,78.0,11.67,56.0,64.0,38.0
+1139,카메룬,mahamadounagida,Rennes,20.0,Cameroon,martinhonglaymaii,27.0,71.0,74.0,74.0,70.0,65.0,63.0,75.0,82.0,77.0,74.0,73.0,11.67,72.5,69.67,64.0
+1140,카메룬,martinhongla,Granada,27.0,Cameroon,martinndzie,22.0,68.0,69.0,64.0,61.0,61.0,45.0,80.0,66.0,73.0,55.0,69.0,10.67,66.0,68.0,52.0
+1141,카메룬,martinndzie,Rapid Wien,22.0,Cameroon,wilittyyounoussa,23.0,67.0,71.0,67.0,65.0,67.0,40.0,75.0,88.0,42.0,68.0,74.0,11.0,68.5,67.0,42.0
+1142,카메룬,wilittyyounoussa,Rodez,24.0,Cameroon,yvanneyounoupa,28.0,75.0,78.0,78.0,75.0,72.0,67.0,56.0,78.0,64.0,64.0,67.0,12.33,75.5,73.67,64.0
+1143,카메룬,yvanneyounoupa,Getafe,28.0,Cameroon,briceambina,23.0,67.0,66.0,60.0,63.0,64.0,46.0,70.0,77.0,65.0,62.0,67.0,8.33,66.5,63.33,49.0
+1144,카메룬,bryanmbeumo,Manchester United,26.0,Cameroon,christianmougangbassogog,29.0,70.0,70.0,73.0,65.0,68.0,56.0,91.0,82.0,76.0,74.0,90.0,8.33,56.5,37.67,66.0
+1145,카메룬,christianbassogog,Al Akhdoud,29.0,Cameroon,jeanericmaximchoupomoting,36.0,75.0,77.0,79.0,75.0,73.0,67.0,45.0,55.0,81.0,78.0,72.0,10.33,67.5,29.0,75.0
+1146,카메룬,ericmaximchoupomoting,New York Red Bulls,36.0,Cameroon,frankmariomagri,25.0,72.0,75.0,73.0,66.0,65.0,52.0,78.0,72.0,69.0,73.0,77.0,11.0,58.0,16.67,74.0
+1147,카메룬,frankmagri,Toulouse,26.0,Cameroon,gaelbellaondoua,29.0,67.0,62.0,60.0,58.0,64.0,60.0,70.0,80.0,74.0,64.0,65.0,9.0,67.5,63.67,48.0
+1148,카메룬,georgeskevinn'koudou,Al-Diraiyah,30.0,Cameroon,ignatiuskpeneganago,26.0,72.0,74.0,74.0,70.0,67.0,62.0,79.0,56.0,75.0,79.0,80.0,10.0,60.5,23.33,71.0
+1149,카메룬,ignatiusganago,New England Revolution,26.0,Cameroon,nathanngoumouminpole,25.0,72.0,72.0,73.0,67.0,69.0,64.0,83.0,70.0,67.0,77.0,94.0,10.67,63.5,35.33,69.0
+1150,카메룬,nathann'goumou,Borussia Mönchengladbach,25.0,Cameroon,daneldongmo,24.0,58.0,60.0,58.0,44.0,52.0,52.0,64.0,65.0,54.0,63.0,68.0,10.0,62.5,50.0,54.0
+1151,카메룬,nicolasngamaleu,Dinamo Moscow,31.0,Cameroon,daneldongmo,24.0,58.0,60.0,58.0,44.0,52.0,52.0,64.0,65.0,54.0,63.0,68.0,10.0,62.5,50.0,54.0
+1152,카메룬,patricksoko,Almeria,27.0,Cameroon,briceambina,23.0,67.0,66.0,60.0,63.0,64.0,46.0,70.0,77.0,65.0,62.0,67.0,8.33,66.5,63.33,49.0
+1153,카타르,vincentaboubakar,Hatayspor,33.0,Qatar,karimboudiafكريمبوضياف,34.0,71.0,74.0,69.0,72.0,69.0,65.0,50.0,77.0,78.0,69.0,50.0,12.0,74.5,66.33,60.0
+1154,카타르,mahmudabunada,Al-Arabi,,Qatar,guilhermedossantostorres,34.0,77.0,75.0,68.0,74.0,76.0,62.0,71.0,79.0,76.0,82.0,68.0,10.33,76.0,73.0,58.0
+1155,카타르,meshaalbarsham,Al-Sadd,27.0,Qatar,boualemkhoukhiبوعلامخوخي,34.0,71.0,61.0,48.0,68.0,66.0,39.0,56.0,77.0,79.0,77.0,63.0,10.0,65.0,70.67,49.0
+1156,카타르,salahzakaria,Al-Duhail SC,,Qatar,karimboudiafكريمبوضياف,34.0,71.0,74.0,69.0,72.0,69.0,65.0,50.0,77.0,78.0,69.0,50.0,12.0,74.5,66.33,60.0
+1157,카타르,abdullahyousif,카타르,,Qatar,ahmedsuhailalhamawendeاحمدسهيل,26.0,61.0,50.0,47.0,49.0,55.0,45.0,69.0,70.0,74.0,68.0,68.0,9.67,53.5,59.0,29.0
+1158,카타르,ahmedsuhail,Al-Sadd,,Qatar,karimboudiafكريمبوضياف,34.0,71.0,74.0,69.0,72.0,69.0,65.0,50.0,77.0,78.0,69.0,50.0,12.0,74.5,66.33,60.0
+1159,카타르,almahdialimukhtar,카타르,33.0,Qatar,guilhermedossantostorres,34.0,77.0,75.0,68.0,74.0,76.0,62.0,71.0,79.0,76.0,82.0,68.0,10.33,76.0,73.0,58.0
+1160,카타르,bassamalrawi,Al-Duhail SC,27.0,Qatar,boualemkhoukhiبوعلامخوخي,34.0,71.0,61.0,48.0,68.0,66.0,39.0,56.0,77.0,79.0,77.0,63.0,10.0,65.0,70.67,49.0
+1161,카타르,boualemkhoukhi,Al-Sadd,35.0,Qatar,boualemkhoukhiبوعلامخوخي,34.0,71.0,61.0,48.0,68.0,66.0,39.0,56.0,77.0,79.0,77.0,63.0,10.0,65.0,70.67,49.0
+1162,카타르,homamelamin,Al-Duhail SC,26.0,Qatar,pedromiguelcarvalhodeuscorreia,34.0,68.0,64.0,60.0,62.0,59.0,64.0,72.0,82.0,77.0,45.0,74.0,9.0,62.0,65.33,35.0
+1163,카타르,pedromiguel,Al-Sadd,35.0,Qatar,guilhermedossantostorres,34.0,77.0,75.0,68.0,74.0,76.0,62.0,71.0,79.0,76.0,82.0,68.0,10.33,76.0,73.0,58.0
+1164,카타르,sultanalbrake,Al-Duhail SC,29.0,Qatar,karimboudiafكريمبوضياف,34.0,71.0,74.0,69.0,72.0,69.0,65.0,50.0,77.0,78.0,69.0,50.0,12.0,74.5,66.33,60.0
+1165,카타르,tareksalman,Al-Sadd,27.0,Qatar,karimboudiafكريمبوضياف,34.0,71.0,74.0,69.0,72.0,69.0,65.0,50.0,77.0,78.0,69.0,50.0,12.0,74.5,66.33,60.0
+1166,카타르,abdulazizhatem,Al-Rayyan,34.0,Qatar,guilhermedossantostorres,34.0,77.0,75.0,68.0,74.0,76.0,62.0,71.0,79.0,76.0,82.0,68.0,10.33,76.0,73.0,58.0
+1167,카타르,ahmedfathi,Al-Arabi,32.0,Qatar,karimboudiafكريمبوضياف,34.0,71.0,74.0,69.0,72.0,69.0,65.0,50.0,77.0,78.0,69.0,50.0,12.0,74.5,66.33,60.0
+1168,카타르,assimmadibo,카타르,28.0,Qatar,guilhermedossantostorres,34.0,77.0,75.0,68.0,74.0,76.0,62.0,71.0,79.0,76.0,82.0,68.0,10.33,76.0,73.0,58.0
+1169,카타르,guilherme,Al-Sadd,34.0,Qatar,abdelkarimhassanalhajfadlalla,31.0,70.0,67.0,65.0,66.0,59.0,71.0,68.0,82.0,81.0,86.0,79.0,8.67,65.0,66.0,57.0
+1170,카타르,hassanalhaidos,Al-Sadd,34.0,Qatar,guilhermedossantostorres,34.0,77.0,75.0,68.0,74.0,76.0,62.0,71.0,79.0,76.0,82.0,68.0,10.33,76.0,73.0,58.0
+1171,카타르,jassemgaber,Al-Rayyan,23.0,Qatar,karimboudiafكريمبوضياف,34.0,71.0,74.0,69.0,72.0,69.0,65.0,50.0,77.0,78.0,69.0,50.0,12.0,74.5,66.33,60.0
+1172,카타르,karimboudiaf,Al-Duhail SC,35.0,Qatar,mohammedmuntariمحمدمونتاري,31.0,66.0,66.0,62.0,64.0,61.0,39.0,51.0,57.0,80.0,67.0,72.0,6.67,49.5,21.33,68.0
+1173,카타르,mohamedalmannai,Al-Shamal,,Qatar,guilhermedossantostorres,34.0,77.0,75.0,68.0,74.0,76.0,62.0,71.0,79.0,76.0,82.0,68.0,10.33,76.0,73.0,58.0
+1174,카타르,ahmedalganehi,Al-Gharafa,,Qatar,karimboudiafكريمبوضياف,34.0,71.0,74.0,69.0,72.0,69.0,65.0,50.0,77.0,78.0,69.0,50.0,12.0,74.5,66.33,60.0
+1175,카타르,ahmedalaaeldin,Al-Rayyan,32.0,Qatar,guilhermedossantostorres,34.0,77.0,75.0,68.0,74.0,76.0,62.0,71.0,79.0,76.0,82.0,68.0,10.33,76.0,73.0,58.0
+1176,카타르,ahmedalrawi,Al-Rayyan,21.0,Qatar,karimboudiafكريمبوضياف,34.0,71.0,74.0,69.0,72.0,69.0,65.0,50.0,77.0,78.0,69.0,50.0,12.0,74.5,66.33,60.0
+1177,카타르,akramafif,Al-Sadd,28.0,Qatar,guilhermedossantostorres,34.0,77.0,75.0,68.0,74.0,76.0,62.0,71.0,79.0,76.0,82.0,68.0,10.33,76.0,73.0,58.0
+1178,카타르,edmilsonjunior,Al-Duhail SC,31.0,Qatar,boualemkhoukhiبوعلامخوخي,34.0,71.0,61.0,48.0,68.0,66.0,39.0,56.0,77.0,79.0,77.0,63.0,10.0,65.0,70.67,49.0
+1179,카타르,ismaelmohammad,Al-Duhail SC,35.0,Qatar,mohammedmuntariمحمدمونتاري,31.0,66.0,66.0,62.0,64.0,61.0,39.0,51.0,57.0,80.0,67.0,72.0,6.67,49.5,21.33,68.0
+1180,카타르,mohamedgouda,카타르,,Qatar,mohammedmuntariمحمدمونتاري,31.0,66.0,66.0,62.0,64.0,61.0,39.0,51.0,57.0,80.0,67.0,72.0,6.67,49.5,21.33,68.0
+1181,카타르,mohammedmuntari,Al-Gharafa,31.0,Qatar,yusufabdurisagيوسفعبدالرزاق,25.0,65.0,67.0,67.0,53.0,65.0,59.0,78.0,53.0,53.0,55.0,86.0,11.67,56.0,30.0,60.0
+1182,남아프리카공화국,yusufabdurisag,Al-Sadd,26.0,South Africa,imeokon,21.0,67.0,68.0,56.0,51.0,58.0,41.0,79.0,64.0,72.0,53.0,76.0,9.67,48.5,67.67,22.0
+1183,남아프리카공화국,siphochaine,Orlando Pirates,,South Africa,giftlinks,26.0,72.0,70.0,73.0,67.0,66.0,72.0,89.0,79.0,61.0,61.0,85.0,9.67,66.5,64.67,56.0
+1184,남아프리카공화국,ronwenwilliams,Mamelodi Sundowns FC,1.0,South Africa,imeokon,21.0,67.0,68.0,56.0,51.0,58.0,41.0,79.0,64.0,72.0,53.0,76.0,9.67,48.5,67.67,22.0
+1185,남아프리카공화국,ricardogoss,0,22.0,South Africa,kobamelokodisang,25.0,68.0,68.0,67.0,60.0,64.0,62.0,83.0,54.0,48.0,64.0,84.0,12.0,59.5,26.67,70.0
+1186,남아프리카공화국,khulumanindamane,TS Galaxy,,South Africa,samukelokabini,21.0,63.0,63.0,59.0,54.0,58.0,58.0,70.0,63.0,60.0,31.0,72.0,9.0,56.0,58.67,25.0
+1187,남아프리카공화국,mbekezelimbokazi,Orlando Pirates,,South Africa,samukelokabini,21.0,63.0,63.0,59.0,54.0,58.0,58.0,70.0,63.0,60.0,31.0,72.0,9.0,56.0,58.67,25.0
+1188,남아프리카공화국,samukelokabini,Molde,,South Africa,siyabongangezana,27.0,73.0,60.0,57.0,70.0,70.0,30.0,75.0,80.0,83.0,45.0,75.0,11.0,62.5,74.67,40.0
+1189,남아프리카공화국,siyabongangezana,FCSB,28.0,South Africa,eliasmokwana,25.0,51.0,53.0,58.0,47.0,31.0,47.0,61.0,43.0,44.0,63.0,61.0,12.67,38.5,22.0,54.0
+1190,남아프리카공화국,thabisomonyane,Kaizer Chiefs,25.0,South Africa,imeokon,21.0,67.0,68.0,56.0,51.0,58.0,41.0,79.0,64.0,72.0,53.0,76.0,9.67,48.5,67.67,22.0
+1191,남아프리카공화국,imeokon,Hannover 96,5.0,South Africa,kobamelokodisang,25.0,68.0,68.0,67.0,60.0,64.0,62.0,83.0,54.0,48.0,64.0,84.0,12.0,59.5,26.67,70.0
+1192,남아프리카공화국,aubreymodiba,Mamelodi Sundowns FC,6.0,South Africa,kobamelokodisang,25.0,68.0,68.0,67.0,60.0,64.0,62.0,83.0,54.0,48.0,64.0,84.0,12.0,59.5,26.67,70.0
+1193,남아프리카공화국,thabomoloisane,Stellenbosch FC,8.0,South Africa,mohaunkota,20.0,64.0,61.0,68.0,46.0,57.0,56.0,92.0,67.0,40.0,71.0,90.0,10.0,52.0,20.67,58.0
+1194,남아프리카공화국,zukomdunyelwa,Mamelodi Sundowns FC,18.0,South Africa,olwethumakhanya,21.0,57.0,49.0,38.0,52.0,50.0,36.0,78.0,59.0,69.0,41.0,70.0,10.67,51.5,58.33,30.0
+1195,남아프리카공화국,bathusiaubaas,Mamelodi Sundowns FC,30.0,South Africa,lukegarethleroux,25.0,66.0,67.0,63.0,62.0,65.0,51.0,73.0,80.0,65.0,59.0,53.0,14.0,67.0,60.0,60.0
+1196,남아프리카공화국,lukeleroux,Portsmouth,25.0,South Africa,eliasmokwana,25.0,51.0,53.0,58.0,47.0,31.0,47.0,61.0,43.0,44.0,63.0,61.0,12.67,38.5,22.0,54.0
+1197,남아프리카공화국,patrickmaswanganyi,Orlando Pirates,,South Africa,imeokon,21.0,67.0,68.0,56.0,51.0,58.0,41.0,79.0,64.0,72.0,53.0,76.0,9.67,48.5,67.67,22.0
+1198,남아프리카공화국,siphombule,Orlando Pirates,27.0,South Africa,mohaunkota,20.0,64.0,61.0,68.0,46.0,57.0,56.0,92.0,67.0,40.0,71.0,90.0,10.0,52.0,20.67,58.0
+1199,남아프리카공화국,thalentembatha,Orlando Pirates,25.0,South Africa,eliasmokwana,25.0,51.0,53.0,58.0,47.0,31.0,47.0,61.0,43.0,44.0,63.0,61.0,12.67,38.5,22.0,54.0
+1200,남아프리카공화국,tebohomokoena,Mamelodi Sundowns FC,4.0,South Africa,mohaunkota,20.0,64.0,61.0,68.0,46.0,57.0,56.0,92.0,67.0,40.0,71.0,90.0,10.0,52.0,20.67,58.0
+1201,남아프리카공화국,mduduzishabalala,Kaizer Chiefs,,South Africa,lylebrentfoster,24.0,72.0,71.0,69.0,68.0,68.0,62.0,79.0,71.0,76.0,76.0,82.0,8.67,58.0,33.33,74.0
+1202,남아프리카공화국,lylefoster,Burnley,25.0,South Africa,mohaunkota,20.0,64.0,61.0,68.0,46.0,57.0,56.0,92.0,67.0,40.0,71.0,90.0,10.0,52.0,20.67,58.0
+1203,남아프리카공화국,mohaunkota,Al-Ettifaq,20.0,South Africa,lylebrentfoster,24.0,72.0,71.0,69.0,68.0,68.0,62.0,79.0,71.0,76.0,76.0,82.0,8.67,58.0,33.33,74.0
+1204,남아프리카공화국,relebohilemofokeng,Orlando Pirates,,South Africa,imeokon,21.0,67.0,68.0,56.0,51.0,58.0,41.0,79.0,64.0,72.0,53.0,76.0,9.67,48.5,67.67,22.0
+1205,남아프리카공화국,oswinappollis,Orlando Pirates,7.0,South Africa,imeokon,21.0,67.0,68.0,56.0,51.0,58.0,41.0,79.0,64.0,72.0,53.0,76.0,9.67,48.5,67.67,22.0
+1206,남아프리카공화국,iqraamrayners,Mamelodi Sundowns FC,18.0,South Africa,kgaogelochauke,22.0,61.0,61.0,63.0,56.0,61.0,52.0,74.0,69.0,59.0,59.0,69.0,10.67,61.5,56.33,55.0
+1207,칠레,kamogelosebelebele,Orlando Pirates,,Chile,lawrenceianvigouroux,31.0,71.0,30.0,25.0,55.0,65.0,20.0,48.0,36.0,63.0,52.0,45.0,71.0,45.5,14.67,17.0
+1208,칠레,lawrencevigouroux,Swansea City,31.0,Chile,nicolassuarez,19.0,60.0,45.0,35.0,43.0,50.0,41.0,59.0,66.0,70.0,38.0,63.0,7.67,45.5,61.33,26.0
+1209,칠레,thomasgillier,CF Montreal,21.0,Chile,ignacioperez,19.0,59.0,34.0,21.0,41.0,56.0,25.0,59.0,59.0,67.0,39.0,62.0,10.0,53.0,59.67,23.0
+1210,칠레,vicentereyes,Peterborough United,21.0,Chile,ignacioperez,19.0,59.0,34.0,21.0,41.0,56.0,25.0,59.0,59.0,67.0,39.0,62.0,10.0,53.0,59.67,23.0
+1211,칠레,benjaminkuscevic,Fortaleza,29.0,Chile,davidretamal,22.0,64.0,46.0,28.0,47.0,63.0,25.0,64.0,58.0,72.0,35.0,67.0,11.33,52.5,64.33,25.0
+1212,칠레,danielgonzalez,Universidad Catolica,23.0,Chile,davidretamal,22.0,64.0,46.0,28.0,47.0,63.0,25.0,64.0,58.0,72.0,35.0,67.0,11.33,52.5,64.33,25.0
+1213,칠레,estebanmatus,Audax Italiano,23.0,Chile,davidretamal,22.0,64.0,46.0,28.0,47.0,63.0,25.0,64.0,58.0,72.0,35.0,67.0,11.33,52.5,64.33,25.0
+1214,칠레,fabianhormazabal,Universidad de Chile,29.0,Chile,gabrielmaureira,18.0,59.0,19.0,11.0,27.0,58.0,14.0,31.0,27.0,70.0,44.0,26.0,58.33,23.0,9.0,6.0
+1215,칠레,guillermomaripan,Torino,31.0,Chile,ignacioperez,19.0,59.0,34.0,21.0,41.0,56.0,25.0,59.0,59.0,67.0,39.0,62.0,10.0,53.0,59.67,23.0
+1216,칠레,iangarguez,Palestino,20.0,Chile,davidretamal,22.0,64.0,46.0,28.0,47.0,63.0,25.0,64.0,58.0,72.0,35.0,67.0,11.33,52.5,64.33,25.0
+1217,칠레,ivanroman,Atletico MG,19.0,Chile,ignacioperez,19.0,59.0,34.0,21.0,41.0,56.0,25.0,59.0,59.0,67.0,39.0,62.0,10.0,53.0,59.67,23.0
+1218,칠레,paulodiaz,River Plate,31.0,Chile,ignacioperez,19.0,59.0,34.0,21.0,41.0,56.0,25.0,59.0,59.0,67.0,39.0,62.0,10.0,53.0,59.67,23.0
+1219,칠레,cesarperez,Defensa y Justicia,22.0,Chile,davidretamal,22.0,64.0,46.0,28.0,47.0,63.0,25.0,64.0,58.0,72.0,35.0,67.0,11.33,52.5,64.33,25.0
+1220,칠레,felipeloyola,Independiente,24.0,Chile,gabrielmaureira,18.0,59.0,19.0,11.0,27.0,58.0,14.0,31.0,27.0,70.0,44.0,26.0,58.33,23.0,9.0,6.0
+1221,칠레,gabrielsuazo,Sevilla,28.0,Chile,ignacioperez,19.0,59.0,34.0,21.0,41.0,56.0,25.0,59.0,59.0,67.0,39.0,62.0,10.0,53.0,59.67,23.0
+1222,칠레,ignaciosaavedra,PFC Sochi,26.0,Chile,davidretamal,22.0,64.0,46.0,28.0,47.0,63.0,25.0,64.0,58.0,72.0,35.0,67.0,11.33,52.5,64.33,25.0
+1223,칠레,javieraltamirano,Universidad de Chile,26.0,Chile,davidretamal,22.0,64.0,46.0,28.0,47.0,63.0,25.0,64.0,58.0,72.0,35.0,67.0,11.33,52.5,64.33,25.0
+1224,칠레,lucianocabral,Independiente,30.0,Chile,jasonmatiasleonalvear,25.0,61.0,63.0,60.0,54.0,53.0,62.0,74.0,57.0,40.0,50.0,70.0,8.0,61.5,55.0,42.0
+1225,칠레,matiassepulveda,Universidad de Chile,26.0,Chile,ignacioperez,19.0,59.0,34.0,21.0,41.0,56.0,25.0,59.0,59.0,67.0,39.0,62.0,10.0,53.0,59.67,23.0
+1226,칠레,rodrigoecheverria,Leon,30.0,Chile,nicolassuarez,19.0,60.0,45.0,35.0,43.0,50.0,41.0,59.0,66.0,70.0,38.0,63.0,7.67,45.5,61.33,26.0
+1227,칠레,vicentepizarro,Colo Colo,22.0,Chile,ignacioperez,19.0,59.0,34.0,21.0,41.0,56.0,25.0,59.0,59.0,67.0,39.0,62.0,10.0,53.0,59.67,23.0
+1228,칠레,alexanderaravena,Gremio,23.0,Chile,davidretamal,22.0,64.0,46.0,28.0,47.0,63.0,25.0,64.0,58.0,72.0,35.0,67.0,11.33,52.5,64.33,25.0
+1229,칠레,benbreretondiaz,Derby County,26.0,Chile,gabrielariasarroyo,37.0,77.0,40.0,25.0,45.0,76.0,15.0,45.0,35.0,67.0,54.0,44.0,76.0,40.0,24.0,18.0
+1230,칠레,brunobarticciotto,Santos Laguna,24.0,Chile,ignacioperez,19.0,59.0,34.0,21.0,41.0,56.0,25.0,59.0,59.0,67.0,39.0,62.0,10.0,53.0,59.67,23.0
+1231,칠레,darioosorio,FC Midtjylland,21.0,Chile,davidretamal,22.0,64.0,46.0,28.0,47.0,63.0,25.0,64.0,58.0,72.0,35.0,67.0,11.33,52.5,64.33,25.0
+1232,칠레,emilianoramos,Everton CD,20.0,Chile,ignacioperez,19.0,59.0,34.0,21.0,41.0,56.0,25.0,59.0,59.0,67.0,39.0,62.0,10.0,53.0,59.67,23.0
+1233,칠레,gonzalotapia,Sao Paulo,23.0,Chile,nicolassuarez,19.0,60.0,45.0,35.0,43.0,50.0,41.0,59.0,66.0,70.0,38.0,63.0,7.67,45.5,61.33,26.0
+1234,칠레,lucasassadi,Universidad de Chile,21.0,Chile,ignacioperez,19.0,59.0,34.0,21.0,41.0,56.0,25.0,59.0,59.0,67.0,39.0,62.0,10.0,53.0,59.67,23.0
+1235,칠레,lucascepeda,Colo Colo,22.0,Chile,matiasignacioperez,20.0,66.0,56.0,28.0,50.0,56.0,37.0,59.0,61.0,80.0,42.0,55.0,12.67,51.5,68.67,26.0
+1236,사우디아라비아,maximilianogutierrez,Huachipato,21.0,Saudi Arabia,abdulrahmanalghamdi,19.0,52.0,13.0,8.0,36.0,47.0,10.0,31.0,17.0,43.0,36.0,30.0,52.67,20.5,11.33,9.0
+1237,사우디아라비아,abdulrahmanalsanbi,Al Ahli,,Saudi Arabia,mohammedalhakim,20.0,51.0,12.0,10.0,31.0,44.0,11.0,22.0,16.0,54.0,39.0,23.0,51.33,22.5,10.0,6.0
+1238,사우디아라비아,mohammedalyami,Al Hilal,28.0,Saudi Arabia,farhanalaazmi,30.0,57.0,52.0,54.0,48.0,50.0,53.0,70.0,62.0,59.0,47.0,72.0,10.67,52.0,52.33,38.0
+1239,사우디아라비아,nawafalaqidi,Al Nassr FC,25.0,Saudi Arabia,osamaalbawardi,26.0,54.0,50.0,52.0,42.0,52.0,45.0,61.0,61.0,41.0,30.0,55.0,12.0,44.0,52.0,26.0
+1240,사우디아라비아,osamaalmermesh,Al Ittihad,,Saudi Arabia,alialmasoud,21.0,55.0,59.0,50.0,43.0,55.0,44.0,64.0,52.0,55.0,52.0,64.0,12.0,45.0,34.33,58.0
+1241,사우디아라비아,alimajrashi,Al Ahli,,Saudi Arabia,hassanalirabea,22.0,49.0,32.0,39.0,38.0,49.0,26.0,54.0,60.0,47.0,38.0,60.0,10.33,34.0,51.67,26.0
+1242,사우디아라비아,hassanaltambakti,Al Hilal,26.0,Saudi Arabia,emadqaysi,18.0,52.0,49.0,53.0,39.0,48.0,47.0,68.0,47.0,53.0,45.0,73.0,9.33,46.5,40.0,44.0
+1243,사우디아라비아,jehadthakri,Al Qadasiya,,Saudi Arabia,mohammedalshammari,18.0,51.0,33.0,54.0,38.0,48.0,44.0,67.0,55.0,51.0,28.0,60.0,12.67,25.0,49.0,29.0
+1244,사우디아라비아,mohammedalshanqiti,Al Qadasiya,,Saudi Arabia,mohammedmuhaysh,19.0,52.0,48.0,47.0,40.0,45.0,45.0,71.0,50.0,51.0,27.0,68.0,9.0,43.5,48.0,28.0
+1245,사우디아라비아,mohammedsulaiman,Al Ahli,,Saudi Arabia,ammaralharfi,24.0,54.0,30.0,48.0,38.0,48.0,42.0,67.0,64.0,50.0,22.0,56.0,9.0,24.5,60.67,28.0
+1246,사우디아라비아,motebalharbi,Al Hilal,25.0,Saudi Arabia,muhannadalyahya,20.0,50.0,10.0,14.0,23.0,30.0,10.0,26.0,16.0,62.0,37.0,26.0,53.67,19.5,12.0,9.0
+1247,사우디아라비아,muhannadshanqeeti,Al Ittihad,,Saudi Arabia,alialhussain,20.0,54.0,59.0,56.0,61.0,50.0,41.0,68.0,58.0,62.0,39.0,63.0,11.0,57.0,49.0,32.0
+1248,사우디아라비아,nawafalboushail,Al Nassr FC,26.0,Saudi Arabia,saadalmutairi,18.0,53.0,50.0,51.0,42.0,46.0,48.0,70.0,49.0,58.0,32.0,75.0,8.0,49.0,47.33,29.0
+1249,사우디아라비아,saadalmousa,Al Ittihad,,Saudi Arabia,jawadalhassan,21.0,51.0,52.0,53.0,44.0,45.0,45.0,66.0,53.0,48.0,46.0,53.0,9.67,44.5,43.0,44.0
+1250,사우디아라비아,saadalnasser,Al Nassr FC,24.0,Saudi Arabia,abdullahalzaid,21.0,55.0,54.0,55.0,50.0,50.0,51.0,70.0,57.0,58.0,52.0,73.0,12.67,49.0,47.33,47.0
+1251,사우디아라비아,abdullahalhamdan,Al Hilal,26.0,Saudi Arabia,abdulrahmanalkhaibari,25.0,52.0,27.0,46.0,38.0,49.0,39.0,65.0,60.0,52.0,28.0,55.0,8.0,27.5,56.67,21.0
+1252,사우디아라비아,abdullahalkhaibari,Al Nassr FC,29.0,Saudi Arabia,alialmasoud,21.0,55.0,59.0,50.0,43.0,55.0,44.0,64.0,52.0,55.0,52.0,64.0,12.0,45.0,34.33,58.0
+1253,사우디아라비아,aymanahmed,Al Nassr FC,,Saudi Arabia,mohamedalthani,28.0,61.0,65.0,64.0,52.0,59.0,57.0,79.0,76.0,52.0,51.0,81.0,9.33,50.5,50.33,56.0
+1254,사우디아라비아,mohamedkanno,Al Hilal,31.0,Saudi Arabia,mishalsaad,19.0,52.0,10.0,11.0,23.0,40.0,13.0,19.0,18.0,45.0,37.0,26.0,51.0,16.0,11.0,6.0
+1255,사우디아라비아,mukhtarsheik,Al-Ettifaq,,Saudi Arabia,ammaralhudaybi,18.0,48.0,38.0,53.0,36.0,48.0,38.0,57.0,56.0,47.0,23.0,52.0,13.33,26.5,46.33,26.0
+1256,사우디아라비아,musabaljuwayr,Al Qadasiya,22.0,Saudi Arabia,mohammedaldawsari,24.0,54.0,40.0,31.0,39.0,51.0,32.0,51.0,62.0,70.0,30.0,52.0,8.67,45.5,54.67,23.0
+1257,사우디아라비아,nasseraldawsari,Al Hilal,26.0,Saudi Arabia,ziyadalghamdi,20.0,47.0,41.0,40.0,43.0,46.0,39.0,62.0,62.0,52.0,52.0,63.0,11.33,55.0,36.33,25.0
+1258,사우디아라비아,ziyadaljohani,Al Ahli,,Saudi Arabia,abdulrahmanalobaid,20.0,54.0,39.0,30.0,43.0,47.0,27.0,53.0,52.0,77.0,39.0,64.0,10.33,45.0,51.0,21.0
+1259,사우디아라비아,abdulrahmanalobood,Al Ittihad,30.0,Saudi Arabia,faisalalmutairi,29.0,56.0,57.0,62.0,55.0,53.0,51.0,64.0,42.0,44.0,48.0,56.0,12.0,54.5,26.67,52.0
+1260,사우디아라비아,firasalburaikan,Al Ahli,25.0,Saudi Arabia,farhanalaazmi,30.0,57.0,52.0,54.0,48.0,50.0,53.0,70.0,62.0,59.0,47.0,72.0,10.67,52.0,52.33,38.0
+1261,사우디아라비아,marwanalsahafi,Royal Antwerp,21.0,Saudi Arabia,muhannadalyahya,20.0,50.0,10.0,14.0,23.0,30.0,10.0,26.0,16.0,62.0,37.0,26.0,53.67,19.5,12.0,9.0
+1262,사우디아라비아,muhannadalsaad,Lausanne,22.0,Saudi Arabia,salehbarnawi,18.0,51.0,41.0,33.0,40.0,44.0,32.0,64.0,49.0,65.0,36.0,52.0,7.33,46.5,50.33,29.0
+1263,사우디아라비아,salehabualshamat,Al Ahli,,Saudi Arabia,faresalghamdi,21.0,50.0,57.0,43.0,40.0,49.0,37.0,55.0,50.0,47.0,50.0,53.0,11.0,54.0,40.33,24.0
+1264,사우디아라비아,salehalshehri,Al Ittihad,31.0,Saudi Arabia,mohammedaldawsari,24.0,54.0,40.0,31.0,39.0,51.0,32.0,51.0,62.0,70.0,30.0,52.0,8.67,45.5,54.67,23.0
+1265,온두라스,salemaldawsari,Al Hilal,34.0,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1266,온두라스,edrickmenjivar,CD Olimpia,,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1267,온두라스,luislopez,Real Espana,,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1268,온두라스,luisortiz,온두라스,,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1269,온두라스,andynajar,Nashville SC,32.0,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1270,온두라스,cristophermelendez,FC Motagua,,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1271,온두라스,franklinflores,Real Espana,,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1272,온두라스,getselmontes,Club Sport Herediano,,Honduras,josephyerimidrosaleserazo,24.0,67.0,65.0,67.0,61.0,65.0,63.0,77.0,74.0,59.0,58.0,80.0,9.67,59.5,64.33,39.0
+1273,온두라스,josephrosales,Minnesota United,24.0,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1274,온두라스,julianmartinez,Alverca,21.0,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1275,온두라스,luiscrisanto,Juticalpa,,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1276,온두라스,raulgarcia,Lobos UPNFM,,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1277,온두라스,alexyvega,CD Marathon,,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1278,온두라스,carlospineda,Sporting FC,,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1279,온두라스,davidruiz,Inter Miami CF,21.0,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1280,온두라스,denismelendez,FC Motagua,,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1281,온두라스,deybiflores,Al Najma,29.0,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1282,온두라스,edwinrodriguez,CD Olimpia,,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1283,온두라스,jorgealvarez,CD Olimpia,,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1284,온두라스,raulsantos,FC Motagua,,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1285,온두라스,alenisvargas,SJK,21.0,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1286,온두라스,anthonylozano,Santos Laguna,32.0,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1287,온두라스,jorgebenguche,CD Olimpia,,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1288,온두라스,josemariopinto,CD Olimpia,,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1289,온두라스,justinarboleda,CD Olimpia,,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1290,온두라스,luispalma,Lech Poznan,25.0,Honduras,julianmartinez,21.0,65.0,68.0,54.0,45.0,67.0,50.0,63.0,56.0,55.0,45.0,64.0,11.67,52.5,67.0,24.0
+1291,가나,romellquioto,Al Najma,34.0,Ghana,nasirumoro,28.0,62.0,53.0,49.0,44.0,60.0,38.0,55.0,67.0,80.0,59.0,60.0,13.0,62.0,59.0,20.0
+1292,가나,benjaminasare,가나,,Ghana,josephaidoo,29.0,75.0,58.0,35.0,63.0,73.0,34.0,66.0,65.0,86.0,50.0,72.0,10.0,59.5,73.33,18.0
+1293,가나,josephanang,St. Patrick's Athletic,25.0,Ghana,josephlukewollacott,28.0,63.0,26.0,12.0,33.0,60.0,13.0,40.0,39.0,63.0,46.0,42.0,63.0,47.0,12.33,19.0
+1294,가나,josephwollacott,Crawley Town,29.0,Ghana,lawrenceatizigi,28.0,73.0,24.0,11.0,26.0,71.0,14.0,45.0,32.0,75.0,50.0,33.0,73.0,23.5,16.33,18.0
+1295,가나,lawrenceatizigi,St. Gallen,28.0,Ghana,leonardowusu,28.0,67.0,63.0,61.0,53.0,59.0,35.0,64.0,74.0,77.0,58.0,52.0,13.0,67.0,63.33,34.0
+1296,가나,alexanderdjiku,Spartak Moscow,31.0,Ghana,ebenezerannan,22.0,67.0,57.0,56.0,47.0,59.0,58.0,73.0,66.0,68.0,31.0,70.0,11.67,60.5,67.33,21.0
+1297,가나,ebenezerannan,Saint-Etienne,23.0,Ghana,gideonmensah,26.0,74.0,71.0,72.0,63.0,70.0,71.0,77.0,79.0,57.0,67.0,76.0,8.67,67.0,70.0,54.0
+1298,가나,gideonmensah,Auxerre,27.0,Ghana,jeromeoseiopoku,26.0,72.0,65.0,55.0,58.0,59.0,55.0,63.0,68.0,89.0,60.0,56.0,13.67,58.0,74.0,35.0
+1299,가나,jeromeopoku,Başakşehir,26.0,Ghana,jonasadjeiadjetey,21.0,70.0,70.0,26.0,68.0,70.0,23.0,72.0,74.0,73.0,32.0,69.0,9.0,64.0,73.0,21.0
+1300,가나,jonasadjeiadjetey,Basel,21.0,Ghana,manuduah,19.0,53.0,58.0,53.0,49.0,52.0,31.0,65.0,58.0,68.0,51.0,63.0,11.33,55.0,40.33,44.0
+1301,가나,mamudukamaradin,Medeama SC,,Ghana,mohammedsofo,20.0,64.0,61.0,71.0,50.0,52.0,60.0,77.0,60.0,53.0,68.0,78.0,10.67,57.0,32.67,70.0
+1302,가나,mohammedsalisu,Monaco,26.0,Ghana,jamesampofo,21.0,63.0,63.0,62.0,59.0,59.0,53.0,83.0,60.0,59.0,59.0,85.0,10.0,56.0,15.0,64.0
+1303,가나,razaksimpson,Nations FC,,Ghana,jamesampofo,21.0,63.0,63.0,62.0,59.0,59.0,53.0,83.0,60.0,59.0,59.0,85.0,10.0,56.0,15.0,64.0
+1304,가나,tariqlamptey,Fiorentina,24.0,Ghana,abufrancis,24.0,68.0,73.0,69.0,68.0,65.0,54.0,72.0,66.0,71.0,72.0,72.0,9.33,68.5,64.0,66.0
+1305,가나,abufrancis,Toulouse,24.0,Ghana,calebmarfoyirenkyi,19.0,67.0,68.0,66.0,63.0,67.0,45.0,66.0,77.0,69.0,54.0,66.0,11.0,66.0,62.33,64.0
+1306,가나,calebyirenkyi,Nordsjælland,,Ghana,yawackah,26.0,66.0,70.0,63.0,69.0,65.0,47.0,50.0,67.0,40.0,63.0,70.0,9.0,60.0,65.67,38.0
+1307,가나,derrickkohn,Union Berlin,26.0,Ghana,elishaowusu,27.0,73.0,72.0,70.0,68.0,71.0,60.0,62.0,76.0,68.0,68.0,50.0,11.0,73.5,72.0,47.0
+1308,가나,elishaowusu,Auxerre,27.0,Ghana,ibrahimsulemanakakari,22.0,71.0,68.0,66.0,66.0,72.0,58.0,75.0,69.0,66.0,77.0,67.0,9.33,69.0,71.0,55.0
+1309,가나,ibrahimsulemana,Bologna,22.0,Ghana,kwasisibo,27.0,69.0,68.0,65.0,55.0,65.0,49.0,59.0,80.0,80.0,66.0,66.0,11.67,64.5,67.67,48.0
+1310,가나,kwasisibo,Real Oviedo,27.0,Ghana,lawrenceagyekum,21.0,62.0,66.0,74.0,50.0,61.0,46.0,80.0,55.0,35.0,52.0,70.0,13.0,62.0,51.0,47.0
+1311,가나,lawrenceagyekum,Cercle Brugge,21.0,Ghana,salisabdulsamed,25.0,73.0,72.0,66.0,74.0,70.0,48.0,61.0,80.0,73.0,49.0,56.0,9.67,71.0,71.0,51.0
+1312,가나,salisabdulsamed,Nice,25.0,Ghana,thomasteyepartey,32.0,83.0,81.0,80.0,85.0,80.0,74.0,53.0,76.0,84.0,85.0,63.0,9.0,84.5,80.67,66.0
+1313,가나,thomaspartey,Villarreal,32.0,Ghana,antoineserlomsemenyo,25.0,80.0,81.0,82.0,79.0,79.0,74.0,78.0,84.0,79.0,81.0,82.0,10.67,71.5,36.33,83.0
+1314,가나,antoinesemenyo,AFC Bournemouth,25.0,Ghana,christopherbansubaah,20.0,73.0,76.0,79.0,69.0,72.0,67.0,89.0,72.0,65.0,74.0,85.0,7.0,60.5,35.0,61.0
+1315,가나,christopherbonsubaah,Al Qadasiya,20.0,Ghana,ernestnuamahappiah,21.0,75.0,78.0,80.0,72.0,72.0,71.0,85.0,62.0,62.0,77.0,79.0,11.0,66.5,24.33,71.0
+1316,가나,ernestnuamah,Lyon,21.0,Ghana,ibrahimsadiq,25.0,72.0,72.0,74.0,63.0,70.0,64.0,91.0,77.0,67.0,66.0,81.0,13.0,59.0,30.0,69.0
+1317,가나,ibrahimosman,Auxerre,20.0,Ghana,inakiwilliamsarthuer,31.0,83.0,80.0,83.0,78.0,83.0,78.0,93.0,88.0,84.0,86.0,94.0,12.33,70.5,42.67,82.0
+1318,가나,inakiwilliams,Athletic Club,31.0,Ghana,jerryafriyie,18.0,49.0,53.0,54.0,42.0,32.0,47.0,62.0,47.0,60.0,64.0,61.0,12.33,39.0,22.67,51.0
+1319,가나,jerryafriyie,RAAL La Louviere,,Ghana,jordanpierreayew,33.0,73.0,75.0,76.0,72.0,74.0,74.0,68.0,68.0,71.0,75.0,65.0,10.0,66.0,54.0,73.0
+1320,가나,jordanayew,Leicester City,34.0,Ghana,josephmartinpaintsil,27.0,76.0,74.0,82.0,71.0,74.0,71.0,92.0,77.0,70.0,69.0,89.0,11.67,62.5,33.33,73.0
+1321,가나,josephpaintsil,LA Galaxy,27.0,Ghana,kamaldeensulemana,23.0,71.0,71.0,77.0,69.0,64.0,62.0,90.0,62.0,60.0,66.0,86.0,10.67,62.0,26.67,63.0
+1322,가나,kamaldeensulemana,Atalanta,23.0,Ghana,kingsleyschindler,31.0,69.0,71.0,68.0,59.0,69.0,70.0,82.0,69.0,74.0,69.0,79.0,9.67,60.5,48.0,62.0
+1323,가나,kingsleyschindler,가나,32.0,Ghana,mohammedkudus,24.0,80.0,83.0,88.0,80.0,77.0,70.0,91.0,73.0,76.0,81.0,88.0,7.67,72.0,57.33,76.0
+1324,앙골라,mohammedkudus,Tottenham Hotspur,25.0,Angola,mbalan'zola,28.0,75.0,76.0,74.0,76.0,73.0,52.0,83.0,62.0,92.0,78.0,87.0,13.33,65.5,24.0,74.0
+1325,앙골라,signoriantonio,Etoile Carouge,1.0,Angola,antoniosimaomuanza,21.0,69.0,75.0,73.0,60.0,62.0,42.0,64.0,69.0,70.0,67.0,67.0,8.33,71.5,64.33,40.0
+1326,앙골라,agostinhocalunga,앙골라,,Angola,mbalan'zola,28.0,75.0,76.0,74.0,76.0,73.0,52.0,83.0,62.0,92.0,78.0,87.0,13.33,65.5,24.0,74.0
+1327,앙골라,neblu,0,22.0,Angola,mbalan'zola,28.0,75.0,76.0,74.0,76.0,73.0,52.0,83.0,62.0,92.0,78.0,87.0,13.33,65.5,24.0,74.0
+1328,앙골라,clintonmata,Lyon,32.0,Angola,mbalan'zola,28.0,75.0,76.0,74.0,76.0,73.0,52.0,83.0,62.0,92.0,78.0,87.0,13.33,65.5,24.0,74.0
+1329,앙골라,davidcarmo,Real Oviedo,26.0,Angola,mbalan'zola,28.0,75.0,76.0,74.0,76.0,73.0,52.0,83.0,62.0,92.0,78.0,87.0,13.33,65.5,24.0,74.0
+1330,앙골라,nuriofortuna,NFC Volos,2.0,Angola,jonathanbuatumananga,31.0,69.0,62.0,52.0,67.0,66.0,51.0,58.0,79.0,82.0,64.0,54.0,10.33,61.0,69.0,32.0
+1331,앙골라,jonathanbuatu,Gil Vicente,3.0,Angola,esmevaniokialondagaspar,27.0,74.0,58.0,54.0,62.0,69.0,32.0,63.0,79.0,89.0,48.0,64.0,9.0,52.5,76.33,25.0
+1332,앙골라,kialondagaspar,Lecce,6.0,Angola,pedrobondofrancisco,20.0,66.0,65.0,67.0,51.0,70.0,67.0,78.0,71.0,64.0,37.0,79.0,9.67,50.0,59.67,42.0
+1333,앙골라,pedrobondo,Famalicao,13.0,Angola,mbalan'zola,28.0,75.0,76.0,74.0,76.0,73.0,52.0,83.0,62.0,92.0,78.0,87.0,13.33,65.5,24.0,74.0
+1334,앙골라,eddieafonso,Petro Atletico,21.0,Angola,andersonlendalucoqui,27.0,66.0,65.0,68.0,58.0,61.0,64.0,79.0,63.0,66.0,59.0,75.0,10.33,61.5,61.67,35.0
+1335,앙골라,andersoncruz,Petro Atletico,26.0,Angola,mbalan'zola,28.0,75.0,76.0,74.0,76.0,73.0,52.0,83.0,62.0,92.0,78.0,87.0,13.33,65.5,24.0,74.0
+1336,앙골라,hossi,Petro Atletico,,Angola,mbalan'zola,28.0,75.0,76.0,74.0,76.0,73.0,52.0,83.0,62.0,92.0,78.0,87.0,13.33,65.5,24.0,74.0
+1337,앙골라,beni,Vitoria de Guimaraes,8.0,Angola,mbalan'zola,28.0,75.0,76.0,74.0,76.0,73.0,52.0,83.0,62.0,92.0,78.0,87.0,13.33,65.5,24.0,74.0
+1338,앙골라,maestro,Alanyaspor,10.0,Angola,mbalan'zola,28.0,75.0,76.0,74.0,76.0,73.0,52.0,83.0,62.0,92.0,78.0,87.0,13.33,65.5,24.0,74.0
+1339,앙골라,fredy,Bodrum FK,16.0,Angola,mbalan'zola,28.0,75.0,76.0,74.0,76.0,73.0,52.0,83.0,62.0,92.0,78.0,87.0,13.33,65.5,24.0,74.0
+1340,앙골라,show,Kocaelispor,23.0,Angola,mbalan'zola,28.0,75.0,76.0,74.0,76.0,73.0,52.0,83.0,62.0,92.0,78.0,87.0,13.33,65.5,24.0,74.0
+1341,앙골라,capita,Radomiak Radom,23.0,Angola,mbalan'zola,28.0,75.0,76.0,74.0,76.0,73.0,52.0,83.0,62.0,92.0,78.0,87.0,13.33,65.5,24.0,74.0
+1342,앙골라,m'balanzola,Pisa,29.0,Angola,mbalan'zola,28.0,75.0,76.0,74.0,76.0,73.0,52.0,83.0,62.0,92.0,78.0,87.0,13.33,65.5,24.0,74.0
+1343,앙골라,manuelbenson,Swansea City,28.0,Angola,mbalan'zola,28.0,75.0,76.0,74.0,76.0,73.0,52.0,83.0,62.0,92.0,78.0,87.0,13.33,65.5,24.0,74.0
+1344,앙골라,zine,AEK Athens,9.0,Angola,mbalan'zola,28.0,75.0,76.0,74.0,76.0,73.0,52.0,83.0,62.0,92.0,78.0,87.0,13.33,65.5,24.0,74.0
+1345,앙골라,milson,FK Crvena Zvezda,11.0,Angola,mbalan'zola,28.0,75.0,76.0,74.0,76.0,73.0,52.0,83.0,62.0,92.0,78.0,87.0,13.33,65.5,24.0,74.0
+1346,앙골라,zitoluvumbo,Cagliari,15.0,Angola,mbalan'zola,28.0,75.0,76.0,74.0,76.0,73.0,52.0,83.0,62.0,92.0,78.0,87.0,13.33,65.5,24.0,74.0
+1347,앙골라,randynteka,Rayo Vallecano,17.0,Angola,mbalan'zola,28.0,75.0,76.0,74.0,76.0,73.0,52.0,83.0,62.0,92.0,78.0,87.0,13.33,65.5,24.0,74.0
+1348,앙골라,Laurindo Dilson Maria Aurélio,Radomiak Radom,19.0,Angola,Laurindo Dilson Maria Aurélio,,64.0,62.0,61.0,59.0,62.0,39.0,63.0,62.0,72.0,69.0,64.0,11.0,42.5,17.33,64.0
