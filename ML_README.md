@@ -291,6 +291,7 @@
 ```
 
    <img width="500" alt="화면 캡처 2025-09-28 035717" src="https://github.com/user-attachments/assets/d3759412-04a9-44a3-adfc-e52611b41f6d" />
+
 - *노란색: 통과한 나라
 
 ### 4️⃣ 토너먼트
