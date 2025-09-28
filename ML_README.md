@@ -198,8 +198,6 @@
 |  Precision (Macro)  |  0.7376  |
 |  Recall (Macro)  |  0.7306  |
 
-    </td>
-    <td>
 
 ### Feature Importance
 
@@ -293,7 +291,9 @@
 패배: 0점
 
 **동점 시 우선순위**
+
 득실차: 득점과 실점의 차이가 큰 팀이 우선
+
 다득점: 총 득점이 많은 팀이 우선
 
 </aside>
