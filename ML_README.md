@@ -118,7 +118,7 @@
     - **월드컵 출전국들의 선수 명단 선정 방식**
         - **게임 FIFA스탯을 기준으로 실제 월드컵 명단처럼 구성 후 시뮬레이션 진행**
     - **2018년도 예측 데이터**
-        - **Feature Importances**: **`Avg_Famous`**는 큰 비중 차지 X
+        - **Feature Importances**: `Avg_Famous`는 큰 비중 차지 X
         - **`Avg_Famous`** 값이 유난히 높게 나타난 스페인이 월드컵에 우승할 것으로 예측
         - 매치 결과 예측을 이용한 방식이 EDA 과정에서 높은 상관관계를 보인 특성과 잘 맞아 떨어지는 것으로 보아 매치 결과 예측을 이용한 방식이 효과적임을 확인 가능
         <img width="513" height="151" alt="image" src="https://github.com/user-attachments/assets/9436ccf0-6364-418c-b912-5e9e377849ee" />
@@ -301,7 +301,8 @@
     - 각 조 1, 2위 → 24개팀
     - 조별 3위 중 가장 좋은 성적을 거둔 8개 팀 추가→ 총 32개 팀
 - 토너먼트 진행: **32강 → 16강 → 8강 → 4강 → 결승**
-<img width="912" height="714" alt="image" src="https://github.com/user-attachments/assets/18838e55-2b90-45d2-a454-1f6fa7ca2d5e" />
+<img width="1012" height="797" alt="image" src="https://github.com/user-attachments/assets/883de6e0-3d06-44c3-b521-f0624ce90e51" />
+
 
 
 ---
