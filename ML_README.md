@@ -290,7 +290,8 @@
 - 다득점: 총 득점이 많은 팀이 우선
 ```
 
-   <img width="500" alt="화면 캡처 2025-09-28 035717" src="https://github.com/user-attachments/assets/d3759412-04a9-44a3-adfc-e52611b41f6d" />
+<img width="653" height="534" alt="image" src="https://github.com/user-attachments/assets/2c5f9afb-baa7-4a0a-b426-2be15f06a4cf" />
+
 
 - *노란색: 통과한 나라
 
