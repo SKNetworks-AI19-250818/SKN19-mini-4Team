@@ -317,6 +317,8 @@
 <img width="1586" height="785" alt="image (2)" src="https://github.com/user-attachments/assets/eb714ea7-78d4-4a8f-b71a-a87395c3085c" />
 <img width="847" height="547" alt="image (3)" src="https://github.com/user-attachments/assets/16bc1c6c-ef5f-4d5d-9388-3d9ba7160081" />
 
+<img width="658" height="822" alt="image" src="https://github.com/user-attachments/assets/7a216bb8-a351-432b-810f-9a61bef6efb0" />
+
 ---
 
 ## 💡시도한 아이디어
