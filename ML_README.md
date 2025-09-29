@@ -257,6 +257,7 @@
 
 ### 2️⃣ 피파 랭킹에 따른 시드 배정
 
+
    | 1시드 | 2시드 | 3시드 | 4시드 |
    | --- | --- | --- | --- |
    | 미국 | 이탈리아 | 에콰도르 | 나이지리아 |
@@ -289,6 +290,9 @@
 - 득실차: 득점과 실점의 차이가 큰 팀이 우선
 - 다득점: 총 득점이 많은 팀이 우선
 ```
+
+<img width="716" height="550" alt="image" src="https://github.com/user-attachments/assets/f02a9f06-93bc-4464-90fb-54a624e7bed9" />
+
 
 <img width="653" height="534" alt="image" src="https://github.com/user-attachments/assets/2c5f9afb-baa7-4a0a-b426-2be15f06a4cf" />
 
