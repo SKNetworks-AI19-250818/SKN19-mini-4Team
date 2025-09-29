@@ -301,7 +301,8 @@
     - 각 조 1, 2위 → 24개팀
     - 조별 3위 중 가장 좋은 성적을 거둔 8개 팀 추가→ 총 32개 팀
 - 토너먼트 진행: **32강 → 16강 → 8강 → 4강 → 결승**
-<img width="1012" height="797" alt="image" src="https://github.com/user-attachments/assets/883de6e0-3d06-44c3-b521-f0624ce90e51" />
+<img width="947" height="706" alt="image" src="https://github.com/user-attachments/assets/d00d2fc3-a5f5-4446-be5d-d47585d31d9b" />
+
 
 
 
